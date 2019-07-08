@@ -24,6 +24,7 @@
 ## Assemblers
 
 * [ARM9/bass](https://github.com/ARM9/bass) - A fork of [bass](https://byuu.org/tool/bass/) which has been updated with N64 MIPS/RSP/RDP output
+* [ARMIPS](https://github.com/Kingcom/armips) - An assembler for various ARM and MIPS platforms
 * [Screwaround64](https://github.com/superjack111/screwaround64) - An interactive assembler for Nintendo 64
 
 ## Emulators
