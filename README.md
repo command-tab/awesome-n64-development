@@ -51,6 +51,8 @@
 * [pseultra](https://github.com/pseudophpt/pseultra) - A collection of tools used to develop software for the Nintendo 64 that are distinct from the official SDK
 * [spicy](https://github.com/trhodeos/spicy) - An open-source version of the Nintendo 64 SDK's `mild.exe`. Assembles segments into an N64-compatible ROM.
 * [makemask](https://github.com/trhodeos/makemask) - An open-source replacement of the Nintendo 64 SDK's `makemask.exe`. Adds a mask to a compiled ROM which pads the file and adds CIC information.
+* [Online Disassembler](https://onlinedisassembler.com/odaweb/) - A lightweight, online service for when you don't have the time, resources, or requirements to use a heavier-weight alternative
+* [Compiler Explorer](https://godbolt.org) - Explore how your C, C++, Rust, or other compiled language code ends up looking after compilation
 
 ## Development Hardware
 
