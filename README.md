@@ -84,3 +84,9 @@
 ## Rust Programming
 
 * [cargo-n64](https://github.com/rust-console/cargo-n64) - A `cargo` subcommand to build Nintendo 64 ROMs in Rust
+* [n64toolchain](https://github.com/monocasa/n64toolchain) - Rust Implementation of Nintendo 64 ROM toolchain
+* [rs64-rt](https://github.com/monocasa/rs64-rt) - Minimal Rust startup / runtime for Nintendo 64
+* [rs64-periph](https://github.com/monocasa/rs64-periph) - Fairly raw N64 MMIO definitions
+* [rs64-rom](https://github.com/monocasa/rs64-rom) - Rust library from manipulating Nintendo 64 ROM images
+* [rs64romtool](https://github.com/monocasa/rs64romtool) - Tool for manipulating Nintendo 64 ROM images (depends on rs64-rom)
+* [rrt0](https://github.com/rust-console/rrt0) - A simple cross-platform runtime / startup for Rust on embedded devices
