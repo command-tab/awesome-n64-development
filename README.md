@@ -31,6 +31,7 @@
 ## Emulators
 
 * [cen64](https://github.com/n64dev/cen64) - A [cycle-accurate](https://retrocomputing.stackexchange.com/questions/1191/what-exactly-is-a-cycle-accurate-emulator) Nintendo 64 emulator for Windows, Linux, and Mac. While currently not fast enough to play games at full speed, it aims perfect emulation by emulating the hardware inside of the console down to the register-transfer level.
+* [cor64](https://github.com/bryanperris/cor64) - An in-progress Nintendo 64 emulator written in C#
 * [Project64](https://www.pj64-emu.com) ([GitHub](https://github.com/project64/project64)) ([with Debugger](http://shygoo.net/pj64d/)) - An open source Nintendo 64 emulator for Windows and Android
 * [1964](http://1964emu.emulation64.com) - An open-source Nintendo 64 emulator for Windows. No longer maintained.
 * [mupen64](http://mupen64.emulation64.com) - An open-source, multi-platform Nintendo 64 emulator. No longer maintained.
