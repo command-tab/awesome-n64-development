@@ -52,7 +52,7 @@
 * [libdragon](https://github.com/DragonMinded/libdragon) - An open-source library for Nintendo 64 development
 * [pseultra](https://github.com/pseudophpt/pseultra) - A collection of tools used to develop software for the Nintendo 64 that are distinct from the official SDK
 * [libreultra](https://github.com/n64decomp/libreultra) - A decompilation of the Nintendo 64 standard SDK library, libultra
-* [spicy](https://github.com/trhodeos/spicy) - An open-source replacement of the Nintendo 64 SDK's `mild.exe` (referenced by `$(MAKEROM)` in many Makefiles). Assembles segments into an N64-compatible ROM.
+* [spicy](https://github.com/trhodeos/spicy) - An open-source replacement of the Nintendo 64 SDK's `mild.exe` (referenced by `$(MAKEROM)` in many Makefiles). Packs object files into an N64-compatible ROM.
 * [makemask](https://github.com/trhodeos/makemask) - An open-source replacement of the Nintendo 64 SDK's `makemask.exe`. Adds a mask to a compiled ROM which pads the file to fill the entire cartridge space, adds a CIC version, and adds informational headers to the file. Typically run immediately after `mild.exe`. More on this tool at [N64Squid](https://n64squid.com/homebrew/n64-sdk/software/mipse-ultra-gcc/makemask/).
 * [Online Disassembler](https://onlinedisassembler.com/odaweb/) - A lightweight, online service for when you don't have the time, resources, or requirements to use a heavier-weight alternative
 * [Compiler Explorer](https://godbolt.org) - Explore how your C, C++, Rust, or other compiled language code ends up looking after compilation
