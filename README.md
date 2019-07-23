@@ -71,7 +71,7 @@
 
 ## Videos
 
-* [Installing the Nintendo 64 Development Kit](https://www.youtube.com/watch?v=84wk0mZ8gfM) - How to install the Nintendo 64 Software Development Kit under Windows 2000 and 98SE. Also generally works under Windows XP.
+* [Installing the Nintendo 64 Development Kit](https://www.youtube.com/watch?v=84wk0mZ8gfM) - How to install the Nintendo 64 Software Development Kit under Windows 2000 and 98SE and build sample code. Also generally works under Windows XP.
 * [Nintendo N64 Source Code Programming - A Basic Introduction](https://www.youtube.com/watch?v=d5YO2XMBvvk) - A basic introduction to Nintendo 64 development with with NuSystem and the official SDK
 * [Building cen64 for Speed and Preservation](https://www.youtube.com/watch?v=lvr6-6U0ck8) - Making cen64 fast without compromising on accuracy
 * [Reversing the Nintendo 64 CIC - REcon 2015](https://www.youtube.com/watch?v=HwEdqAb2l50) - Mike Ryan, marshallh, and John McMaster talk about reverse engineering and cloning a 20 year old copy protection chip (the N64 CIC)
