@@ -48,7 +48,7 @@
 * [UltraHLE](https://en.wikipedia.org/wiki/UltraHLE) - An early Nintendo 64 emulator for Windows. Though closed-source, [the source leaked in 2002](https://web.archive.org/web/20020812020546/http://www.emulation64.com/freeflow-page.html). No longer maintained.
 * [Not64](https://github.com/extremscorner/not64) - A fork of Wii64
 * [Surreal64](http://surreal64.sourceforge.net) and [Surreal64 CE](http://surreal64ce.wikidot.com) - A Nintendo 64 emulator for the original Xbox which includes ports of 1964, Project64, and UHLE. No longer maintained.
-* [Sixtyforce](https://sixtyforce.com) - A closed-source Nintendo 64 emulator for Mac. No longer maintained.
+* [Sixtyforce](https://sixtyforce.com) - A closed-source Nintendo 64 emulator for Mac
 * [TrueReality](https://sourceforge.net/projects/truereality/) - An open-source Nintendo 64 emulator. No longer maintained.
 
 ## Tools and Libraries
