@@ -19,6 +19,7 @@
 * [Accessory Reference](http://github.com/joeldipops/TransferBoy/blob/master/docs/TransferPakReference.md) - Guide on how to communicate with the Transfer Pak and Rumble Pak
 * [Hack64](https://hack64.net/wiki/doku.php?id=nintendo_64) - A variety of documentation on RCP data structures, compression, assembly, and more
 * [Encryption 64](http://en64.shoutwiki.com/wiki/Main_Page) - A collection of documentation on MIPS assembly, GameShark code structure, and layout of individual titles
+* [64dd wiki](https://github.com/LuigiBlood/64dd/wiki) - Documentation on 64DD hardware, disks, and related catridges
 
 ## Toolchains
 
