@@ -4,7 +4,7 @@
 
 * [N64brew](https://discord.gg/aU6Bkcc) - Nintendo 64 homebrew chat on Discord
 * [Discord64](https://discord.gg/FrPyDtr) - Nintendo 64 emulation and homebrew chat on Discord
-* [&#35;n64dev](irc://irc.efnet.org/#n64dev) - Nintendo 64 development IRC channel on EFnet
+* [#n64dev](http://chat.efnet.org:9090/?channels=%23n64dev&Login=Login) - Nintendo 64 development IRC channel on EFnet
 * [/r/N64Homebrew](https://www.reddit.com/r/N64Homebrew/) - The N64Homebrew subreddit
 
 ## Documentation
