@@ -43,6 +43,7 @@
 * [1964](http://1964emu.emulation64.com) - An open-source Nintendo 64 emulator for Windows. No longer maintained.
 * [mupen64](http://mupen64.emulation64.com) - An open-source, multi-platform Nintendo 64 emulator. No longer maintained.
 * [mupen64plus](https://mupen64plus.org) ([GitHub](https://github.com/mupen64plus)) - A more recently updated fork of mupen64 for Linux, Mac OSX, FreeBSD, and Windows
+* [Mupen64+ Reverser Edition](https://www.retroreversing.com/mupen64RE) - A fork of the Mupen64+ Nintendo 64 emulator tailored for reverse engineering
 * [Wii64](https://wiibrew.org/wiki/Wii64) - A port of mupen64 for Nintendo Wii and Gamecube. No longer maintained.
 * [Mupen64-360](https://gbatemp.net/download/mupen64-360_v0-993_beta2.34126) - A port of Wii64 (and thus mupen64) to the Xbox 360. No longer maintained.
 * Project Unreality - An early Nintendo 64 emulator for Windows. No longer maintained.
