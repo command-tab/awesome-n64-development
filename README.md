@@ -76,7 +76,7 @@
 * [mips_to_c](https://github.com/matt-kempster/mips_to_c) - An open-source MIPS decompiler, useful for understanding and reimplementing N64 games' behavior in C
 * [GEDecompressor](https://github.com/jombo23/N64-Tools/tree/master/GEDecompressor) - Decompressor for a wide variety of compression formats used across Nintendo 64 titles
 * [n64sym](https://github.com/shygoo/n64sym) - Scans a RAM dump for symbols from a given library or object file
-* [ed64](https://github.com/anacierdem/ed64) - Tools to develop on everdrive64
+* [ed64](https://github.com/anacierdem/ed64) - Tools to develop on EverDrive-64
 
 ## Development Hardware
 
