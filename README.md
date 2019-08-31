@@ -77,6 +77,7 @@
 * [GEDecompressor](https://github.com/jombo23/N64-Tools/tree/master/GEDecompressor) - Decompressor for a wide variety of compression formats used across Nintendo 64 titles
 * [n64sym](https://github.com/shygoo/n64sym) - Scans a RAM dump for symbols from a given library or object file
 * [ed64](https://github.com/anacierdem/ed64) - Tools to develop on EverDrive-64
+* [N64LoaderWV](https://github.com/zeroKilo/N64LoaderWV) - Nintendo 64 ROM loader for the [Ghidra](https://github.com/NationalSecurityAgency/ghidra) reverse engineering tool
 
 ## Development Hardware
 
