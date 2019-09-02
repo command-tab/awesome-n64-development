@@ -96,7 +96,9 @@
 * [Building cen64 for Speed and Preservation](https://www.youtube.com/watch?v=lvr6-6U0ck8) - Making cen64 fast without compromising on accuracy
 * [Reversing the Nintendo 64 CIC - REcon 2015](https://www.youtube.com/watch?v=HwEdqAb2l50) - Mike Ryan, marshallh, and John McMaster talk about reverse engineering and cloning a 20 year old copy protection chip (the N64 CIC)
 
-## Assembly Programming
+## Programming
+
+### Assembly
 
 * [PeterLemon/N64](https://github.com/PeterLemon/N64) - Nintendo 64 bare metal MIPS assembly programming reference
 * [Fraser N64](https://www.youtube.com/channel/UC3tcfSES8CB45DmTbHhUP1w) - YouTube channel featuring Nintendo 64 assembly programming
@@ -105,13 +107,13 @@
 * [N64 ASM Tutorials](https://patater.com/gbaguy/n64asm.htm) - Nintendo 64 assembly language programming tutorials by Mike Huber (mirrored by Jaeden Amero)
 * [UltraCIC](https://github.com/mikeryan/UltraCIC) - Not particularly homebrew development related, but is a useful reference as a clone of the Nintendo 64 CIC copy protection chip
 
-## C Programming
+### C
 
 * [N64 Homebrew Starter Guide](https://drive.google.com/drive/folders/1rOE2zYV2RPPx-2NHRGiGZ-RFx6w_6dAI) - Buu342's guide to creating an N64 game with the official Nintendo 64 SDK
 * [Implementation of Sounds Using the Nintendo 64 Sound Tools](https://docs.google.com/document/d/1d1qKxMh3q_89w9N76xL9bXRqkXe1ylcDnAtg3cgu5s8) - Buu342's guide to implementing sound in your ROM with the Nintendo 64 Sound Tools
 * [N64Squid Homebrew](https://n64squid.com/homebrew/n64-sdk) - Development walkthrough using the NuSystem library that's part of the official Nintendo 64 SDK
 
-## Rust Programming
+### Rust
 
 * [cargo-n64](https://github.com/rust-console/cargo-n64) - A `cargo` subcommand to build Nintendo 64 ROMs in Rust
 * [n64toolchain](https://github.com/monocasa/n64toolchain) - Rust Implementation of Nintendo 64 ROM toolchain
