@@ -2,6 +2,21 @@
 
 A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, and more
 
+## Contents
+
+* [Community](#community)
+* [Documentation](#documentation)
+* [Toolchains](#toolchains)
+* [Assemblers](#assemblers)
+* [Emulators](#emulators)
+* [Tools and Libraries](#tools-and-libraries)
+* [Development Hardware](#development-hardware)
+* [Videos](#videos)
+* [Programming](#programming)
+    * [Assembly](#assembly)
+    * [C](#c)
+    * [Rust](#rust)
+
 ## Community
 
 * [N64brew](https://discord.gg/aU6Bkcc) - Nintendo 64 homebrew chat on Discord
