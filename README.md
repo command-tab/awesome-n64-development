@@ -17,6 +17,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
     * [Debugging](#debugging)
     * [ROM Manipulation](#rom-manipulation)
     * [Development Libraries](#development-libraries)
+    * [Reverse Engineering](#reverse-engineering)
 * [Videos](#videos)
 * [Programming](#programming)
     * [Assembly](#assembly)
