@@ -171,3 +171,4 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [rs64-rom](https://github.com/monocasa/rs64-rom) - Rust library from manipulating Nintendo 64 ROM images
 * [rs64romtool](https://github.com/monocasa/rs64romtool) - Tool for manipulating Nintendo 64 ROM images (depends on rs64-rom)
 * [rrt0](https://github.com/rust-console/rrt0) - A simple cross-platform runtime / startup for Rust on embedded devices
+* [n64rom-rs](https://github.com/saneki/n64rom-rs) - A library and toolkit for working with Nintendo 64 ROM files
