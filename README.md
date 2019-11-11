@@ -34,6 +34,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ## Documentation
 
 * [Ultra64](https://ultra64.ca/) - An absolute wealth of documentation including official Nintendo 64 development manuals, as well as SDK downloads and reference material
+* [Nintendo 64 Architecture](https://copetti.org/projects/consoles/nintendo-64/) - An overview of the Nintendo 64 console architecture
 * [N64dev](http://n64dev.org/) - Useful N64 hacking links
 * [NEC VR4300i CPU Manual @ N64dev](http://n64dev.org/p/U10504EJ7V0UMJ1.pdf) - The manual for the NEC VR4300i CPU used by the Nintendo 64
 * [N64TEK](http://n64.icequake.net/mirror/www.jimb.de/Projects/N64TEK.htm) - Nintendo 64 technical information, registers, memory map, and instruction set
