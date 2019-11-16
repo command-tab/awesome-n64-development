@@ -104,6 +104,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64GFXCookie](https://github.com/LuigiBlood/N64GFXCookie) - Nintendo 64 CI8 format graphics viewer/editor
 * [Texture64](https://github.com/queueRAM/Texture64) - Nintendo 64 texture ripper and editor with support for multiple formats
 * [N64-SoundTester](https://github.com/buu342/N64-SoundTester) - A ROM that allows you to test out N64 Sound Tools sample banks and tune them directly on your console or emulator, avoiding lengthy turnaround times
+* [leotools](https://github.com/jkbenaim/leotools) - Tools for working with 64DD images and related files
 
 ### Audio Playback and Editing
 
