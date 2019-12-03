@@ -82,7 +82,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ## Development Hardware
 
 * [64drive](http://64drive.retroactive.be/) - A Nintendo 64 flash cartridge with USB support targeted at developers
-* [EverDrive-64 v3](https://krikzz.com/store/home/28-everdrive-64-v3.html) - A Nintendo 64 flash cartridge
+* [EverDrive-64 x7](https://krikzz.com/store/home/55-everdrive-64-x7.html) - A Nintendo 64 flash cartridge
 * [UltraHDMI](http://ultrahdmi.retroactive.be/) (periodically in stock at [Game-Tech](https://www.game-tech.us/product/ultrahdmi/)) - A board that can be installed into the Nintendo 64 to capture the digital output of the RCP and send it out a Mini HDMI connector to a modern TV. Convenient for connecting a real console to a nearby monitor while viewing the best possible output signal.
 * [UltraSave](http://64drive.retroactive.be/features.php#ultrasave) - A device that works with the 64drive to transfer saves from real cartridges
 * [GameShark 3.0+](https://hackaday.com/2019/01/11/nintendo-64-homebrew-via-game-shark/) - A method of running homebrew on the Nintendo 64 via a GameShark
