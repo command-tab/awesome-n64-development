@@ -49,6 +49,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ## Toolchains
 
 * [Official Nintendo 64 SDKs](https://ultra64.ca/resources/software/) - Official Nintendo 64 Software Development Kits for Windows and SGI IRIX
+* [N64 SDK Easy Install](https://mega.nz/#!oT4hlS7A!OS_8zDMezzjXoQiil9SJd1D8kAFbEkYqJKdsj2B8hkk) - A ISO image made by AlphaTango and CrashOveride to allow for a easier way to install the SDK. Confirmed working on Windows 98-XP
 * [n64chain](https://github.com/tj90241/n64chain) - A Nintendo 64 development toolchain based on GCC that does not depend on any proprietary Nintendo library
 * [modern-n64sdk](https://github.com/trhodeos/modern-n64sdk) - Describes how to get a modern build of GCC cross-compiling on a modern OS (Linux, Windows, macOS)
 * [portable-n64-toolchain](https://github.com/Mr-Pnut/portable-n64-toolchain) - A Dockerized N64 toolchain based on modern-n64sdk
@@ -131,7 +132,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ### Reverse Engineering
 
 * [N64LoaderWV](https://github.com/zeroKilo/N64LoaderWV) - Nintendo 64 ROM loader for the [Ghidra](https://github.com/NationalSecurityAgency/ghidra) reverse engineering tool
-* [n64decomp](https://github.com/n64decomp/) - Nintendo 64 decompilation projects, including Super Mario 64 and The Legend of Zelda: Ocarina of Time (Master Quest)
+* [n64decomp](https://github.com/n64decomp/) - Nintendo 64 decompilation projects, including Super Mario 64 and The Legend of Zelda: Ocarina of Time (Master Quest) (OOT is WIP and not public yet)
 * [N64 Uncompiled Source Code](http://shygoo.net/n64-uncompiled/) - Uncompiled source code and related material discovered in various Nintendo 64 ROM images
 * [RI Probe](https://www.romhacking.net/homebrew/102/) - A ROM that dumps RDRAM values onscreen for debugging and exploring
 * [n64sym](https://github.com/shygoo/n64sym) - Scans a RAM dump for symbols from a given library or object file
