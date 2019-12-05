@@ -49,6 +49,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ## Toolchains
 
 * [Official Nintendo 64 SDKs](https://ultra64.ca/resources/software/) - Official Nintendo 64 Software Development Kits for Windows and SGI IRIX
+* [N64 SDK Easy Install](https://mega.nz/#!oT4hlS7A!OS_8zDMezzjXoQiil9SJd1D8kAFbEkYqJKdsj2B8hkk) - A ISO image made by AlphaTango and CrashOveride to allow for a easier way to install the SDK. Confirmed working on Windows 98-XP
 * [n64chain](https://github.com/tj90241/n64chain) - A Nintendo 64 development toolchain based on GCC that does not depend on any proprietary Nintendo library
 * [modern-n64sdk](https://github.com/trhodeos/modern-n64sdk) - Describes how to get a modern build of GCC cross-compiling on a modern OS (Linux, Windows, macOS)
 * [portable-n64-toolchain](https://github.com/Mr-Pnut/portable-n64-toolchain) - A Dockerized N64 toolchain based on modern-n64sdk
@@ -81,7 +82,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ## Development Hardware
 
 * [64drive](http://64drive.retroactive.be/) - A Nintendo 64 flash cartridge with USB support targeted at developers
-* [EverDrive-64 v3](https://krikzz.com/store/home/28-everdrive-64-v3.html) - A Nintendo 64 flash cartridge
+* [EverDrive-64 x7](https://krikzz.com/store/home/55-everdrive-64-x7.html) - A Nintendo 64 flash cartridge
 * [UltraHDMI](http://ultrahdmi.retroactive.be/) (periodically in stock at [Game-Tech](https://www.game-tech.us/product/ultrahdmi/)) - A board that can be installed into the Nintendo 64 to capture the digital output of the RCP and send it out a Mini HDMI connector to a modern TV. Convenient for connecting a real console to a nearby monitor while viewing the best possible output signal.
 * [UltraSave](http://64drive.retroactive.be/features.php#ultrasave) - A device that works with the 64drive to transfer saves from real cartridges
 * [GameShark 3.0+](https://hackaday.com/2019/01/11/nintendo-64-homebrew-via-game-shark/) - A method of running homebrew on the Nintendo 64 via a GameShark
@@ -131,7 +132,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ### Reverse Engineering
 
 * [N64LoaderWV](https://github.com/zeroKilo/N64LoaderWV) - Nintendo 64 ROM loader for the [Ghidra](https://github.com/NationalSecurityAgency/ghidra) reverse engineering tool
-* [n64decomp](https://github.com/n64decomp/) - Nintendo 64 decompilation projects, including Super Mario 64 and The Legend of Zelda: Ocarina of Time (Master Quest)
+* [n64decomp](https://github.com/n64decomp/) - Nintendo 64 decompilation projects, including Super Mario 64 and The Legend of Zelda: Ocarina of Time (Master Quest) (OOT is WIP and not public yet)
 * [N64 Uncompiled Source Code](http://shygoo.net/n64-uncompiled/) - Uncompiled source code and related material discovered in various Nintendo 64 ROM images
 * [RI Probe](https://www.romhacking.net/homebrew/102/) - A ROM that dumps RDRAM values onscreen for debugging and exploring
 * [n64sym](https://github.com/shygoo/n64sym) - Scans a RAM dump for symbols from a given library or object file
