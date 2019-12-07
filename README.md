@@ -53,6 +53,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [n64chain](https://github.com/tj90241/n64chain) - A Nintendo 64 development toolchain based on GCC that does not depend on any proprietary Nintendo library
 * [modern-n64sdk](https://github.com/trhodeos/modern-n64sdk) - Describes how to get a modern build of GCC cross-compiling on a modern OS (Linux, Windows, macOS)
 * [portable-n64-toolchain](https://github.com/Mr-Pnut/portable-n64-toolchain) - A Dockerized N64 toolchain based on modern-n64sdk
+* [libdragon-docker](https://github.com/anacierdem/libdragon-docker) - Dockerized toolchain based on [libdragon](https://github.com/DragonMinded/libdragon).
 
 ## Assemblers
 
