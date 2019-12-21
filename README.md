@@ -95,6 +95,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [64drive-usb-linux](https://github.com/RenaKunisaki/64drive-usb-linux/) - A Linux tool to upload to/download from a 64drive development cartridge over USB
 * [g64drive](https://github.com/rasky/g64drive) - Linux/Mac tool for operating a 64drive development cartridge
 * [ed64](https://github.com/anacierdem/ed64) - Tools to develop on an EverDrive-64 cartridge
+* [loader64](https://github.com/jsdf/loader64) - A USB uploader for Everdrive-64
 
 ### Asset Conversion and Viewing
 
@@ -150,6 +151,8 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Nintendo N64 Source Code Programming - A Basic Introduction](https://www.youtube.com/watch?v=d5YO2XMBvvk) - A basic introduction to Nintendo 64 development with with NuSystem and the official SDK
 * [Building cen64 for Speed and Preservation](https://www.youtube.com/watch?v=lvr6-6U0ck8) - Making cen64 fast without compromising on accuracy
 * [Reversing the Nintendo 64 CIC - REcon 2015](https://www.youtube.com/watch?v=HwEdqAb2l50) - Mike Ryan, marshallh, and John McMaster talk about reverse engineering and cloning a 20 year old copy protection chip (the N64 CIC)
+* [Portland Retro Gaming Expo 2019 - N64 Homebrew Development - Part 1](https://www.youtube.com/watch?v=zpDkENNnrZk) - Victor Vieux talks about the Nintendo 64 technical specifications and begins building a game using `libdragon`
+* [Portland Retro Gaming Expo 2019 - N64 Homebrew Development - Part 2](https://www.youtube.com/watch?v=V9y-2LiJsI0) - Victor Vieux adds sound and graphic assets and talks about the future of Nintendo 64 homebrew development
 
 ## Programming
 
