@@ -135,7 +135,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ### Reverse Engineering
 
 * [N64LoaderWV](https://github.com/zeroKilo/N64LoaderWV) - Nintendo 64 ROM loader for the [Ghidra](https://github.com/NationalSecurityAgency/ghidra) reverse engineering tool
-* [n64decomp](https://github.com/n64decomp/) - Nintendo 64 decompilation projects, including Super Mario 64 and The Legend of Zelda: Ocarina of Time (Master Quest) (OOT is WIP and not public yet)
+* [n64decomp](https://github.com/n64decomp/) - Nintendo 64 decompilation projects, including Super Mario 64 and The Legend of Zelda: Ocarina of Time (Master Quest)
 * [N64 Uncompiled Source Code](http://shygoo.net/n64-uncompiled/) - Uncompiled source code and related material discovered in various Nintendo 64 ROM images
 * [RI Probe](https://www.romhacking.net/homebrew/102/) - A ROM that dumps RDRAM values onscreen for debugging and exploring
 * [n64sym](https://github.com/shygoo/n64sym) - Scans a RAM dump for symbols from a given library or object file
