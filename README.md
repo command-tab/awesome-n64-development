@@ -45,6 +45,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Hack64](https://hack64.net/wiki/doku.php?id=nintendo_64) - A variety of documentation on RCP data structures, compression, assembly, and more
 * [Encryption 64](http://en64.shoutwiki.com/wiki/Main_Page) - A collection of documentation on MIPS assembly, GameShark code structure, and layout of individual titles
 * [64dd wiki](https://github.com/LuigiBlood/64dd/wiki) - Documentation on 64DD hardware, disks, and related catridges
+* [ultra64demos](https://github.com/shlomnissan/ultra64demos) - Original SGI Nintendo 64 technical demos for reference
 
 ## Toolchains
 
