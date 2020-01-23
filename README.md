@@ -118,6 +118,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ### Debugging
 
 * [Project64 EmuScripts](https://github.com/LuigiBlood/EmuScripts/tree/master/N64/Project64) - Scripts for debugging under Project64 emulation
+* [n64rd](https://github.com/parasyte/n64rd) - Nintendo 64 remote debugger for GameShark 3.2 hardware over a parallel interface
 
 ### ROM Manipulation
 
