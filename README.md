@@ -185,3 +185,4 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [rs64romtool](https://github.com/monocasa/rs64romtool) - Tool for manipulating Nintendo 64 ROM images (depends on rs64-rom)
 * [rrt0](https://github.com/rust-console/rrt0) - A simple cross-platform runtime / startup for Rust on embedded devices
 * [n64rom-rs](https://github.com/saneki/n64rom-rs) - A library and toolkit for working with Nintendo 64 ROM files
+* [loka-n64](https://github.com/JoNil/loka-n64) - Nintendo 64 tools (including `extract_boot_code`, useful for cargo-n64) and a work in progress game
