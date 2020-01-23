@@ -124,6 +124,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ### ROM Manipulation
 
 * [spicy](https://github.com/trhodeos/spicy) - An open-source replacement of the Nintendo 64 SDK's `mild.exe` (referenced by `$(MAKEROM)` in many Makefiles). Packs object files into an N64-compatible ROM.
+* [makeromOpen](https://github.com/fraser125/makeromOpen) - Another open-source makerom replacement (work in progress)
 * [makemask](https://github.com/trhodeos/makemask) - An open-source replacement of the Nintendo 64 SDK's `makemask.exe`. Adds a mask to a compiled ROM which pads the file to fill the entire cartridge space, adds a CIC version, and adds informational headers to the file. Typically run immediately after `mild.exe`. More on this tool at [N64Squid](https://n64squid.com/homebrew/n64-sdk/software/mipse-ultra-gcc/makemask/).
 * [Tool N64](https://www.zophar.net/utilities/n64aud/tool-n64.html) - A tool to display ROM information and perform byte reordering
 
