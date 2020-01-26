@@ -53,7 +53,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ## Toolchains
 
 * [Official Nintendo 64 SDKs](https://ultra64.ca/resources/software/) - Official Nintendo 64 Software Development Kits for Windows and SGI IRIX
-* [N64 SDK Easy Install](https://mega.nz/#!oT4hlS7A!OS_8zDMezzjXoQiil9SJd1D8kAFbEkYqJKdsj2B8hkk) - A ISO image made by AlphaTango and CrashOveride to allow for a easier way to install the SDK. Confirmed working on Windows 98-XP
+* [N64 SDK Easy Install CD](https://mega.nz/#!AOYDkSxA!MuAqt8iRBk0GGbaqaXVYB9tfZxsquKg5QkbCRL3VOLM) - A ISO image made by AlphaTango and CrashOveride to allow for a easier way to install the Nintendo SDK. Confirmed working on Windows 98-XP
 * [n64chain](https://github.com/tj90241/n64chain) - A Nintendo 64 development toolchain based on GCC that does not depend on any proprietary Nintendo library
 * [modern-n64sdk](https://github.com/trhodeos/modern-n64sdk) - Describes how to get a modern build of GCC cross-compiling on a modern OS (Linux, Windows, macOS)
 * [portable-n64-toolchain](https://github.com/Mr-Pnut/portable-n64-toolchain) - A Dockerized N64 toolchain based on modern-n64sdk
