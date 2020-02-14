@@ -109,6 +109,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Blen64](https://github.com/GCaldL/Blen64) - Blender scripts to export meshes to draw lists as header files
 * [objn64](https://github.com/n64dev/objn64) - Wavefront `.obj` model converter that generates optimized Nintendo 64 displaylists for compilation with libultra
 * [Obj2N64DL](https://github.com/pseudophpt/Obj2N64DL) - Another Wavefront `.obj` to displaylist converter
+* [N64_3DRenderingTest](https://github.com/tfcat/N64_3DRenderingTest) - A basic model viewer using NuSystem
 * [n64CIconverter](https://github.com/darklink623/n64CIconverter) - Converts standard image formats to Nintendo 64's CI format
 * [N64GFXCookie](https://github.com/LuigiBlood/N64GFXCookie) - Nintendo 64 CI8 format graphics viewer/editor
 * [Texture64](https://github.com/queueRAM/Texture64) - Nintendo 64 texture ripper and editor with support for multiple formats
