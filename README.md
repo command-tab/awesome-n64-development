@@ -49,6 +49,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [ultra64demos](https://github.com/shlomnissan/ultra64demos) - Original SGI Nintendo 64 technical demos for reference
 * [Microcode from Source](https://olivieryuyu.blogspot.com/2019/11/how-to-compile-n64-microcode-from-source.html) - How to compile Nintendo 64 microcode from source
 * [N64 Catridge Info](https://forums.nesdev.com/viewtopic.php?t=15518) - A NESDev forum thead with some details about the Nintendo 64 catridge bus
+* [RSP](https://github.com/rasky/r64emu/blob/master/doc/rsp.md) - Detailed RSP documentation in the r64emu emulator repository
 
 ## Toolchains
 
