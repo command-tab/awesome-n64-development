@@ -150,6 +150,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [libn64](https://github.com/tj90241/n64chain/tree/master/libn64) - An open-source library for Nintendo 64 development, part of `n64chain`
 * [pseultra](https://github.com/pseudophpt/pseultra) - A collection of tools used to develop software for the Nintendo 64 that are distinct from the official SDK
 * [libreultra](https://github.com/n64decomp/libreultra) - A decompilation of the Nintendo 64 standard SDK library, `libultra`
+* [n64ut](https://github.com/n64ut) - An in-progress set of modern Nintendo 64 libraries
 
 ### Reverse Engineering
 
