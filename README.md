@@ -186,6 +186,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64 Assembly Language Tutorial](https://sites.google.com/site/consoleprotocols/home/homebrew/n64-assembly-home) - Fraser's detailed Nintendo 64 assembly programming guide
 * [N64-ASM-Tutorial](https://github.com/fraser125/N64-ASM-Tutorial) - The support files for N64 Assembly Language Tutorial
 * [N64 ASM Tutorials](https://patater.com/gbaguy/n64asm.htm) - Nintendo 64 assembly language programming tutorials by Mike Huber (mirrored by Jaeden Amero)
+* [n64-assembly](https://github.com/is06/n64-assembly) - A [Visual Studio Code](https://code.visualstudio.com/) extension that provides language support and theme for the Nintendo 64 assembly language
 * [UltraCIC](https://github.com/mikeryan/UltraCIC) - Not particularly homebrew development related, but is a useful reference as a clone of the Nintendo 64 CIC copy protection chip
 
 ### C
