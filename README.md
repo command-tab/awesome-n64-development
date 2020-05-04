@@ -205,6 +205,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [goose64](https://github.com/jsdf/goose64) jsdf's _Untitled Goose Game_ "demake" for Nintendo 64
 * [n64-gameoflife](https://github.com/jsdf/n64-gameoflife) jsdf's implementation of the classic _Conway's Game of Life_ for Nintendo 64
 * [shibamatch](https://github.com/einhov/shibamatch) - A Shiba Inu-themed memory match game for Nintendo 64
+* [UltraEd](https://github.com/deadcast2/UltraEd/) - An in-progress level editor and game engine for Nintendo 64
 
 ### Rust
 
