@@ -135,7 +135,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 * [Project64 EmuScripts](https://github.com/LuigiBlood/EmuScripts/tree/master/N64/Project64) - Scripts for debugging under Project64 emulation
 * [n64rd](https://github.com/parasyte/n64rd) - Nintendo 64 remote debugger for GameShark 3.2 hardware over a parallel interface
-* [ed64log](https://github.com/jsdf/ed64log) - A tool and example cartridge code to implement development logging from a homebrew ROM running on an EverDrive-64
+* [ed64log](https://github.com/jsdf/ed64log) - A tool and [example code](https://github.com/jsdf/ed64log/tree/master/example#exception-logging-and-disassembly) to implement development logging from a homebrew ROM running on an EverDrive-64
 * [ed64-gdb](https://github.com/networkfusion/ed64-gdb) - A GDB stub for debugging with an EverDrive-64 V3
 * [gdbstub-ed64](https://github.com/murachue/gdbstub-ed64) - Another EverDrive-64 GDB stub
 
