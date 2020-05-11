@@ -10,19 +10,28 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Toolchains](#toolchains)
 * [Assemblers](#assemblers)
 * [Emulators](#emulators)
+    * [Actively Maintained](#actively-maintained)
+    * [Works In Progress](#works-in-progress)
+    * [Unmaintained](#unmaintained)
 * [Development Hardware](#development-hardware)
 * [Tools and Libraries](#tools-and-libraries)
     * [Development Cartridge Loaders](#development-cartridge-loaders)
     * [Asset Conversion and Viewing](#asset-conversion-and-viewing)
+        * [3D](#3d)
+        * [2D](#2d)
     * [Audio Playback and Editing](#audio-playback-and-editing)
     * [Debugging](#debugging)
     * [ROM Manipulation](#rom-manipulation)
     * [Development Libraries](#development-libraries)
-    * [Reverse Engineering](#reverse-engineering)
-* [Videos](#videos)
+* [Reverse Engineering](#reverse-engineering)
+    * [Projects](#projects)
+    * [Guides and Reference](#guides-and-reference)
+    * [Tools and Disassemblers](#tools-and-disassemblers)
 * [Programming](#programming)
     * [Assembly](#assembly)
     * [C](#c)
+        * [Guides and Reference](#guides-and-reference)
+        * [Example Code](#example-code)
     * [Rust](#rust)
 
 ## Community
@@ -48,7 +57,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [64dd.org](https://64dd.org) - Nintendo 64DD documentation, emulators, homebrew, and tools
 * [64dd wiki](https://github.com/LuigiBlood/64dd/wiki) - Documentation on 64DD hardware, disks, and related cartridges
 * [cen64#58](https://github.com/n64dev/cen64/issues/58) - A cen64 issue comment summarizing the Nintendo 64 boot process
-* [ultra64demos](https://github.com/shlomnissan/ultra64demos) - Original SGI Nintendo 64 technical demos for reference
 * [Microcode from Source](https://olivieryuyu.blogspot.com/2019/11/how-to-compile-n64-microcode-from-source.html) - How to compile Nintendo 64 microcode from source
 * [N64 Cartridge Info](https://forums.nesdev.com/viewtopic.php?t=15518) - A NESDev forum thead with some details about the Nintendo 64 cartridge bus
 * [RSP](https://github.com/rasky/r64emu/blob/master/doc/rsp.md) - Detailed RSP documentation in the r64emu emulator repository
@@ -81,23 +89,31 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ## Emulators
 
-* [cen64](https://github.com/n64dev/cen64) - A [cycle-accurate](https://retrocomputing.stackexchange.com/questions/1191/what-exactly-is-a-cycle-accurate-emulator) Nintendo 64 emulator for Windows, Linux, and Mac. While currently not fast enough to play games at full speed, it aims for perfect emulation by emulating the hardware inside of the console down to the register-transfer level.
-* [cor64](https://github.com/bryanperris/cor64) - An in-progress Nintendo 64 emulator written in C#
-* [r64emu](https://github.com/rasky/r64emu) - An in-progress Nintendo 64 emulator written in Rust
+### Actively Maintained
+
+* [cen64](https://github.com/n64dev/cen64) - A [cycle-accurate](https://retrocomputing.stackexchange.com/questions/1191/what-exactly-is-a-cycle-accurate-emulator) Nintendo 64 emulator for Windows, Linux, and Mac. While currently not fast enough to play games at full speed, it aims for perfect emulation by emulating the hardware inside of the console down to the register-transfer level. Widely used to test ROMs in lieu of or before using real hardware.
 * [Project64](https://www.pj64-emu.com) ([GitHub](https://github.com/project64/project64)) ([with Debugger](http://shygoo.net/pj64d/)) - An open source Nintendo 64 emulator for Windows and Android
-* [1964](http://1964emu.emulation64.com) - An open-source Nintendo 64 emulator for Windows. No longer maintained.
-* [mupen64](http://mupen64.emulation64.com) - An open-source, multi-platform Nintendo 64 emulator. No longer maintained.
+* [Sixtyforce](https://sixtyforce.com) - A closed-source Nintendo 64 emulator for Mac
 * [mupen64plus](https://mupen64plus.org) ([GitHub](https://github.com/mupen64plus)) - A more recently updated fork of mupen64 for Linux, Mac OSX, FreeBSD, and Windows
 * [Mupen64+ Reverser Edition](https://www.retroreversing.com/mupen64RE) - A fork of the Mupen64+ Nintendo 64 emulator tailored for reverse engineering
-* [Wii64](https://wiibrew.org/wiki/Wii64) - A port of mupen64 for Nintendo Wii and Gamecube. No longer maintained.
+
+### Works In Progress
+
+* [cor64](https://github.com/bryanperris/cor64) - An in-progress Nintendo 64 emulator written in C#
+* [r64emu](https://github.com/rasky/r64emu) - An in-progress Nintendo 64 emulator written in Rust
+
+### Unmaintained
+
+* [1964](http://1964emu.emulation64.com) - An open-source Nintendo 64 emulator for Windows
+* [mupen64](http://mupen64.emulation64.com) - An open-source, multi-platform Nintendo 64 emulator
+* [Wii64](https://wiibrew.org/wiki/Wii64) - A port of mupen64 for Nintendo Wii and Gamecube.
 * [Mupen64-360](https://gbatemp.net/download/mupen64-360_v0-993_beta2.34126) - A port of Wii64 (and thus mupen64) to the Xbox 360. No longer maintained.
-* Project Unreality - An early Nintendo 64 emulator for Windows. No longer maintained.
-* [Nemu64](http://www.emulation64.com/files/info/202/nemu64.html/) - A closed-source Nintendo 64 emulator for Windows. No longer maintained.
-* [UltraHLE](https://en.wikipedia.org/wiki/UltraHLE) - An early Nintendo 64 emulator for Windows. Though closed-source, [the source leaked in 2002](https://web.archive.org/web/20020812020546/http://www.emulation64.com/freeflow-page.html). No longer maintained.
+* Project Unreality - An early Nintendo 64 emulator for Windows.
+* [Nemu64](http://www.emulation64.com/files/info/202/nemu64.html/) - A closed-source Nintendo 64 emulator for Windows.
+* [UltraHLE](https://en.wikipedia.org/wiki/UltraHLE) - An early Nintendo 64 emulator for Windows. Though closed-source, [the source leaked in 2002](https://web.archive.org/web/20020812020546/http://www.emulation64.com/freeflow-page.html)
 * [Not64](https://github.com/extremscorner/not64) - A fork of Wii64
-* [Surreal64](http://surreal64.sourceforge.net) and [Surreal64 CE](http://surreal64ce.wikidot.com) - A Nintendo 64 emulator for the original Xbox which includes ports of 1964, Project64, and UHLE. No longer maintained.
-* [Sixtyforce](https://sixtyforce.com) - A closed-source Nintendo 64 emulator for Mac
-* [TrueReality](https://sourceforge.net/projects/truereality/) - An open-source Nintendo 64 emulator. No longer maintained.
+* [Surreal64](http://surreal64.sourceforge.net) and [Surreal64 CE](http://surreal64ce.wikidot.com) - A Nintendo 64 emulator for the original Xbox which includes ports of 1964, Project64, and UHLE
+* [TrueReality](https://sourceforge.net/projects/truereality/) - An open-source Nintendo 64 emulator
 
 ## Development Hardware
 
@@ -108,7 +124,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [UltraSave](http://64drive.retroactive.be/features.php#ultrasave) - A device that works with the 64drive to transfer saves from real cartridges
 * [GameShark 3.0+](https://hackaday.com/2019/01/11/nintendo-64-homebrew-via-game-shark/) - A method of running homebrew on the Nintendo 64 via a GameShark
 * [sm64gameshark](https://sites.google.com/site/sm64gameshark/resources/transfering-codes-over-usb) - How to transfer GameShark codes from USB to parallel, and how to identify GameShark cartridges with functional parallel ports
-* [UltraPIF](https://github.com/jago85/UltraPIF_Hardware) - A replacement for the Nintendo 64 PIF chip that enables a region-free console
+* [gs_libusb](https://github.com/hcs64/gs_libusb) - Nintendo 64 GameShark Pro utilities using libusb over a USB parallel port adapter
 
 ## Tools and Libraries
 
@@ -121,25 +137,34 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### Asset Conversion and Viewing
 
+#### 3D
+
 * [64Drive Viewer](https://www.youtube.com/watch?v=yUX1Vga6amg) - Preview textures, images, sounds, and 3D models on the Nintendo 64 with a 64drive over USB
 * [Blen64](https://github.com/GCaldL/Blen64) - Blender scripts to export meshes to draw lists as header files
 * [objn64](https://github.com/n64dev/objn64) - Wavefront `.obj` model converter that generates optimized Nintendo 64 displaylists for compilation with libultra
 * [Obj2N64DL](https://github.com/pseudophpt/Obj2N64DL) - Another Wavefront `.obj` to displaylist converter
-* [N64_3DRenderingTest](https://github.com/tfcat/N64_3DRenderingTest) - A basic model viewer using NuSystem
-* [png2n64](https://github.com/matthieularere/png2n64) - A Python 3 script to convert PNG images to 16 bit RBGA
 * [Max_To_N64](https://github.com/MrQuetch/Max_To_N64) - Scripts to export models from 3DS Max to C
+* [N64_3DRenderingTest](https://github.com/tfcat/N64_3DRenderingTest) - A basic model viewer using NuSystem
+
+#### 2D
+
+* [png2n64](https://github.com/matthieularere/png2n64) - A Python 3 script to convert PNG images to 16 bit RBGA
 * [GML-N64TextureConverter](https://github.com/buu342/GML-N64TextureConverter) - Converts standard image formats to Nintendo 64 compatible C header files
 * [n64CIconverter](https://github.com/darklink623/n64CIconverter) - Converts standard image formats to Nintendo 64's [Color Index (CI) format](https://n64squid.com/homebrew/n64-sdk/textures/image-formats/#CI)
 * [N64GFXCookie](https://github.com/LuigiBlood/N64GFXCookie) - Nintendo 64 CI8 format graphics viewer/editor
+* [n64rawgfx](https://github.com/Octocontrabass/n64rawgfx) - A tool to export and import uncompressed/raw graphics from Nintendo 64 games
 * [Texture64](https://github.com/queueRAM/Texture64) - Nintendo 64 texture ripper and editor with support for multiple formats
-* [N64-SoundTester](https://github.com/buu342/N64-SoundTester) - A ROM that allows you to test out N64 Sound Tools sample banks and tune them directly on your console or emulator, avoiding lengthy turnaround times
 * [leotools](https://github.com/jkbenaim/leotools) - Tools for working with 64DD images and related files
+* [ImageMerge](https://github.com/TheRDavid/ImageMerge) - Converts two 8-bit images into 2-bit images and packs them into 1 image to save space in a ROM
+* [Spritemapper](https://github.com/TheRDavid/Spritemapper) - Arranges a directory of equally-sized images into a sprite map and compresses it
+* [xo-tt64](https://github.com/xoorath/xo-tt64) - Converts input images to .c files of the same name
 
 ### Audio Playback and Editing
 
 * [N64-Tools](https://github.com/jombo23/N64-Tools/tree/master/N64%20Midi%20Tool) - A tool to extract and import audio from many games that make use of the MIDI format
 * [libmad-n64](https://github.com/parasyte/libmad-n64) - [libmad](https://www.underbit.com/products/mad/) with MIPS patches, for MPEG audio playback
 * [seq64](https://github.com/sauraen/seq64) - A full-featured editor for sequenced music in first-party Nintendo 64 games
+* [N64-SoundTester](https://github.com/buu342/N64-SoundTester) - A ROM that allows you to test out N64 Sound Tools sample banks and tune them directly on your console or emulator, avoiding lengthy turnaround times
 
 ### Debugging
 
@@ -167,22 +192,34 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [libreultra](https://github.com/n64decomp/libreultra) - A decompilation of the Nintendo 64 standard SDK library, `libultra`
 * [n64ut](https://github.com/n64ut) - An in-progress set of modern Nintendo 64 libraries
 
-### Reverse Engineering
+## Reverse Engineering
+
+### Projects
+
+* [n64decomp](https://github.com/n64decomp/) - Nintendo 64 decompilation projects, including Super Mario 64 and The Legend of Zelda: Ocarina of Time (Master Quest)
+* [UltraPIF](https://github.com/jago85/UltraPIF_Hardware) - A replacement for the Nintendo 64 PIF chip that enables a region-free console
+* [UltraCIC](https://github.com/mikeryan/UltraCIC) - A clone of the Nintendo 64 CIC copy protection chip
+* [UltraCIC_C](https://github.com/jago85/UltraCIC_C) - Another Nintendo 64 CIC implementation (same name, but a separate implementation)
+* [UltraCIC-II](https://github.com/perkinsb1024/UltraCIC-II) - Code to recreate Nintendo 64 CIC chips on an ATTiny25/45
+* [N64 Uncompiled Source Code](http://shygoo.net/n64-uncompiled/) - Uncompiled source code and related material discovered in various Nintendo 64 ROM images
+* [shogihax](https://cturt.github.io/shogihax.html) - Details a remote code execution exploit of the Nintendo 64 via the Morita Shogi 64 cartridge and its dialup modem
+
+### Guides and Reference
 
 * [n64-decompiling](https://www.retroreversing.com/n64-decompiling) - An overview of decompiling Nintendo 64 ROMs with Ghidra
+* [awesome-decompilation](https://github.com/nforest/awesome-decompilation/blob/master/README.md) - A curated list of awesome decompilation resources and projects
+
+### Tools and Disassemblers
+
 * [N64LoaderWV](https://github.com/zeroKilo/N64LoaderWV) - Nintendo 64 ROM loader for the [Ghidra](https://github.com/NationalSecurityAgency/ghidra) reverse engineering tool
-* [n64decomp](https://github.com/n64decomp/) - Nintendo 64 decompilation projects, including Super Mario 64 and The Legend of Zelda: Ocarina of Time (Master Quest)
-* [N64 Uncompiled Source Code](http://shygoo.net/n64-uncompiled/) - Uncompiled source code and related material discovered in various Nintendo 64 ROM images
 * [RI Probe](https://www.romhacking.net/homebrew/102/) - A ROM that dumps RDRAM values onscreen for debugging and exploring
 * [n64sym](https://github.com/shygoo/n64sym) - Scans a RAM dump for symbols from a given library or object file
-* [shogihax](https://cturt.github.io/shogihax.html) - Details a remote code execution exploit of the Nintendo 64 via the Morita Shogi 64 cartridge and its dialup modem
 * [Online Disassembler](https://onlinedisassembler.com/odaweb/) - A lightweight, online service for when you don't have the time, resources, or requirements to use a heavier-weight alternative
 * [Compiler Explorer](https://godbolt.org) - Explore how your C, C++, Rust, or other compiled language code ends up looking after compilation
 * [mips_to_c](https://github.com/matt-kempster/mips_to_c) - An open-source MIPS decompiler, useful for understanding and reimplementing N64 games' behavior in C
 * [GEDecompressor](https://github.com/jombo23/N64-Tools/tree/master/GEDecompressor) - Decompressor for a wide variety of compression formats used across Nintendo 64 titles
 * [asm-differ](https://github.com/simonlindholm/asm-differ) - A `diff` script for MIPS assembly
 * [decomp-permuter](https://github.com/simonlindholm/decomp-permuter) - A tool to randomly permute C files to better match a target binary
-* [awesome-decompilation](https://github.com/nforest/awesome-decompilation/blob/master/README.md) - A curated list of awesome decompilation resources and projects
 
 ## Programming
 
@@ -194,19 +231,31 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64-ASM-Tutorial](https://github.com/fraser125/N64-ASM-Tutorial) - The support files for N64 Assembly Language Tutorial
 * [N64 ASM Tutorials](https://patater.com/gbaguy/n64asm.htm) - Nintendo 64 assembly language programming tutorials by Mike Huber (mirrored by Jaeden Amero)
 * [n64-assembly](https://github.com/is06/n64-assembly) - A [Visual Studio Code](https://code.visualstudio.com/) extension that provides language support and theme for the Nintendo 64 assembly language
-* [UltraCIC](https://github.com/mikeryan/UltraCIC) - Not particularly homebrew development related, but is a useful reference as a clone of the Nintendo 64 CIC copy protection chip
+* [n64-asm-timing](https://github.com/pdrome/n64-asm-timing) - Nintendo 64 CPU instruction timing
 
 ### C
 
+#### Guides and Reference
+
 * [N64 Homebrew Starter Guide](https://drive.google.com/drive/folders/1rOE2zYV2RPPx-2NHRGiGZ-RFx6w_6dAI) - Buu342's guide to creating an N64 game with the official Nintendo 64 SDK
-* [n64-sdk-demo](https://github.com/jsdf/n64-sdk-demo) jsdf's detailed example with heavily-commented source showing basic usage of the Nintendo 64 SDK and the NuSystem library
-* [old-castle](https://github.com/danbolt/old-castle) - A Nintendo 64 homebrew game based on a NuSystem sample from the Nintendo 64 SDK
 * [Implementation of Sounds Using the Nintendo 64 Sound Tools](https://docs.google.com/document/d/1d1qKxMh3q_89w9N76xL9bXRqkXe1ylcDnAtg3cgu5s8) - Buu342's guide to implementing sound in your ROM with the Nintendo 64 Sound Tools
 * [N64Squid Homebrew](https://n64squid.com/homebrew/n64-sdk) - Development walkthrough using the NuSystem library that's part of the official Nintendo 64 SDK
-* [goose64](https://github.com/jsdf/goose64) jsdf's _Untitled Goose Game_ "demake" for Nintendo 64
+
+#### Example Code
+
+* [ultra64demos](https://github.com/shlomnissan/ultra64demos) - Original SGI Nintendo 64 technical demos
+* [n64-sdk-demo](https://github.com/jsdf/n64-sdk-demo) - jsdf's detailed example with heavily-commented source showing basic usage of the Nintendo 64 SDK and the NuSystem library
+* [goose64](https://github.com/jsdf/goose64) - jsdf's _Untitled Goose Game_ "demake" for Nintendo 64
+* [helloworld](https://github.com/loociano/n64dev/tree/master/helloworld) - Hello World example for Nintendo 64, using NuSystem and S2DEX microcode
+* [old-castle](https://github.com/danbolt/old-castle) - A Nintendo 64 homebrew game based on a NuSystem sample from the Nintendo 64 SDK
 * [n64-gameoflife](https://github.com/jsdf/n64-gameoflife) jsdf's implementation of the classic _Conway's Game of Life_ for Nintendo 64
 * [shibamatch](https://github.com/einhov/shibamatch) - A Shiba Inu-themed memory match game for Nintendo 64
 * [UltraEd](https://github.com/deadcast2/UltraEd/) - An in-progress level editor and game engine for Nintendo 64
+* [n64zlibbench](https://github.com/clbr/n64zlibbench) - A Nintendo 64 zlib benchmark with result display
+* [chip8-n64](https://github.com/joshiggins/chip8-n64) - A [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator for Nintendo 64, using libdragon
+* [Memory64-N64](https://github.com/vieux/Memory64-N64) - A Simon style memory game for Nintendo 64 with Rumble Pak support, using libdragon
+* [FlappyBird-N64](https://github.com/meeq/FlappyBird-N64) - A demake of _Flappy Bird_ for Nintendo 64, using libdragon
+* [n64triangle](https://github.com/sp1187/n64triangle) - Nintendo 64 RDP triangle demo, using libdragon
 
 ### Rust
 
