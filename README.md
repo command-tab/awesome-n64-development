@@ -30,7 +30,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Programming](#programming)
     * [Assembly](#assembly)
     * [C](#c)
-        * [Guides and Reference](#guides-and-reference)
+        * [Guides](#guides)
         * [Example Code](#example-code)
     * [Rust](#rust)
 
@@ -235,7 +235,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### C
 
-#### Guides and Reference
+#### Guides
 
 * [N64 Homebrew Starter Guide](https://drive.google.com/drive/folders/1rOE2zYV2RPPx-2NHRGiGZ-RFx6w_6dAI) - Buu342's guide to creating an N64 game with the official Nintendo 64 SDK
 * [Implementation of Sounds Using the Nintendo 64 Sound Tools](https://docs.google.com/document/d/1d1qKxMh3q_89w9N76xL9bXRqkXe1ylcDnAtg3cgu5s8) - Buu342's guide to implementing sound in your ROM with the Nintendo 64 Sound Tools
