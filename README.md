@@ -77,12 +77,13 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [n64chain](https://github.com/tj90241/n64chain) - A Nintendo 64 development toolchain based on GCC that does not depend on any proprietary Nintendo library
 * [modern-n64sdk](https://github.com/trhodeos/modern-n64sdk) - Describes how to get a modern build of GCC cross-compiling on a modern OS (Linux, Windows, macOS)
 * [n64sdkmod](https://github.com/CrashOveride95/n64sdkmod) - A libultra SDK for the modern era, supported on Debian-based Linux distros. See also: [docs](https://coneyislanddiscopalace.xyz/n64/n64sdkmod/).
-* [portable-n64-toolchain](https://github.com/Mr-Pnut/portable-n64-toolchain) - A Dockerized N64 toolchain based on modern-n64sdk
-* [libdragon-docker](https://github.com/anacierdem/libdragon-docker) - Dockerized toolchain based on [libdragon](https://github.com/DragonMinded/libdragon).
+* [portable-n64-toolchain](https://github.com/Mr-Pnut/portable-n64-toolchain) - A Dockerized Nintendo 64 toolchain based on modern-n64sdk
+* [libdragon-docker](https://github.com/anacierdem/libdragon-docker) - Dockerized toolchain based on [libdragon](https://github.com/DragonMinded/libdragon)
+* [homebrew-n64-dev](https://github.com/tehzz/homebrew-n64-dev) - macOS `gcc` and `binutils` [Homebrew](https://brew.sh) formulae for Nintendo 64 development
 
 ## Assemblers
 
-* [ARM9/bass](https://github.com/ARM9/bass) - A fork of [bass](https://byuu.org/tool/bass/) which has been updated with N64 MIPS/RSP/RDP output
+* [ARM9/bass](https://github.com/ARM9/bass) - A fork of [bass](https://byuu.org/tool/bass/) which has been updated with Nintendo 64 MIPS/RSP/RDP output
 * [ARMIPS](https://github.com/Kingcom/armips) - An assembler for various ARM and MIPS platforms. [macOS builds](https://github.com/Emory-M/armips) also available.
 * [Screwaround64](https://github.com/superjack111/screwaround64) - An interactive assembler for Nintendo 64
 * [lips](https://github.com/notwa/lips) - A MIPS R4300i assembler written in Lua
