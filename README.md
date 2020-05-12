@@ -261,6 +261,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ### Rust
 
 * [cargo-n64](https://github.com/rust-console/cargo-n64) - A `cargo` subcommand to build Nintendo 64 ROMs in Rust
+* [cargo-n64/examples](https://github.com/rust-console/cargo-n64/tree/master/examples) - Rust examples using cargo-n64
 * [n64toolchain](https://github.com/monocasa/n64toolchain) - Rust Implementation of Nintendo 64 ROM toolchain
 * [rs64-rt](https://github.com/monocasa/rs64-rt) - Minimal Rust startup / runtime for Nintendo 64
 * [rs64-periph](https://github.com/monocasa/rs64-periph) - Fairly raw N64 MMIO definitions
