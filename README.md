@@ -160,6 +160,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [ImageMerge](https://github.com/TheRDavid/ImageMerge) - Converts two 8-bit images into 2-bit images and packs them into 1 image to save space in a ROM
 * [Spritemapper](https://github.com/TheRDavid/Spritemapper) - Arranges a directory of equally-sized images into a sprite map and compresses it
 * [xo-tt64](https://github.com/xoorath/xo-tt64) - Converts input images to .c files of the same name
+* [mkspriten64](https://github.com/nathanduma/mkspriten64) - Windows equivalent to the SGI program mksprite for the Nintendo 64. Converts .png to a .h header and .c source file.
 
 ### Audio Playback and Editing
 
