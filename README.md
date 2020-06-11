@@ -259,10 +259,12 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [UltraEd](https://github.com/deadcast2/UltraEd/) - An in-progress level editor and game engine for Nintendo 64
 * [n64zlibbench](https://github.com/clbr/n64zlibbench) - A Nintendo 64 zlib benchmark with result display
 * [chip8-n64](https://github.com/joshiggins/chip8-n64) - A [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator for Nintendo 64, using libdragon
+* [gb64](https://github.com/lambertjamesd/gb64) - A Nintendo Game Boy emulator that runs on real Nintendo 64 hardware
 * [Memory64-N64](https://github.com/vieux/Memory64-N64) - A Simon style memory game for Nintendo 64 with Rumble Pak support, using libdragon
 * [FlappyBird-N64](https://github.com/meeq/FlappyBird-N64) - A demake of _Flappy Bird_ for Nintendo 64, using libdragon
 * [n64triangle](https://github.com/sp1187/n64triangle) - Nintendo 64 RDP triangle demo, using libdragon
 * [64doom](https://github.com/jnmartin84/64doom) - A source port of the original DOOM to Nintendo 64
+* [cmake-demo-rom](https://github.com/N64-tools/cmake-demo-rom) - Demonstrates building toolchains and a ROM using CMake
 
 ### Rust
 
