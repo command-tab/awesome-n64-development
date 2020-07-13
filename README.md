@@ -176,6 +176,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Project64 EmuScripts](https://github.com/LuigiBlood/EmuScripts/tree/master/N64/Project64) - Scripts for debugging under Project64 emulation
 * [n64rd](https://github.com/parasyte/n64rd) - Nintendo 64 remote debugger for GameShark 3.2 hardware over a parallel interface
 * [ed64log](https://github.com/jsdf/ed64log) - A tool and [example code](https://github.com/jsdf/ed64log/tree/master/example#exception-logging-and-disassembly) to implement development logging from a homebrew ROM running on an EverDrive-64
+* [webserial-ed64log](https://github.com/jsdf/webserial-ed64log) - An ed64log client using Web Serial API
 * [ed64-gdb](https://github.com/networkfusion/ed64-gdb) - A GDB stub for debugging with an EverDrive-64 V3
 * [gdbstub-ed64](https://github.com/murachue/gdbstub-ed64) - Another EverDrive-64 GDB stub
 
@@ -266,7 +267,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [FlappyBird-N64](https://github.com/meeq/FlappyBird-N64) - A demake of _Flappy Bird_ for Nintendo 64, using libdragon
 * [n64triangle](https://github.com/sp1187/n64triangle) - Nintendo 64 RDP triangle demo, using libdragon
 * [64doom](https://github.com/jnmartin84/64doom) - A source port of the original DOOM to Nintendo 64
-* [cmake-demo-rom](https://github.com/N64-tools/cmake-demo-rom) - Demonstrates building toolchains and a ROM using CMake
+* [cmake-demo-rom](https://github.com/N64-tools/cmake-demo-rom) - Demonstrates building toolchains and a ROM using CMake and libdragon
 
 ### Rust
 
