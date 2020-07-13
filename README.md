@@ -239,6 +239,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [n64-assembly](https://github.com/is06/n64-assembly) - A [Visual Studio Code](https://code.visualstudio.com/) extension that provides language support and theme for the Nintendo 64 assembly language
 * [n64-asm-timing](https://github.com/pdrome/n64-asm-timing) - Nintendo 64 CPU instruction timing
 * [neon64v2](https://github.com/hcs64/neon64v2) - An original Nintendo Entertainment System for Nintendo 64, written in assembly
+* [cubeworld](https://gitlab.com/is06/cubeworld) - The beginnings of an experimental Nintendo 64 game, written in assembly
 
 ### C
 
