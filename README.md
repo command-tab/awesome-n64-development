@@ -190,6 +190,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Real N64 CRC Tool v2](https://www.smwcentral.net/?p=section&a=details&id=8799) - A tool to check, calculate, and set ROM checksums and extract the bootcode of Nintendo 64 ROM files
 * [seq64/n64checksum](https://github.com/sauraen/seq64/blob/master/Source/n64checksum.cpp) - Source for a tool to calculate and set ROM checksums
 * [Info64](https://www.smwcentral.net/?p=section&a=details&id=5737) - A tool to display and set Nintendo 64 ROM header information and checksums
+* [N64ShellPreview](https://github.com/Random06457/N64ShellPreview) - A Windows Shell Extension to display Nintendo 64 ROM information in Explorer's preview pane
 
 ### Development Libraries
 
