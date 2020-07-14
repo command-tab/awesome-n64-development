@@ -149,6 +149,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Obj2N64DL](https://github.com/pseudophpt/Obj2N64DL) - Another Wavefront `.obj` to displaylist converter
 * [Max_To_N64](https://github.com/MrQuetch/Max_To_N64) - Scripts to export models from 3DS Max to C
 * [N64_3DRenderingTest](https://github.com/tfcat/N64_3DRenderingTest) - A basic model viewer using NuSystem
+* [blend2niff](https://github.com/1r3n33/blend2niff) - A Blender add-on to export to [NIFF2](http://n64devkit.square7.ch/niff/index.htm) (Nintendo Intermediate File Format 2)
 
 #### 2D
 
