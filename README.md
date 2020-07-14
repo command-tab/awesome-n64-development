@@ -206,7 +206,9 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### Projects
 
-* [n64decomp](https://github.com/n64decomp/) - Nintendo 64 decompilation projects, including Super Mario 64 and The Legend of Zelda: Ocarina of Time (Master Quest)
+* [n64decomp](https://github.com/n64decomp/) - Nintendo 64 decompilation projects, including Super Mario 64 and The Legend of Zelda: Ocarina of Time (Master Quest), and more
+* [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of Diddy Kong Racing
+* [YI64](https://github.com/masterf0x/YI64) - Yoshi's Story reverse engineering and research
 * [UltraPIF](https://github.com/jago85/UltraPIF_Hardware) - A replacement for the Nintendo 64 PIF chip that enables a region-free console
 * [UltraCIC](https://github.com/mikeryan/UltraCIC) - A clone of the Nintendo 64 CIC copy protection chip
 * [UltraCIC_C](https://github.com/jago85/UltraCIC_C) - Another Nintendo 64 CIC implementation (same name, but a separate implementation)
