@@ -145,11 +145,12 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 * [64Drive Viewer](https://www.youtube.com/watch?v=yUX1Vga6amg) - Preview textures, images, sounds, and 3D models on the Nintendo 64 with a 64drive over USB
 * [Blen64](https://github.com/GCaldL/Blen64) - Blender scripts to export meshes to draw lists as header files
+* [Blender64](https://github.com/engerb/Blender64) - A Python tool to export Blender 3D models to F3DEX2 microcode display lists
+* [blend2niff](https://github.com/1r3n33/blend2niff) - A Blender add-on to export to [NIFF2](http://n64devkit.square7.ch/niff/index.htm) (Nintendo Intermediate File Format 2)
 * [objn64](https://github.com/n64dev/objn64) - Wavefront `.obj` model converter that generates optimized Nintendo 64 displaylists for compilation with libultra
 * [Obj2N64DL](https://github.com/pseudophpt/Obj2N64DL) - Another Wavefront `.obj` to displaylist converter
 * [Max_To_N64](https://github.com/MrQuetch/Max_To_N64) - Scripts to export models from 3DS Max to C
 * [N64_3DRenderingTest](https://github.com/tfcat/N64_3DRenderingTest) - A basic model viewer using NuSystem
-* [blend2niff](https://github.com/1r3n33/blend2niff) - A Blender add-on to export to [NIFF2](http://n64devkit.square7.ch/niff/index.htm) (Nintendo Intermediate File Format 2)
 
 #### 2D
 
