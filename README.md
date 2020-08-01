@@ -292,6 +292,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [n64triangle](https://github.com/sp1187/n64triangle) - Nintendo 64 RDP triangle demo, using libdragon
 * [64doom](https://github.com/jnmartin84/64doom) - A source port of the original DOOM to Nintendo 64
 * [cmake-demo-rom](https://github.com/N64-tools/cmake-demo-rom) - Demonstrates building toolchains and a ROM using CMake and libdragon
+* [n64_controller_test](https://github.com/Ryzee119/n64_controller_test) - A simple homebrew ROM to perform some basic controller tests
 
 ### Rust
 
