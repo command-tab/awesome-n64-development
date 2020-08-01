@@ -216,6 +216,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [UltraCIC](https://github.com/mikeryan/UltraCIC) - A clone of the Nintendo 64 CIC copy protection chip
 * [UltraCIC_C](https://github.com/jago85/UltraCIC_C) - Another Nintendo 64 CIC implementation (same name, but a separate implementation)
 * [UltraCIC-II](https://github.com/perkinsb1024/UltraCIC-II) - Code to recreate Nintendo 64 CIC chips on an ATTiny25/45
+* [UltraCIC-III](https://github.com/ManCloud/UltraCIC-III) - Code for a replacement Nintendo 64 CIC chip on an ATTiny25/45/85
 * [Ultra FP64](http://www.ultrafp64.com/) - A work in progress FPGA Nintendo 64
 * [N64 Uncompiled Source Code](http://shygoo.net/n64-uncompiled/) - Uncompiled source code and related material discovered in various Nintendo 64 ROM images
 * [shogihax](https://cturt.github.io/shogihax.html) - Details a remote code execution exploit of the Nintendo 64 via the Morita Shogi 64 cartridge and its dialup modem
