@@ -210,8 +210,17 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### Projects
 
-* [n64decomp](https://github.com/n64decomp/) - Nintendo 64 decompilation projects, including Super Mario 64 and The Legend of Zelda: Ocarina of Time (Master Quest), and more
-* [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of Diddy Kong Racing
+* [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of _Diddy Kong Racing_
+* [Kirby 64](https://github.com/farisawan-2000/kirby64/) - An in-progress decompilation of _Kirby 64_
+* [Mario Party](https://github.com/gamemasterplc/mpsource) - An in-progress decompilation of _Mario Party_
+* [Paper Mario](https://github.com/ethteck/PaperMarioDecompilation/) - An in-progress decompilation of _Paper Mario_
+* [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark) - An in-progress decompilation of _Perfect Dark_
+* [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
+* [Pokemon Snap](https://github.com/ethteck/pokemonsnap/) - An in-progress decompilation of _Pokémon Snap_
+* [Super Mario 64](https://github.com/n64decomp/sm64) - An in-progress decompilation of _Super Mario 64_
+* [Super Smash Bros.](https://gitlab.com/tehz/ssb-temp) - An in-progress decompilation of _Super Smash Bros._
+* [Zelda OOT](https://github.com/zeldaret/oot) - An in-progress decompilation of _The Legend of Zelda: Ocarina of Time_
+* [Zelda MM](https://github.com/zeldaret/mm) - An in-progress decompilation of _The Legend of Zelda: Majora's Mask_
 * [YI64](https://github.com/masterf0x/YI64) - Yoshi's Story reverse engineering and research
 * [UltraPIF](https://github.com/jago85/UltraPIF_Hardware) - A replacement for the Nintendo 64 PIF chip that enables a region-free console
 * [UltraCIC](https://github.com/mikeryan/UltraCIC) - A clone of the Nintendo 64 CIC copy protection chip
