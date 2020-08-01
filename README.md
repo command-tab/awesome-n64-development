@@ -185,6 +185,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [webserial-ed64log](https://github.com/jsdf/webserial-ed64log) - An ed64log client using Web Serial API
 * [ed64-gdb](https://github.com/networkfusion/ed64-gdb) - A GDB stub for debugging with an EverDrive-64 V3
 * [gdbstub-ed64](https://github.com/murachue/gdbstub-ed64) - Another EverDrive-64 GDB stub
+* [N64-GDB-stub](https://github.com/Hazematman/N64-GDB-stub) - A GDB stub that works with a modified version of the cen64 emulator
 
 ### ROM Manipulation
 
