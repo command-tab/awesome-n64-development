@@ -61,6 +61,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [cen64#58](https://github.com/n64dev/cen64/issues/58) - A cen64 issue comment summarizing the Nintendo 64 boot process
 * [Microcode from Source](https://olivieryuyu.blogspot.com/2019/11/how-to-compile-n64-microcode-from-source.html) - How to compile Nintendo 64 microcode from source
 * [N64 Cartridge Info](https://forums.nesdev.com/viewtopic.php?t=15518) - A NESDev forum thead with some details about the Nintendo 64 cartridge bus
+* [N64 Cart Info](http://n64.icequake.net/mirror/www.crazynation.org/N64/) - Nintendo 64 cartridge pinout and bus timing
 * [RSP](https://github.com/rasky/r64emu/blob/master/doc/rsp.md) - Detailed RSP documentation in the r64emu emulator repository
 
 ## Videos
