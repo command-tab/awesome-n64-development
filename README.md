@@ -199,6 +199,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Info64](https://www.smwcentral.net/?p=section&a=details&id=5737) - A tool to display and set Nintendo 64 ROM header information and checksums
 * [N64ShellPreview](https://github.com/Random06457/N64ShellPreview) - A Windows Shell Extension to display Nintendo 64 ROM information in Explorer's preview pane
 * [ipl3hasher](https://github.com/awygle/ipl3hasher) - GPU-accelerated hash collision finder for the Nintendo 64 IPL3 boot code
+* [boot_stub](https://github.com/hcs64/boot_stub) - A replacement for the CIC-6102 IPL3 boot code
 
 ### Development Libraries
 
