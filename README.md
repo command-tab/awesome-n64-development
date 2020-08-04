@@ -286,13 +286,13 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [shibamatch](https://github.com/einhov/shibamatch) - A Shiba Inu-themed memory match game
 * [UltraEd](https://github.com/deadcast2/UltraEd/) - An in-progress level editor and game engine
 * [n64zlibbench](https://github.com/clbr/n64zlibbench) - A zlib benchmark with result display
-* [chip8-n64](https://github.com/joshiggins/chip8-n64) - A [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator, using libdragon
+* [chip8-n64](https://github.com/joshiggins/chip8-n64) - A [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator, using `libdragon`
 * [gb64](https://github.com/lambertjamesd/gb64) - A Nintendo Game Boy emulator that runs on real hardware
 * [Memory64-N64](https://github.com/vieux/Memory64-N64) - A Simon style memory game with Rumble Pak support, using libdragon
-* [FlappyBird-N64](https://github.com/meeq/FlappyBird-N64) - A demake of _Flappy Bird_ using libdragon
-* [n64triangle](https://github.com/sp1187/n64triangle) - RDP triangle demo, using libdragon
+* [FlappyBird-N64](https://github.com/meeq/FlappyBird-N64) - A demake of _Flappy Bird_ using `libdragon`
+* [n64triangle](https://github.com/sp1187/n64triangle) - RDP triangle demo, using `libdragon`
 * [64doom](https://github.com/jnmartin84/64doom) - A source port of the original _DOOM_
-* [cmake-demo-rom](https://github.com/N64-tools/cmake-demo-rom) - Demonstrates building toolchains and a ROM using CMake and libdragon
+* [cmake-demo-rom](https://github.com/N64-tools/cmake-demo-rom) - Demonstrates building toolchains and a ROM using CMake and `libdragon`
 * [n64_controller_test](https://github.com/Ryzee119/n64_controller_test) - A simple homebrew ROM to perform some basic controller tests
 
 ### Rust
