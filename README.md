@@ -219,7 +219,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of _Diddy Kong Racing_
 * [Kirby 64](https://github.com/farisawan-2000/kirby64/) - An in-progress decompilation of _Kirby 64_
 * [Mario Party](https://github.com/gamemasterplc/mpsource) - An in-progress decompilation of _Mario Party_
-* [Paper Mario](https://github.com/ethteck/PaperMarioDecompilation/) - An in-progress decompilation of _Paper Mario_
+* [Paper Mario](https://github.com/ethteck/papermario/) - An in-progress decompilation of _Paper Mario_
 * [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark) - An in-progress decompilation of _Perfect Dark_
 * [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
 * [Pokemon Snap](https://github.com/ethteck/pokemonsnap/) - An in-progress decompilation of _Pokémon Snap_
