@@ -142,7 +142,8 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [g64drive](https://github.com/rasky/g64drive) - Linux/Mac tool for operating a 64drive development cartridge
 * [ed64](https://github.com/anacierdem/ed64) - Tools to develop on an EverDrive-64 cartridge
 * [loader64](https://github.com/jsdf/loader64) - A USB uploader for Everdrive-64
-* [UNFLoader](https://github.com/buu342/N64-UNFLoader/) - A universal flashcart ROM uploader and debug library
+* [64drive.py](https://pastebin.com/BKzDe9RW) - A 64drive loader written in Python
+* [UNFLoader](https://github.com/buu342/N64-UNFLoader/) - A universal flashcart ROM uploader (64drive, EverDrive-64 V3, and EverDrive-64 X7) and debug library
 
 ### Asset Conversion and Viewing
 
