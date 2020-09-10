@@ -294,6 +294,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [n64zlibbench](https://github.com/clbr/n64zlibbench) - A zlib benchmark with result display
 * [chip8-n64](https://github.com/joshiggins/chip8-n64) - A [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator, using `libdragon`
 * [gb64](https://github.com/lambertjamesd/gb64) - A Nintendo Game Boy emulator that runs on real hardware
+* [platformer64](https://github.com/lambertjamesd/platformer64) - An in-progress adventure platformer
 * [Memory64-N64](https://github.com/vieux/Memory64-N64) - A Simon style memory game with Rumble Pak support, using libdragon
 * [FlappyBird-N64](https://github.com/meeq/FlappyBird-N64) - A demake of _Flappy Bird_ using `libdragon`
 * [n64triangle](https://github.com/sp1187/n64triangle) - RDP triangle demo, using `libdragon`
