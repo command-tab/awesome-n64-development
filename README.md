@@ -225,6 +225,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark) - An in-progress decompilation of _Perfect Dark_
 * [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
 * [Pokemon Snap](https://github.com/ethteck/pokemonsnap/) - An in-progress decompilation of _Pokémon Snap_
+* [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D
 * [Super Mario 64](https://github.com/n64decomp/sm64) - An in-progress decompilation of _Super Mario 64_
 * [Super Smash Bros.](https://gitlab.com/tehz/ssb-temp) - An in-progress decompilation of _Super Smash Bros._
 * [Zelda OOT](https://github.com/zeldaret/oot) - An in-progress decompilation of _The Legend of Zelda: Ocarina of Time_
