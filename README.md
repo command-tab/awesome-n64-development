@@ -80,7 +80,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64 SDK Easy Install CD](https://mega.nz/#!AOYDkSxA!MuAqt8iRBk0GGbaqaXVYB9tfZxsquKg5QkbCRL3VOLM) - An ISO image made by AlphaTango and CrashOveride to simplify installation of the official SDK. Works on Windows 98-XP.
 * [n64chain](https://github.com/tj90241/n64chain) - A development toolchain based on GCC that does not depend on any proprietary Nintendo library
 * [modern-n64sdk](https://github.com/trhodeos/modern-n64sdk) - Describes how to get a modern build of GCC cross-compiling on a modern OS (Linux, Windows, macOS)
-* [n64sdkmod](https://github.com/CrashOveride95/n64sdkmod) - A libultra SDK for the modern era, supported on Debian-based Linux distros. See also: [docs](https://coneyislanddiscopalace.xyz/n64/n64sdkmod/).
+* [n64sdkmod](https://github.com/CrashOveride95/n64sdkmod) - A `libultra` SDK for the modern era, supported on Debian-based Linux distros. See also: [docs](https://coneyislanddiscopalace.xyz/n64/n64sdkmod/).
 * [portable-n64-toolchain](https://github.com/Mr-Pnut/portable-n64-toolchain) - A Dockerized toolchain based on modern-n64sdk
 * [libdragon-docker](https://github.com/anacierdem/libdragon-docker) - Dockerized toolchain based on [libdragon](https://github.com/DragonMinded/libdragon)
 * [homebrew-n64-dev](https://github.com/tehzz/homebrew-n64-dev) - macOS `gcc` and `binutils` [Homebrew](https://brew.sh) formulae for Nintendo 64 development
@@ -155,7 +155,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Blender64](https://github.com/engerb/Blender64) - A Python tool to export Blender 3D models to F3DEX2 microcode display lists
 * [blend2niff](https://github.com/1r3n33/blend2niff) - A Blender add-on to export to [NIFF2](http://n64devkit.square7.ch/niff/index.htm) (Nintendo Intermediate File Format 2)
 * [Fast64](https://bitbucket.org/kurethedead/fast64/src/master/) - A Blender plugin to export display lists, geolayouts, and animations to _Super Mario 64_
-* [objn64](https://github.com/n64dev/objn64) - Wavefront `.obj` model converter that generates optimized displaylists for compilation with libultra
+* [objn64](https://github.com/n64dev/objn64) - Wavefront `.obj` model converter that generates optimized displaylists for compilation with `libultra`
 * [Obj2N64DL](https://github.com/pseudophpt/Obj2N64DL) - Another Wavefront `.obj` to displaylist converter
 * [Max_To_N64](https://github.com/MrQuetch/Max_To_N64) - Scripts to export models from 3DS Max to C
 * [N64_3DRenderingTest](https://github.com/tfcat/N64_3DRenderingTest) - A basic model viewer using NuSystem
