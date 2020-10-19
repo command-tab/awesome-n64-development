@@ -69,7 +69,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ## Videos
 
 * [Installing the Nintendo 64 Development Kit](https://www.youtube.com/watch?v=84wk0mZ8gfM) - How to install the Nintendo 64 Software Development Kit under Windows 2000 and 98SE and build sample code. Also generally works under Windows XP.
-* [Nintendo N64 Source Code Programming - A Basic Introduction](https://www.youtube.com/watch?v=d5YO2XMBvvk) - Gerry O'Brien demonstrates Nintendo 64 development with with NuSystem and the official SDK
+* [Behind The Code](https://www.youtube.com/c/BehindTheCode001/videos) - Gerry O'Brien's YouTube channel, with a number of videos discussing Nintendo 64 development with NuSystem and the official SDK, development hardware, audio processing, and more
 * [Building cen64 for Speed and Preservation](https://www.youtube.com/watch?v=lvr6-6U0ck8) - Tyler Stachecki and Mike Ryan discuss making the cen64 emulator fast without compromising on accuracy
 * [REcon 2015 - Reversing the Nintendo 64 CIC](https://www.youtube.com/watch?v=HwEdqAb2l50) - Mike Ryan, Marshall Hecht, and John McMaster talk about reverse engineering and cloning a 20 year old copy protection chip (the N64 CIC)
 * [Portland Retro Gaming Expo 2019 - N64 Homebrew Development - Part 1](https://www.youtube.com/watch?v=zpDkENNnrZk) - Victor Vieux talks about the Nintendo 64 technical specifications and begins building a game using `libdragon`
