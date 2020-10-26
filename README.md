@@ -174,6 +174,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Spritemapper](https://github.com/TheRDavid/Spritemapper) - Arranges a directory of equally-sized images into a sprite map and compresses it
 * [xo-tt64](https://github.com/xoorath/xo-tt64) - Converts input images to .c files of the same name
 * [mkspriten64](https://github.com/nathanduma/mkspriten64) - Windows equivalent to the SGI program `mksprite`. Converts .png to a .h header and .c source file.
+* [mksprite2](https://github.com/farisawan-2000/mksprite2) - A Python 3 script to create sprite and background objects for use with S2DEX microcode
 
 ### Audio Playback and Editing
 
