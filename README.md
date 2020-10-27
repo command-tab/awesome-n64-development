@@ -235,6 +235,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D
 * [Super Mario 64](https://github.com/n64decomp/sm64) - An in-progress decompilation of _Super Mario 64_
 * [Super Smash Bros.](https://gitlab.com/tehz/ssb-temp) - An in-progress decompilation of _Super Smash Bros._
+* [Turok-3-RAM-Map](https://github.com/Drahsid/Turok-3-RAM-Map) - An archive of findings from reverse engineering _Turok 3_
 * [Zelda OOT](https://github.com/zeldaret/oot) - An in-progress decompilation of _The Legend of Zelda: Ocarina of Time_
 * [Zelda MM](https://github.com/zeldaret/mm) - An in-progress decompilation of _The Legend of Zelda: Majora's Mask_
 * [YI64](https://github.com/masterf0x/YI64) - Yoshi's Story reverse engineering and research
