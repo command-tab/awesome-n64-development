@@ -20,6 +20,12 @@ if len(sys.argv) != 2:
 urls = []
 
 def walk(token):
+    """
+    Recursively walk all the span.
+
+    Args:
+        token: (str): write your description
+    """
     if hasattr(token, 'content'):
         # Skip RawText objects, as they have no children
         # https://github.com/miyuchina/mistletoe/issues/31
