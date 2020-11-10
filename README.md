@@ -164,6 +164,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 * [n64texconv](https://github.com/coleferg/n64texconv) - A Python tool to convert PNG to RGBA(16/32), CI(4/8), and I(A)(4/8)
 * [png2n64](https://github.com/matthieularere/png2n64) - A Python 3 script to convert PNG images to 16 bit RBGA
+* [png2c](https://github.com/selfVSmind/png2c) - A C++ command line tool to convert PNG images to `libultra`-compatible texure header files
 * [GML-N64TextureConverter](https://github.com/buu342/GML-N64TextureConverter) - Converts standard image formats to Nintendo 64 compatible C header files
 * [n64CIconverter](https://github.com/darklink623/n64CIconverter) - Converts standard image formats to Nintendo 64's [Color Index (CI) format](https://n64squid.com/homebrew/n64-sdk/textures/image-formats/#CI)
 * [N64GFXCookie](https://github.com/LuigiBlood/N64GFXCookie) - Nintendo 64 CI8 format graphics viewer/editor
