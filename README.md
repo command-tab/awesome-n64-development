@@ -289,6 +289,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64 Homebrew Starter Guide](https://drive.google.com/drive/folders/1rOE2zYV2RPPx-2NHRGiGZ-RFx6w_6dAI) - Buu342's guide to creating an N64 game with the official SDK
 * [Implementation of Sounds Using the Nintendo 64 Sound Tools](https://docs.google.com/document/d/1d1qKxMh3q_89w9N76xL9bXRqkXe1ylcDnAtg3cgu5s8) - Buu342's guide to implementing sound in your ROM with the Nintendo 64 Sound Tools
 * [N64Squid Homebrew](https://n64squid.com/homebrew/n64-sdk) - Development walkthrough using the NuSystem library that's part of the official SDK
+* [moria.us #nintendo-64](https://www.moria.us/tags/nintendo-64) - A series of blog posts covering a broad range of Nintendo 64 development topics
 
 #### Example Code
 
