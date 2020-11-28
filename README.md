@@ -231,6 +231,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Kirby 64](https://github.com/farisawan-2000/kirby64/) - An in-progress decompilation of _Kirby 64_
 * [Mario Kart 64](https://github.com/n64decomp/mk64) - An in-progress decompilation of _Mario Kart 64_
 * [Mario Party](https://github.com/gamemasterplc/mpsource) - An in-progress decompilation of _Mario Party_
+* [Mario Party 3](https://github.com/PartyPlanner64/mp3) - An in-progress decompilation of _Mario Party 3_
 * [Paper Mario](https://github.com/ethteck/papermario/) - An in-progress decompilation of _Paper Mario_
 * [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark) - An in-progress decompilation of _Perfect Dark_ (see also [pdtools](https://gitlab.com/ryandwyer/pdtools))
 * [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
