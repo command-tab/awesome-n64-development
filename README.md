@@ -226,6 +226,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ### Projects
 
 * [Conker's Bad Fur Day](https://github.com/mkst/conker) - An in-progress decompilation of _Conker's Bad Fur Day_
+* [DOOM64-RE](https://github.com/Erick194/DOOM64-RE) - A complete reverse engineering of _Doom 64_
 * [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of _Diddy Kong Racing_
 * [Kirby 64](https://github.com/farisawan-2000/kirby64/) - An in-progress decompilation of _Kirby 64_
 * [Mario Kart 64](https://github.com/n64decomp/mk64) - An in-progress decompilation of _Mario Kart 64_
