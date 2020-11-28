@@ -305,6 +305,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [old-castle](https://github.com/danbolt/old-castle) - A homebrew game based on a NuSystem sample from the official SDK
 * [n64-gameoflife](https://github.com/jsdf/n64-gameoflife) jsdf's implementation of the classic _Conway's Game of Life_
 * [shibamatch](https://github.com/einhov/shibamatch) - A Shiba Inu-themed memory match game
+* [ochim](https://github.com/murachue/ochim) - An up to 4 player action puzzle game
 * [UltraEd](https://github.com/deadcast2/UltraEd/) - An in-progress level editor and game engine
 * [n64zlibbench](https://github.com/clbr/n64zlibbench) - A zlib benchmark with result display
 * [chip8-n64](https://github.com/joshiggins/chip8-n64) - A [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator, using `libdragon`
