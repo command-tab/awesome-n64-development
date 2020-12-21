@@ -253,6 +253,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64 Uncompiled Source Code](http://shygoo.net/n64-uncompiled/) - Uncompiled source code and related material discovered in various ROM images
 * [f3dex2](https://github.com/Mr-Wiseguy/f3dex2) - Matching and (partially) documented disassemblies of the F3DEX2/F3DZEX RSP microcode families
 * [shogihax](https://cturt.github.io/shogihax.html) - Details a remote code execution exploit of the Nintendo 64 via the _Morita Shogi 64_ cartridge and its dialup modem
+* [nus-cpu](https://github.com/dmkfasi/nus-cpu) - A condensed, modular re-creation of the Nintendo 64 motherboard
 
 ### Guides and Reference
 
