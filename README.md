@@ -184,6 +184,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [libmad-n64](https://github.com/parasyte/libmad-n64) - [libmad](https://www.underbit.com/products/mad/) with MIPS patches, for MPEG audio playback
 * [seq64](https://github.com/sauraen/seq64) - A full-featured editor for sequenced music in first-party games
 * [N64-SoundTester](https://github.com/buu342/N64-SoundTester) - A ROM that allows you to test out N64 Sound Tools sample banks and tune them directly on your console or emulator, avoiding lengthy turnaround times
+* [ultra_mpeg](https://github.com/devwizard64/ultra_mpeg/) - An MPEG-1/2 decoder library
 * [ANMP](https://github.com/derselbst/ANMP) - A multi-channel loopable video game music player, with support for various Nintendo 64 audio formats
 * [midicvt](https://github.com/lambertjamesd/midicvt) - An open source replacement for `midicvt` to create MIDI files compatible with `libultra`
 * [sfz2n64](https://github.com/lambertjamesd/sfz2n64) - Converts SFZ files to a format the Nintendo 64 can use as part of instrument banks
