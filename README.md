@@ -52,7 +52,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64TEK](http://n64.icequake.net/mirror/www.jimb.de/Projects/N64TEK.htm) - Nintendo 64 technical information, registers, memory map, and instruction set
 * [Console Protocols](https://sites.google.com/site/consoleprotocols/home) - Nintendo 64 hardware info, memory map, PIF boot stage reference, and JoyBus I/O documentation
 * [dragonminded N64DEV](https://dragonminded.com/n64dev/) - `libdragon` usage, Windows and Linux toolchains, and RCP documentation
-* [N64 ROM Formats](http://n64dev.org/romformats.html) - A short N64 ROM format quick reference sheet 
+* [N64 ROM Formats](http://n64dev.org/romformats.html) - A short N64 ROM format quick reference sheet
 * [N64 ROM Formats Explained](https://www.reddit.com/r/emulation/comments/7hrvzp/the_three_different_n64_rom_formats_explained_for/?st=jn9t30t4&sh=1951de19) - Details the three commonly encountered Nintendo 64 ROM formats (use Big Endian/.z64)
 * [Accessory Reference](http://github.com/joeldipops/TransferBoy/blob/master/docs/TransferPakReference.md) - Guide on how to communicate with the Transfer Pak and Rumble Pak
 * [Hack64](https://hack64.net/wiki/doku.php?id=nintendo_64) - A variety of documentation on RCP data structures, compression, assembly, and more
@@ -62,7 +62,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [64dd-schematics](https://github.com/ChrisPVille/64dd-schematics) - Schematics for the Nintendo 64 Disk Drive (N64DD)
 * [cen64#58](https://github.com/n64dev/cen64/issues/58) - A cen64 issue comment summarizing the boot process
 * [Microcode from Source](https://olivieryuyu.blogspot.com/2019/11/how-to-compile-n64-microcode-from-source.html) - How to compile microcode from source
-* [N64 Cartridge Info](https://forums.nesdev.com/viewtopic.php?t=15518) - A NESDev forum thead with some details about the cartridge bus
+* [N64 Cartridge Info](https://forums.nesdev.com/viewtopic.php?t=15518) - A NESDev forum thread with some details about the cartridge bus
 * [N64 Cart Info](http://n64.icequake.net/mirror/www.crazynation.org/N64/) - Cartridge pinout and bus timing
 * [RSP](https://github.com/rasky/r64emu/blob/master/doc/rsp.md) - Detailed RSP documentation in the r64emu emulator repository
 
@@ -166,7 +166,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 * [n64texconv](https://github.com/coleferg/n64texconv) - A Python tool to convert PNG to RGBA(16/32), CI(4/8), and I(A)(4/8)
 * [png2n64](https://github.com/matthieularere/png2n64) - A Python 3 script to convert PNG images to 16 bit RBGA
-* [png2c](https://github.com/selfVSmind/png2c) - A C++ command line tool to convert PNG images to `libultra`-compatible texure header files
+* [png2c](https://github.com/selfVSmind/png2c) - A C++ command line tool to convert PNG images to `libultra`-compatible texture header files
 * [GML-N64TextureConverter](https://github.com/buu342/GML-N64TextureConverter) - Converts standard image formats to Nintendo 64 compatible C header files
 * [n64CIconverter](https://github.com/darklink623/n64CIconverter) - Converts standard image formats to Nintendo 64's [Color Index (CI) format](https://n64squid.com/homebrew/n64-sdk/textures/image-formats/#CI)
 * [N64GFXCookie](https://github.com/LuigiBlood/N64GFXCookie) - Nintendo 64 CI8 format graphics viewer/editor
@@ -228,34 +228,43 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### Projects
 
+#### Game Decompilation
+
+* [Banjo Kazooie](https://gitlab.com/banjo.decomp/banjo-kazooie) - An in-progress decompilation of _Banjo Kazooie_
+* [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D
 * [Conker's Bad Fur Day](https://github.com/mkst/conker) - An in-progress decompilation of _Conker's Bad Fur Day_
-* [DOOM64-RE](https://github.com/Erick194/DOOM64-RE) - A complete reverse engineering of _Doom 64_
 * [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of _Diddy Kong Racing_
+* [DOOM64-RE](https://github.com/Erick194/DOOM64-RE) - A complete reverse engineering of _Doom 64_
+* [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
 * [Kirby 64](https://github.com/farisawan-2000/kirby64/) - An in-progress decompilation of _Kirby 64_
 * [Mario Kart 64](https://github.com/n64decomp/mk64) - An in-progress decompilation of _Mario Kart 64_
 * [Mario Party](https://github.com/gamemasterplc/mpsource) - An in-progress decompilation of _Mario Party_
 * [Mario Party 3](https://github.com/PartyPlanner64/mp3) - An in-progress decompilation of _Mario Party 3_
 * [Paper Mario](https://github.com/ethteck/papermario/) - An in-progress decompilation of _Paper Mario_
 * [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark) - An in-progress decompilation of _Perfect Dark_ (see also [pdtools](https://gitlab.com/ryandwyer/pdtools))
-* [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
-* [Pokemon Snap](https://github.com/ethteck/pokemonsnap/) - An in-progress decompilation of _Pokémon Snap_
-* [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D
-* [Super Mario 64](https://github.com/n64decomp/sm64) - An in-progress decompilation of _Super Mario 64_
+* [Pokémon Snap](https://github.com/ethteck/pokemonsnap/) - An in-progress decompilation of _Pokémon Snap_
+* [Pokémon Stadium](https://github.com/ethteck/pokemonstadium) - An in-progress decompilation of _Pokémon Stadium_
+* [Rocket: Robot on Wheels](https://github.com/Mr-Wiseguy/Rocket-Robot-On-Wheels) - An in-progress decompilation of _Rocket: Robot on Wheels_
+* [Space Station Silicon Valley](https://github.com/mkst/sssv) - An in-progress decompilation of _Space Station Silicon Valley_
+* [Super Mario 64](https://github.com/n64decomp/sm64) - A complete decompilation of _Super Mario 64_
 * [Super Smash Bros.](https://gitlab.com/tehz/ssb-temp) - An in-progress decompilation of _Super Smash Bros._
 * [Turok-3-RAM-Map](https://github.com/Drahsid/Turok-3-RAM-Map) - An archive of findings from reverse engineering _Turok 3_
 * [Zelda OOT](https://github.com/zeldaret/oot) - An in-progress decompilation of _The Legend of Zelda: Ocarina of Time_
 * [Zelda MM](https://github.com/zeldaret/mm) - An in-progress decompilation of _The Legend of Zelda: Majora's Mask_
-* [YI64](https://github.com/masterf0x/YI64) - Yoshi's Story reverse engineering and research
-* [UltraPIF](https://github.com/jago85/UltraPIF_Hardware) - A replacement for the PIF chip that enables a region-free console
+* [YI64](https://github.com/masterf0x/YI64) - _Yoshi's Story_ reverse engineering and research
+
+#### Other
+
+* [f3dex2](https://github.com/Mr-Wiseguy/f3dex2) - Matching and (partially) documented disassemblies of the F3DEX2/F3DZEX RSP microcode families
+* [N64 Uncompiled Source Code](http://shygoo.net/n64-uncompiled/) - Uncompiled source code and related material discovered in various ROM images
+* [nus-cpu](https://github.com/dmkfasi/nus-cpu) - A condensed, modular re-creation of the Nintendo 64 motherboard
+* [shogihax](https://cturt.github.io/shogihax.html) - Details a remote code execution exploit of the Nintendo 64 via the _Morita Shogi 64_ cartridge and its dialup modem
+* [Ultra FP64](http://www.ultrafp64.com/) - A work in progress FPGA Nintendo 64
 * [UltraCIC](https://github.com/mikeryan/UltraCIC) - A clone of the CIC copy protection chip
 * [UltraCIC_C](https://github.com/jago85/UltraCIC_C) - Another CIC implementation (same name, but a separate implementation)
 * [UltraCIC-II](https://github.com/perkinsb1024/UltraCIC-II) - Code to recreate CIC chips on an ATTiny25/45
 * [UltraCIC-III](https://github.com/ManCloud/UltraCIC-III) - Code for a replacement CIC chip on an ATTiny25/45/85
-* [Ultra FP64](http://www.ultrafp64.com/) - A work in progress FPGA Nintendo 64
-* [N64 Uncompiled Source Code](http://shygoo.net/n64-uncompiled/) - Uncompiled source code and related material discovered in various ROM images
-* [f3dex2](https://github.com/Mr-Wiseguy/f3dex2) - Matching and (partially) documented disassemblies of the F3DEX2/F3DZEX RSP microcode families
-* [shogihax](https://cturt.github.io/shogihax.html) - Details a remote code execution exploit of the Nintendo 64 via the _Morita Shogi 64_ cartridge and its dialup modem
-* [nus-cpu](https://github.com/dmkfasi/nus-cpu) - A condensed, modular re-creation of the Nintendo 64 motherboard
+* [UltraPIF](https://github.com/jago85/UltraPIF_Hardware) - A replacement for the PIF chip that enables a region-free console
 
 ### Guides and Reference
 
