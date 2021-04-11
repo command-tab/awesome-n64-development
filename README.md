@@ -104,6 +104,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Sixtyforce](https://sixtyforce.com) - A closed-source emulator for Mac
 * [mupen64plus](https://mupen64plus.org) ([GitHub](https://github.com/mupen64plus)) - A more recently updated fork of mupen64 for Linux, Mac OSX, FreeBSD, and Windows
 * [Mupen64+ Reverser Edition](https://www.retroreversing.com/mupen64RE) - A fork of the Mupen64+ emulator tailored for reverse engineering
+* [ModLoader64](https://modloader64.com) ([GitHub](https://github.com/hylian-modding/ModLoader64)) - A wrapper for mupen64plus that enables modding through plugins written in Typescript
 
 ### Works In Progress
 
