@@ -349,6 +349,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [rs64-rt](https://github.com/monocasa/rs64-rt) - Minimal Rust startup / runtime for Nintendo 64
 * [rs64-periph](https://github.com/monocasa/rs64-periph) - Fairly raw N64 MMIO definitions
 * [rs64-rom](https://github.com/monocasa/rs64-rom) - Rust library from manipulating ROMs
+* [libdragon-bindings](https://github.com/DagothBob/libdragon-bindings) - Rust bindings and interface for `libdragon`
 * [rs64romtool](https://github.com/monocasa/rs64romtool) - Tool for manipulating ROMs (depends on rs64-rom)
 * [rrt0](https://github.com/rust-console/rrt0) - A simple cross-platform runtime / startup for Rust on embedded devices
 * [n64rom-rs](https://github.com/saneki/n64rom-rs) - A library and toolkit for working with ROMs
