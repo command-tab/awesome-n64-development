@@ -238,6 +238,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D
 * [Conker's Bad Fur Day](https://github.com/mkst/conker) - An in-progress decompilation of _Conker's Bad Fur Day_
 * [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of _Diddy Kong Racing_
+* [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) - An in-progress decompilation of _Dinosaur Planet_
 * [DOOM64-RE](https://github.com/Erick194/DOOM64-RE) - A **complete** reverse engineering of _Doom 64_
 * [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
 * [KE-NG_Reversing](https://github.com/disi33/KE-NG_Reversing) - Configures a reverse engineering environment (Mupen64+ RE, Ghidra, etc.) for _Knife Edge - Nose Gunner_
@@ -258,6 +259,14 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Zelda OOT](https://github.com/zeldaret/oot) - An in-progress decompilation of _The Legend of Zelda: Ocarina of Time_
 * [Zelda MM](https://github.com/zeldaret/mm) - An in-progress decompilation of _The Legend of Zelda: Majora's Mask_
 * [YI64](https://github.com/masterf0x/YI64) - _Yoshi's Story_ reverse engineering and research
+
+##### Pre-comp
+
+* [Banjo Kazooie](https://github.com/Mr-Wiseguy/Banjo-Precomp) - A pre-comp of _Banjo Kazooie_
+* [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet-precomp) - A pre-comp of _Dinosaur Planet_
+* [Paper Mario](https://github.com/Mr-Wiseguy/Paper-Mario-Precomp) - A pre-comp of _Paper Mario_
+* [Rocket: Robot on Wheels](https://github.com/Mr-Wiseguy/N64-Precomp-Example) - A pre-comp of _Rocket: Robot on Wheels_
+* [Space Station Silicon Valley](https://github.com/mkst/sssv-precomp) - A pre-comp of _Space Station Silicon Valley_
 
 #### Other
 
