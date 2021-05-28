@@ -286,6 +286,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [GEDecompressor](https://github.com/jombo23/N64-Tools/tree/master/GEDecompressor) - Decompressor for a wide variety of compression formats used across various titles
 * [asm-differ](https://github.com/simonlindholm/asm-differ) - A `diff` script for MIPS assembly
 * [decomp-permuter](https://github.com/simonlindholm/decomp-permuter) - A tool to randomly permute C files to better match a target binary
+* [openocd_n64](https://github.com/juchong/openocd_n64) - An [OpenOCD](http://openocd.org/doc/html/About.html) configuration for the Nintendo 64 CPU
 
 ## Programming
 
