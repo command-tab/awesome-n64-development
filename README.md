@@ -128,7 +128,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ## Development Hardware
 
 * [64drive](http://64drive.retroactive.be/) - A flash cartridge with USB support targeted at developers. Currently unavailable.
-* [EverDrive-64 x7](https://krikzz.com/store/home/55-everdrive-64-x7.html) - A flash cartridge with USB support for development
+* [EverDrive 64 X7](https://krikzz.com/store/home/55-everdrive-64-x7.html) - A flash cartridge with USB support for development
 * [Brutzelkarte](https://github.com/jago85/Brutzelkarte_PCB) - An open-source (hardware and software) FPGA-based flash cartridge
 * [El Barato 64](https://github.com/Hazematman/El-Barato-64) - An in-progress open source development cartridge
 * [SummerCart64](https://github.com/Polprzewodnikowy/SummerCollection) - A collection of hardware, firmware, and software designs for an FPGA-based flash cartridge
@@ -145,10 +145,10 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 * [64drive-usb-linux](https://github.com/RenaKunisaki/64drive-usb-linux/) - A Linux tool to upload to/download from a 64drive development cartridge over USB
 * [g64drive](https://github.com/rasky/g64drive) - Linux/Mac tool for operating a 64drive development cartridge
-* [ed64](https://github.com/anacierdem/ed64) - Tools to develop on an EverDrive-64 cartridge
-* [loader64](https://github.com/jsdf/loader64) - A USB uploader for Everdrive-64
+* [ed64](https://github.com/anacierdem/ed64) - Tools to develop on an EverDrive 64 cartridge
+* [loader64](https://github.com/jsdf/loader64) - A USB uploader for EverDrive 64
 * [64drive.py](https://pastebin.com/BKzDe9RW) - A 64drive loader written in Python
-* [UNFLoader](https://github.com/buu342/N64-UNFLoader/) - A universal flashcart ROM uploader (64drive, EverDrive-64 V3, and EverDrive-64 X7) and debug library
+* [UNFLoader](https://github.com/buu342/N64-UNFLoader/) - A universal flashcart ROM uploader (64drive, EverDrive 64 V3, and EverDrive 64 X7) and debug library
 
 ### Asset Conversion and Viewing
 
@@ -196,10 +196,10 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 * [Project64 EmuScripts](https://github.com/LuigiBlood/EmuScripts/tree/master/N64/Project64) - Scripts for debugging under Project64 emulation
 * [n64rd](https://github.com/parasyte/n64rd) - Remote debugger for GameShark 3.2 hardware over a parallel interface
-* [ed64log](https://github.com/jsdf/ed64log) - A tool and [example code](https://github.com/jsdf/ed64log/tree/master/example#exception-logging-and-disassembly) to implement development logging from a homebrew ROM running on an EverDrive-64
+* [ed64log](https://github.com/jsdf/ed64log) - A tool and [example code](https://github.com/jsdf/ed64log/tree/master/example#exception-logging-and-disassembly) to implement development logging from a homebrew ROM running on an EverDrive 64
 * [webserial-ed64log](https://github.com/jsdf/webserial-ed64log) - An ed64log client using Web Serial API
-* [ed64-gdb](https://github.com/networkfusion/ed64-gdb) - A GDB stub for debugging with an EverDrive-64 V3
-* [gdbstub-ed64](https://github.com/murachue/gdbstub-ed64) - Another EverDrive-64 GDB stub
+* [ed64-gdb](https://github.com/networkfusion/ed64-gdb) - A GDB stub for debugging with an EverDrive 64 V3
+* [gdbstub-ed64](https://github.com/murachue/gdbstub-ed64) - Another EverDrive 64 GDB stub
 * [N64-GDB-stub](https://github.com/Hazematman/N64-GDB-stub) - A GDB stub that works with a modified version of the cen64 emulator
 
 ### ROM Manipulation
