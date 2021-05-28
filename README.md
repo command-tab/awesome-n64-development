@@ -339,6 +339,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [cmake-demo-rom](https://github.com/N64-tools/cmake-demo-rom) - Demonstrates building toolchains and a ROM using CMake and `libdragon`
 * [n64_controller_test](https://github.com/Ryzee119/n64_controller_test) - A simple homebrew ROM built with `libdragon` to perform some basic controller tests
 * [controllertest](https://github.com/max257612/controllertest) - Another controller test ROM, also built with `libdragon`
+* [rsp-ruination](https://github.com/Dillonb/rsp-ruination) - A torture test that uses an emulated RSP on the CPU to validate functionality of the actual RSP
 
 ### Rust
 
