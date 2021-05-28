@@ -329,6 +329,9 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [n64zlibbench](https://github.com/clbr/n64zlibbench) - A zlib benchmark with result display
 * [chip8-n64](https://github.com/joshiggins/chip8-n64) - A [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator, using `libdragon`
 * [gb64](https://github.com/lambertjamesd/gb64) - A Nintendo Game Boy emulator that runs on real hardware
+* [mvs64](https://github.com/rasky/mvs64) - A NeoGeo emulator
+* [n64-gba](https://github.com/Dillonb/n64-gba) - A proof of concept Game Boy Advance emulator (only runs ARMWrestler, a CPU exercise ROM)
+* [paniclab64](https://github.com/1r3n33/paniclab64) - A homebrew game inspired by _Panic Lab_ from Gigamic
 * [platformer64](https://github.com/lambertjamesd/platformer64) - An in-progress adventure platformer
 * [aw64](https://github.com/jnmartin84/aw64) - (C++) A Nintendo 64 port of the bytecode interpreter from _Another World_/_Out of This World_
 * [Memory64-N64](https://github.com/vieux/Memory64-N64) - A Simon style memory game with Rumble Pak support, using libdragon
