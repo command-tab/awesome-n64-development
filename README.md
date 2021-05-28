@@ -260,7 +260,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Zelda MM](https://github.com/zeldaret/mm) - An in-progress decompilation of _The Legend of Zelda: Majora's Mask_
 * [YI64](https://github.com/masterf0x/YI64) - _Yoshi's Story_ reverse engineering and research
 
-##### Pre-comp
+#### Pre-comp
 
 * [Banjo Kazooie](https://github.com/Mr-Wiseguy/Banjo-Precomp) - A pre-comp of _Banjo Kazooie_
 * [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet-precomp) - A pre-comp of _Dinosaur Planet_
