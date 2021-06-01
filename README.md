@@ -95,6 +95,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [armips](https://github.com/Kingcom/armips) - An assembler for various ARM and MIPS platforms. [macOS builds](https://github.com/Emory-M/armips) also available.
 * [Screwaround64](https://github.com/superjack111/screwaround64) - An interactive assembler for Nintendo 64
 * [lips](https://github.com/notwa/lips) - A MIPS R4300i assembler written in Lua
+* [naken_asm](https://github.com/mikeakohn/naken_asm) - An assembler for a variety of CPUs including standard MIPS III (Nintendo 64 CPU) and RSP
 
 ## Emulators
 
