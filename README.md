@@ -1,6 +1,6 @@
 # Awesome N64 Development
 
-A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, and more
+A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more
 
 ## Contents
 
