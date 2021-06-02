@@ -74,6 +74,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [REcon 2015 - Reversing the Nintendo 64 CIC](https://www.youtube.com/watch?v=HwEdqAb2l50) - Mike Ryan, Marshall Hecht, and John McMaster talk about reverse engineering and cloning a 20 year old copy protection chip (the N64 CIC)
 * [Portland Retro Gaming Expo 2019 - N64 Homebrew Development - Part 1](https://www.youtube.com/watch?v=zpDkENNnrZk) - Victor Vieux talks about the Nintendo 64 technical specifications and begins building a game using `libdragon`
 * [Portland Retro Gaming Expo 2019 - N64 Homebrew Development - Part 2](https://www.youtube.com/watch?v=V9y-2LiJsI0) - Victor Vieux adds sound and graphic assets and talks about the future of Nintendo 64 homebrew development
+* [Programming for Nintendo 64](https://www.youtube.com/watch?v=aKXEooIPwP0) - Damjan Nesic goes through the basics of programming for Nintendo 64 using C and a Windows XP virtual machine
 
 ## Toolchains
 
