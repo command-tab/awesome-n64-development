@@ -249,6 +249,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Mario Kart 64](https://github.com/n64decomp/mk64) - An in-progress decompilation of _Mario Kart 64_
 * [Mario Party](https://github.com/gamemasterplc/mpsource) - An in-progress decompilation of _Mario Party_
 * [Mario Party 3](https://github.com/PartyPlanner64/mp3) - An in-progress decompilation of _Mario Party 3_
+* [Mischief Makers](https://github.com/Drahsid/mischief-makers) - An in-progress decompilation of _Mischief Makers_
 * [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion) - An in-progress decompilation of _Neon Genesis Evangelion 64_
 * [Paper Mario](https://github.com/ethteck/papermario/) - An in-progress decompilation of _Paper Mario_
 * [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark) - An in-progress decompilation of _Perfect Dark_ (see also [pdtools](https://gitlab.com/ryandwyer/pdtools))
@@ -258,7 +259,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Space Station Silicon Valley](https://github.com/mkst/sssv) - An in-progress decompilation of _Space Station Silicon Valley_
 * [Super Mario 64](https://github.com/n64decomp/sm64) - A **complete** decompilation of _Super Mario 64_
 * [Super Smash Bros.](https://gitlab.com/tehz/ssb-temp) - An in-progress decompilation of _Super Smash Bros._
-* [Turok-3-RAM-Map](https://github.com/Drahsid/Turok-3-RAM-Map) - An archive of findings from reverse engineering _Turok 3_
 * [Zelda OOT](https://github.com/zeldaret/oot) - An in-progress decompilation of _The Legend of Zelda: Ocarina of Time_
 * [Zelda MM](https://github.com/zeldaret/mm) - An in-progress decompilation of _The Legend of Zelda: Majora's Mask_
 * [YI64](https://github.com/masterf0x/YI64) - _Yoshi's Story_ reverse engineering and research
@@ -267,6 +267,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 * [Banjo Kazooie](https://github.com/Mr-Wiseguy/Banjo-Precomp) - A pre-comp of _Banjo Kazooie_
 * [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet-precomp) - A pre-comp of _Dinosaur Planet_
+* [LibTEngine](https://github.com/Drahsid/LibTEngine) - A code library for games that derive from _Turok 2_'s game engine which currently supports _Turok 2_ and _Turok 3_
 * [Paper Mario](https://github.com/Mr-Wiseguy/Paper-Mario-Precomp) - A pre-comp of _Paper Mario_
 * [Rocket: Robot on Wheels](https://github.com/Mr-Wiseguy/N64-Precomp-Example) - A pre-comp of _Rocket: Robot on Wheels_
 * [Space Station Silicon Valley](https://github.com/mkst/sssv-precomp) - A pre-comp of _Space Station Silicon Valley_
