@@ -103,16 +103,17 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ### Actively Maintained
 
 * [cen64](https://github.com/n64dev/cen64) - A [cycle-accurate](https://retrocomputing.stackexchange.com/questions/1191/what-exactly-is-a-cycle-accurate-emulator) An emulator for Windows, Linux, and Mac. While currently not fast enough to play games at full speed, it aims for perfect emulation by emulating the hardware inside of the console down to the register-transfer level. Widely used to test ROMs in lieu of or before using real hardware.
-* [Project64](https://www.pj64-emu.com) ([GitHub](https://github.com/project64/project64)) ([with Debugger](http://shygoo.net/pj64d/)) - An open source emulator for Windows and Android
+* [Project64](https://www.pj64-emu.com) ([GitHub](https://github.com/project64/project64)) ([with Debugger](http://shygoo.net/pj64d/)) - An open source high-level emulator for Windows and Android. It does not accurately emulate console low-level details, but rather focus on compatibility with commercial games. It cannot be used to develop homebrew software with SDKs different from libultra.
 * [Sixtyforce](https://sixtyforce.com) - A closed-source emulator for Mac
 * [mupen64plus](https://mupen64plus.org) ([GitHub](https://github.com/mupen64plus)) - A more recently updated fork of mupen64 for Linux, Mac OSX, FreeBSD, and Windows
 * [Mupen64+ Reverser Edition](https://www.retroreversing.com/mupen64RE) - A fork of the Mupen64+ emulator tailored for reverse engineering
 * [ModLoader64](https://modloader64.com) ([GitHub](https://github.com/hylian-modding/ModLoader64)) - A wrapper for mupen64plus that enables modding through plugins written in Typescript
+* [Ares](https://ares-emulator.github.io) - A low-level, accurate multi-system emulator with good support for N64. Available in sources and binary distributions for Windows, Mac and Linux. It includes a CPU and RSP recompiler, and emulates RDP with Vulkan (via parallel-RDP). 
+* [Dillonb's N64](https://github.com/Dillonb/n64) - A low-level, accurate N64 emulator for Windows and Linux. It includes a CPU recompiler, and emulates RDP with Vulkan (via parallel-RDP).
 
 ### Works In Progress
 
 * [cor64](https://github.com/bryanperris/cor64) - An in-progress emulator written in C#
-* [r64emu](https://github.com/rasky/r64emu) - An in-progress emulator written in Rust
 
 ### Unmaintained
 
@@ -126,6 +127,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Not64](https://github.com/extremscorner/not64) - A fork of Wii64
 * [Surreal64](http://surreal64.sourceforge.net) and [Surreal64 CE](http://surreal64ce.wikidot.com) - An emulator for the original Xbox which includes ports of 1964, Project64, and UHLE
 * [TrueReality](https://sourceforge.net/projects/truereality/) - An open-source emulator
+* [r64emu](https://github.com/rasky/r64emu) - A N64 low-level emulator written in Rust
 
 ## Development Hardware
 
