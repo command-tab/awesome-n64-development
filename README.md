@@ -227,6 +227,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [libn64](https://github.com/tj90241/n64chain/tree/master/libn64) - An open-source library for Nintendo 64 development, part of `n64chain`
 * [pseultra](https://github.com/pseudophpt/pseultra) - A collection of tools used to develop software for the Nintendo 64 that are distinct from the official SDK
 * [libreultra](https://github.com/n64decomp/libreultra) - A decompilation of the Nintendo 64 standard SDK library, `libultra`
+* [ultralib](https://github.com/decompals/ultralib) - A reverse engineering of `libultra`
 * [framework64](https://github.com/matthewcpp/framework64) - An asset pipeline and C library to simplify game creation (uses n64sdkmod)
 * [n64ut](https://github.com/n64ut) - An in-progress set of modern Nintendo 64 libraries
 * [libhfx](https://github.com/Hazematman/libhfx) - An in-progress open source library for 3D graphics
