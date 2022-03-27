@@ -178,7 +178,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64GFXCookie](https://github.com/LuigiBlood/N64GFXCookie) - Nintendo 64 CI8 format graphics viewer/editor
 * [n64rawgfx](https://github.com/Octocontrabass/n64rawgfx) - A tool to export and import uncompressed/raw graphics from ROMs
 * [Texture64](https://github.com/queueRAM/Texture64) - A texture ripper and editor with support for multiple formats
-* [leotools](https://github.com/jkbenaim/leotools) - Tools for working with 64DD images and related files
 * [ImageMerge](https://github.com/TheRDavid/ImageMerge) - Converts two 8-bit images into 2-bit images and packs them into 1 image to save space in a ROM
 * [Spritemapper](https://github.com/TheRDavid/Spritemapper) - Arranges a directory of equally-sized images into a sprite map and compresses it
 * [xo-tt64](https://github.com/xoorath/xo-tt64) - Converts input images to .c files of the same name
@@ -214,6 +213,8 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Tool N64](https://www.zophar.net/utilities/n64aud/tool-n64.html) - A tool to display ROM information and perform byte reordering
 * [Real N64 CRC Tool v2](https://www.smwcentral.net/?p=section&a=details&id=8799) - A tool to check, calculate, and set ROM checksums and extract the bootcode of ROM files
 * [rom64](https://github.com/mroach/rom64) - A tool to identify and parse ROM header information
+* [romjudge](https://github.com/jkbenaim/romjudge) - A utility to judge an N64 ROM for correctness
+* [leotools](https://github.com/jkbenaim/leotools) - Work with 64DD disk images and the files contained therein
 * [n64splat](https://github.com/ethteck/n64splat) - A ROM splitting tool to assist with decompilation and modding projects
 * [seq64/n64checksum](https://github.com/sauraen/seq64/blob/master/Source/n64checksum.cpp) - Source for a tool to calculate and set ROM checksums
 * [Info64](https://www.smwcentral.net/?p=section&a=details&id=5737) - A tool to display and set ROM header information and checksums
