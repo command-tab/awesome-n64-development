@@ -143,6 +143,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [sm64gameshark](https://sites.google.com/site/sm64gameshark/resources/transfering-codes-over-usb) - How to transfer GameShark codes from USB to parallel, and how to identify GameShark cartridges with functional parallel ports
 * [gs_libusb](https://github.com/hcs64/gs_libusb) - GameShark Pro utilities using libusb over a USB parallel port adapter
 * [Replacement Carts](https://n64preservationproject.com/) - A set of EagleCAD files for manufacturing your own N64 carts
+* [ED64 Plus](https://ed64p.com/) - A Chinese clone of the Everdrive 64 at a much cheaper price point. It also has a disconnected USB port with a missing FT245R chip that [can be reattached](https://odysee.com/@backofficeshow:f/everdrive-ed64-nintendo-64-teardown:0) for theoretical added functionality. 
 
 ## Tools and Libraries
 
