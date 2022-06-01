@@ -338,6 +338,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [ultra64demos](https://github.com/shlomnissan/ultra64demos) - Original SGI Nintendo 64 technical demos
 * [n64-sdk-demo](https://github.com/jsdf/n64-sdk-demo) - jsdf's detailed example with heavily-commented source showing basic usage of the official SDK and the NuSystem library
 * [N64brew Game Jam 2020](https://github.com/N64brew-Game-Jam-2020) - N64brew Game Jam 2020 submissions
+* [N64brew Game Jam 2021](https://github.com/N64brew-Game-Jam-2021) - N64brew Game Jam 2021 submissions
 * [brick64](https://github.com/allie/brick64) - A homebrew 3D brick-breaker game using the official SDK
 * [goose64](https://github.com/jsdf/goose64) - jsdf's _Untitled Goose Game_ "demake"
 * [helloworld](https://github.com/loociano/n64dev/tree/master/helloworld) - Hello World example using NuSystem and S2DEX microcode
