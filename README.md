@@ -49,21 +49,18 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64brew Wiki](https://n64brew.dev/) - The N64brew community wiki
 * [N64dev](http://n64dev.org/) - Useful N64 hacking links
 * [NEC VR4300i CPU Manual @ N64dev](http://n64dev.org/p/U10504EJ7V0UMJ1.pdf) - The manual for the NEC VR4300i CPU used by the Nintendo 64
-* [N64TEK](http://n64.icequake.net/mirror/www.jimb.de/Projects/N64TEK.htm) - Nintendo 64 technical information, registers, memory map, and instruction set
 * [Console Protocols](https://sites.google.com/site/consoleprotocols/home) - Nintendo 64 hardware info, memory map, PIF boot stage reference, and JoyBus I/O documentation
 * [dragonminded N64DEV](https://dragonminded.com/n64dev/) - `libdragon` usage, Windows and Linux toolchains, and RCP documentation
 * [N64 ROM Formats](http://n64dev.org/romformats.html) - A short N64 ROM format quick reference sheet
 * [N64 ROM Formats Explained](https://www.reddit.com/r/emulation/comments/7hrvzp/the_three_different_n64_rom_formats_explained_for/?st=jn9t30t4&sh=1951de19) - Details the three commonly encountered Nintendo 64 ROM formats (use Big Endian/.z64)
 * [Accessory Reference](http://github.com/joeldipops/TransferBoy/blob/master/docs/TransferPakReference.md) - Guide on how to communicate with the Transfer Pak and Rumble Pak
 * [Hack64](https://hack64.net/wiki/doku.php?id=nintendo_64) - A variety of documentation on RCP data structures, compression, assembly, and more
-* [Encryption 64](http://en64.shoutwiki.com/wiki/Main_Page) - A collection of documentation on MIPS assembly, GameShark code structure, and layout of individual titles
 * [64dd.org](https://64dd.org) - Nintendo 64DD documentation, emulators, homebrew, and tools
 * [64dd wiki](https://github.com/LuigiBlood/64dd/wiki) - Documentation on 64DD hardware, disks, and related cartridges
 * [64dd-schematics](https://github.com/ChrisPVille/64dd-schematics) - Schematics for the Nintendo 64 Disk Drive (N64DD)
 * [cen64#58](https://github.com/n64dev/cen64/issues/58) - A cen64 issue comment summarizing the boot process
 * [Microcode from Source](https://olivieryuyu.blogspot.com/2019/11/how-to-compile-n64-microcode-from-source.html) - How to compile microcode from source
-* [N64 Cartridge Info](https://forums.nesdev.com/viewtopic.php?t=15518) - A NESDev forum thread with some details about the cartridge bus
-* [N64 Cart Info](http://n64.icequake.net/mirror/www.crazynation.org/N64/) - Cartridge pinout and bus timing
+* [N64 Cartridge Info]( https://n64brew.dev/wiki/Game_Pak) - Cartridge pinout
 * [RSP](https://github.com/rasky/r64emu/blob/master/doc/rsp.md) - Detailed RSP documentation in the r64emu emulator repository
 
 ## Videos
