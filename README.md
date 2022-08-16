@@ -367,6 +367,8 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### Rust
 
+* [nust64](https://github.com/bigbass1997/nust64) - Rust crate for compiling a Rust project into an n64 ROM
+* [n64-systemtest](https://github.com/lemmy-64/n64-systemtest) - A collection of hardware tests written in Rust
 * [cargo-n64](https://github.com/rust-console/cargo-n64) - A `cargo` subcommand to build Nintendo 64 ROMs in Rust
 * [cargo-n64/examples](https://github.com/rust-console/cargo-n64/tree/master/examples) - Rust examples using cargo-n64
 * [n64toolchain](https://github.com/monocasa/n64toolchain) - Rust Implementation of a Nintendo 64 ROM toolchain
