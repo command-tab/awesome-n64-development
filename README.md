@@ -1,6 +1,6 @@
 # Awesome N64 Development
 
-A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more
+A curated list of Nintendo 64 development resources including toolchains, documentation, emulators, example code, and more!
 
 ## Contents
 
@@ -40,7 +40,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Discord64](https://discord.gg/FrPyDtr) - Nintendo 64 emulation and homebrew chat on Discord
 * [`#n64dev` on EFnet](http://chat.efnet.org/?channels=n64dev) - Nintendo 64 development IRC channel on EFnet
 * [/r/N64Homebrew](https://www.reddit.com/r/N64Homebrew/) - The N64Homebrew subreddit
-* [N64 Developers on Twitter](https://twitter.com/i/lists/1030672686475751425) - A Twitter list of Nintendo 64 developers and enthusiasts. Additions welcome.
+* [N64 Developers on Twitter](https://twitter.com/i/lists/1030672686475751425) - A Twitter list of Nintendo 64 developers and enthusiasts. Additions welcome!
 
 ## Documentation
 
@@ -48,19 +48,22 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Nintendo 64 Architecture](https://copetti.org/projects/consoles/nintendo-64/) - An overview of the console architecture
 * [N64brew Wiki](https://n64brew.dev/) - The N64brew community wiki
 * [N64dev](http://n64dev.org/) - Useful N64 hacking links
-* [NEC VR4300i CPU Manual @ N64dev](http://n64dev.org/p/U10504EJ7V0UMJ1.pdf) - The manual for the NEC VR4300i CPU used by the Nintendo 64
+* [NEC VR4300 CPU Manual @ N64dev](http://n64dev.org/p/U10504EJ7V0UMJ1.pdf) - The manual for the NEC VR4300 CPU used by the Nintendo 64
+* [N64TEK](http://n64.icequake.net/mirror/www.jimb.de/Projects/N64TEK.htm) - Nintendo 64 technical information, registers, memory map, and instruction set
 * [Console Protocols](https://sites.google.com/site/consoleprotocols/home) - Nintendo 64 hardware info, memory map, PIF boot stage reference, and JoyBus I/O documentation
 * [dragonminded N64DEV](https://dragonminded.com/n64dev/) - `libdragon` usage, Windows and Linux toolchains, and RCP documentation
 * [N64 ROM Formats](http://n64dev.org/romformats.html) - A short N64 ROM format quick reference sheet
 * [N64 ROM Formats Explained](https://www.reddit.com/r/emulation/comments/7hrvzp/the_three_different_n64_rom_formats_explained_for/?st=jn9t30t4&sh=1951de19) - Details the three commonly encountered Nintendo 64 ROM formats (use Big Endian/.z64)
 * [Accessory Reference](http://github.com/joeldipops/TransferBoy/blob/master/docs/TransferPakReference.md) - Guide on how to communicate with the Transfer Pak and Rumble Pak
 * [Hack64](https://hack64.net/wiki/doku.php?id=nintendo_64) - A variety of documentation on RCP data structures, compression, assembly, and more
+* [Encryption 64](http://en64.shoutwiki.com/wiki/Main_Page) - A collection of documentation on MIPS assembly, GameShark code structure, and layout of individual titles
 * [64dd.org](https://64dd.org) - Nintendo 64DD documentation, emulators, homebrew, and tools
-* [64dd wiki](https://github.com/LuigiBlood/64dd/wiki) - Documentation on 64DD hardware, disks, and related cartridges
-* [64dd-schematics](https://github.com/ChrisPVille/64dd-schematics) - Schematics for the Nintendo 64 Disk Drive (N64DD)
+* [64DD wiki](https://github.com/LuigiBlood/64dd/wiki) - Documentation on 64DD hardware, disks, and related cartridges
+* [64DD-schematics](https://github.com/ChrisPVille/64dd-schematics) - Schematics for the Nintendo 64 Disk Drive (N64DD)
 * [cen64#58](https://github.com/n64dev/cen64/issues/58) - A cen64 issue comment summarizing the boot process
-* [Microcode from Source](https://olivieryuyu.blogspot.com/2019/11/how-to-compile-n64-microcode-from-source.html) - How to compile microcode from source
-* [N64 Cartridge Info]( https://n64brew.dev/wiki/Game_Pak) - Cartridge pinout
+* [Microcode from source](https://olivieryuyu.blogspot.com/2019/11/how-to-compile-n64-microcode-from-source.html) - How to compile microcode from source
+* [N64 cartridge info](https://forums.nesdev.com/viewtopic.php?t=15518) - A NESDev forum thread with some details about the cartridge bus
+* [N64 cart info](http://n64.icequake.net/mirror/www.crazynation.org/N64/) - Cartridge pinout and bus timing
 * [RSP](https://github.com/rasky/r64emu/blob/master/doc/rsp.md) - Detailed RSP documentation in the r64emu emulator repository
 
 ## Videos
@@ -101,12 +104,13 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ### Actively Maintained
 
 * [cen64](https://github.com/n64dev/cen64) - A [cycle-accurate](https://retrocomputing.stackexchange.com/questions/1191/what-exactly-is-a-cycle-accurate-emulator) An emulator for Windows, Linux, and Mac. While currently not fast enough to play games at full speed, it aims for perfect emulation by emulating the hardware inside of the console down to the register-transfer level. Widely used to test ROMs in lieu of or before using real hardware.
-* [Project64](https://www.pj64-emu.com) ([GitHub](https://github.com/project64/project64)) ([with Debugger](http://shygoo.net/pj64d/)) - An open source high-level emulator for Windows and Android. It does not accurately emulate console low-level details, but rather focus on compatibility with commercial games. It cannot be used to develop homebrew software with SDKs different from libultra.
+* [Project64](https://www.pj64-emu.com) ([GitHub](https://github.com/project64/project64)) - An open-source high-level emulator for Windows and Android
 * [Sixtyforce](https://sixtyforce.com) - A closed-source emulator for Mac
-* [mupen64plus](https://mupen64plus.org) ([GitHub](https://github.com/mupen64plus)) - A more recently updated fork of mupen64 for Linux, Mac OSX, FreeBSD, and Windows
-* [Mupen64+ Reverser Edition](https://www.retroreversing.com/mupen64RE) - A fork of the Mupen64+ emulator tailored for reverse engineering
-* [ModLoader64](https://modloader64.com) ([GitHub](https://github.com/hylian-modding/ModLoader64)) - A wrapper for mupen64plus that enables modding through plugins written in Typescript
-* [Ares](https://ares-emu.net) - A low-level, accurate multi-system emulator with good support for N64. Available in sources and binary distributions for Windows, Mac and Linux. It includes a CPU and RSP recompiler, and emulates RDP with Vulkan (via parallel-RDP).
+* [mupen64plus](https://mupen64plus.org) ([GitHub](https://github.com/mupen64plus)) - A more recently updated fork of Mupen64 for Linux, Mac OSX, FreeBSD, and Windows. No GUI is included, so you can use simple64 or the RetroArch core for a UI.
+* [simple64](https://simple64.github.io/) ([GitHub](https://github.com/simple64/simple64)) - A fork of Mupen64Plus that is easy to use and also more accurate
+* [Mupen64+ Reverser Edition](https://www.retroreversing.com/mupen64RE) - A fork of the Mupen64Plus emulator tailored for reverse engineering
+* [ModLoader64](https://modloader64.com) ([GitHub](https://github.com/hylian-modding/ModLoader64)) - A wrapper for Mupen64plus that enables modding through plugins written in TypeScript
+* [Ares](https://ares-emu.net) - A low-level, accurate multi-system emulator with good support for N64. Available in sources and binary distributions for Windows, Mac and Linux. It includes a CPU and RSP recompiler, and emulates RDP with Vulkan (via Parallel-RDP) or OpenGL (via Angrylion's MAME RDP).
 * [Dillonb's N64](https://github.com/Dillonb/n64) - A low-level, accurate N64 emulator for Windows and Linux. It includes a CPU recompiler, and emulates RDP with Vulkan (via parallel-RDP).
 
 ### Works In Progress
@@ -117,30 +121,30 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 * [1964](http://1964emu.emulation64.com) - An open-source emulator for Windows
 * [mupen64](http://mupen64.emulation64.com) - An open-source, multi-platform emulator
-* [Wii64](https://wiibrew.org/wiki/Wii64) - A port of mupen64 for Nintendo Wii and Gamecube
-* [Mupen64-360](https://gbatemp.net/download/mupen64-360_v0-993_beta2.34126) - A port of Wii64 (and thus mupen64) to the Xbox 360. No longer maintained
+* [Wii64](https://wiibrew.org/wiki/Wii64) - A port of mupen64 for Nintendo Wii and GameCube
+* [Mupen64-360](https://gbatemp.net/download/mupen64-360_v0-993_beta2.34126) - A port of Wii64 (and thus mupen64) to the Xbox 360. No longer maintained.
 * Project Unreality - An early emulator for Windows
-* [Nemu64](http://www.emulation64.com/files/info/202/nemu64.html/) - A closed-source emulator for Windows
+* [Nemu64](http://www.emulation64.com/files/info/202/nemu64.html/) - A closed-source emulator for Windows with fantastic debugging tools. Currently is incredibly difficult to run on modern Windows.
 * [UltraHLE](https://en.wikipedia.org/wiki/UltraHLE) - An early emulator for Windows. Though closed-source, [the source leaked in 2002](https://web.archive.org/web/20020812020546/http://www.emulation64.com/freeflow-page.html).
 * [Not64](https://github.com/extremscorner/not64) - A fork of Wii64
-* [Surreal64](http://surreal64.sourceforge.net) and [Surreal64 CE](http://surreal64ce.wikidot.com) - An emulator for the original Xbox which includes ports of 1964, Project64, and UHLE
+* [Surreal64](http://surreal64.sourceforge.net) and [Surreal64 CE](http://surreal64ce.wikidot.com) - An emulator for the original Xbox which includes ports of 1964, Project64, and UltraHLE
 * [TrueReality](https://sourceforge.net/projects/truereality/) - An open-source emulator
 * [r64emu](https://github.com/rasky/r64emu) - A N64 low-level emulator written in Rust
 
 ## Development Hardware
 
-* [64drive](http://64drive.retroactive.be/) - A flash cartridge with USB support targeted at developers. Currently unavailable.
+* [64drive](http://64drive.retroactive.be/) - A flash cartridge with USB support targeted at developers. Currently near impossible to get new, or expensive second hand.
 * [EverDrive 64 X7](https://krikzz.com/store/home/55-everdrive-64-x7.html) - A flash cartridge with USB support for development
 * [Brutzelkarte](https://github.com/jago85/Brutzelkarte_PCB) - An open-source (hardware and software) FPGA-based flash cartridge
 * [El Barato 64](https://github.com/Hazematman/El-Barato-64) - An in-progress open source development cartridge
 * [SummerCart64](https://github.com/Polprzewodnikowy/SummerCollection) - A collection of hardware, firmware, and software designs for an FPGA-based flash cartridge
 * [UltraHDMI](http://ultrahdmi.retroactive.be/) (periodically in stock at [Game-Tech](https://www.game-tech.us/product/ultrahdmi/)) - A board that can be installed into the console to capture the digital output of the RCP and send it out a Mini HDMI connector to a modern TV. Convenient for connecting a real console to a nearby monitor while viewing the best possible output signal.
+* [N64RGB](https://etim.net.au/shop/shop.php?crn=209&rn=548&action=show_detail) - An N64RGB mod that supports every motherboard revision and works pretty well.
 * [UltraSave](http://64drive.retroactive.be/features.php#ultrasave) - A device that works with the 64drive to transfer saves from real cartridges
 * [GameShark 3.0+](https://hackaday.com/2019/01/11/nintendo-64-homebrew-via-game-shark/) - A method of running homebrew via a GameShark
 * [sm64gameshark](https://sites.google.com/site/sm64gameshark/resources/transfering-codes-over-usb) - How to transfer GameShark codes from USB to parallel, and how to identify GameShark cartridges with functional parallel ports
 * [gs_libusb](https://github.com/hcs64/gs_libusb) - GameShark Pro utilities using libusb over a USB parallel port adapter
 * [Replacement Carts](https://n64preservationproject.com/) - A set of EagleCAD files for manufacturing your own N64 carts
-* [ED64 Plus](https://ed64p.com/) - A Chinese clone of the Everdrive 64 at a much cheaper price point. It also has a disconnected USB port with a missing FT245R chip that [can be reattached](https://odysee.com/@backofficeshow:f/everdrive-ed64-nintendo-64-teardown:0) for theoretical added functionality. 
 
 ## Tools and Libraries
 
@@ -149,7 +153,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [g64drive](https://github.com/rasky/g64drive) - Linux/Mac tool for operating a 64drive development cartridge
 * [ed64](https://github.com/anacierdem/ed64) - Tools to develop on an EverDrive 64 cartridge
 * [loader64](https://github.com/jsdf/loader64) - A USB uploader for EverDrive 64
-* [UNFLoader](https://github.com/buu342/N64-UNFLoader/) - A universal flashcart ROM uploader (64drive, EverDrive 64 V3, and EverDrive 64 X7) and debug library
+* [UNFLoader](https://github.com/buu342/N64-UNFLoader/) - A universal flash cart ROM uploader (64drive, EverDrive 64 V3, and EverDrive 64 X7) and debug library
 
 ### Asset Conversion and Viewing
 
@@ -278,7 +282,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 * [f3dex2](https://github.com/Mr-Wiseguy/f3dex2) - Matching and (partially) documented disassemblies of the F3DEX2/F3DZEX RSP microcode families
 * [n64-kicad](https://github.com/nterry/n64-kicad/) - A set of KiCad files detailing the Nintendo 64 hardware
-* [N64 Uncompiled Source Code](http://shygoo.net/n64-uncompiled/) - Uncompiled source code and related material discovered in various ROM images
+* [N64 Uncompiled Source Code](http://shygoo.net/n64-uncompiled/) - Various source code and related material discovered in various ROM images
 * [nus-cpu](https://github.com/dmkfasi/nus-cpu) - A condensed, modular re-creation of the Nintendo 64 motherboard
 * [shogihax](https://cturt.github.io/shogihax.html) - Details a remote code execution exploit of the Nintendo 64 via the _Morita Shogi 64_ cartridge and its dialup modem
 * [Ultra FP64](http://www.ultrafp64.com/) - A work in progress FPGA Nintendo 64
@@ -335,7 +339,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [ultra64demos](https://github.com/shlomnissan/ultra64demos) - Original SGI Nintendo 64 technical demos
 * [n64-sdk-demo](https://github.com/jsdf/n64-sdk-demo) - jsdf's detailed example with heavily-commented source showing basic usage of the official SDK and the NuSystem library
 * [N64brew Game Jam 2020](https://github.com/N64brew-Game-Jam-2020) - N64brew Game Jam 2020 submissions
-* [N64brew Game Jam 2021](https://github.com/N64brew-Game-Jam-2021) - N64brew Game Jam 2021 submissions
 * [brick64](https://github.com/allie/brick64) - A homebrew 3D brick-breaker game using the official SDK
 * [goose64](https://github.com/jsdf/goose64) - jsdf's _Untitled Goose Game_ "demake"
 * [helloworld](https://github.com/loociano/n64dev/tree/master/helloworld) - Hello World example using NuSystem and S2DEX microcode
@@ -367,8 +370,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### Rust
 
-* [nust64](https://github.com/bigbass1997/nust64) - Rust crate for compiling a Rust project into an n64 ROM
-* [n64-systemtest](https://github.com/lemmy-64/n64-systemtest) - A collection of hardware tests written in Rust
 * [cargo-n64](https://github.com/rust-console/cargo-n64) - A `cargo` subcommand to build Nintendo 64 ROMs in Rust
 * [cargo-n64/examples](https://github.com/rust-console/cargo-n64/tree/master/examples) - Rust examples using cargo-n64
 * [n64toolchain](https://github.com/monocasa/n64toolchain) - Rust Implementation of a Nintendo 64 ROM toolchain
