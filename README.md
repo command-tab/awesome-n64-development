@@ -49,7 +49,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64brew Wiki](https://n64brew.dev/) - The N64brew community wiki
 * [N64dev](http://n64dev.org/) - Useful N64 hacking links
 * [NEC VR4300 CPU Manual @ N64dev](http://n64dev.org/p/U10504EJ7V0UMJ1.pdf) - The manual for the NEC VR4300 CPU used by the Nintendo 64
-* [N64TEK](http://n64.icequake.net/mirror/www.jimb.de/Projects/N64TEK.htm) - Nintendo 64 technical information, registers, memory map, and instruction set
 * [Console Protocols](https://sites.google.com/site/consoleprotocols/home) - Nintendo 64 hardware info, memory map, PIF boot stage reference, and JoyBus I/O documentation
 * [dragonminded N64DEV](https://dragonminded.com/n64dev/) - `libdragon` usage, Windows and Linux toolchains, and RCP documentation
 * [N64 ROM Formats](http://n64dev.org/romformats.html) - A short N64 ROM format quick reference sheet
@@ -62,8 +61,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [64DD-schematics](https://github.com/ChrisPVille/64dd-schematics) - Schematics for the Nintendo 64 Disk Drive (N64DD)
 * [cen64#58](https://github.com/n64dev/cen64/issues/58) - A cen64 issue comment summarizing the boot process
 * [Microcode from source](https://olivieryuyu.blogspot.com/2019/11/how-to-compile-n64-microcode-from-source.html) - How to compile microcode from source
-* [N64 cartridge info](https://forums.nesdev.com/viewtopic.php?t=15518) - A NESDev forum thread with some details about the cartridge bus
-* [N64 cart info](http://n64.icequake.net/mirror/www.crazynation.org/N64/) - Cartridge pinout and bus timing
+* [N64 cartridge info](https://n64brew.dev/wiki/Game_Pak) - Cartridge pinout
 * [RSP](https://github.com/rasky/r64emu/blob/master/doc/rsp.md) - Detailed RSP documentation in the r64emu emulator repository
 
 ## Videos
@@ -370,6 +368,8 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### Rust
 
+* [nust64](https://github.com/bigbass1997/nust64) - Rust crate for compiling a Rust project into an N64 ROM
+* [n64-systemtest](https://github.com/lemmy-64/n64-systemtest) - A collection of hardware tests written in Rust
 * [cargo-n64](https://github.com/rust-console/cargo-n64) - A `cargo` subcommand to build Nintendo 64 ROMs in Rust
 * [cargo-n64/examples](https://github.com/rust-console/cargo-n64/tree/master/examples) - Rust examples using cargo-n64
 * [n64toolchain](https://github.com/monocasa/n64toolchain) - Rust Implementation of a Nintendo 64 ROM toolchain
