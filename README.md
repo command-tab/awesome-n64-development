@@ -108,7 +108,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Mupen64+ Reverser Edition](https://www.retroreversing.com/mupen64RE) - A fork of the Mupen64Plus emulator tailored for reverse engineering
 * [ModLoader64](https://modloader64.com) ([GitHub](https://github.com/hylian-modding/ModLoader64)) - A wrapper for Mupen64plus that enables modding through plugins written in TypeScript
 * [Ares](https://ares-emu.net) - A low-level, accurate multi-system emulator with good support for N64. Available in sources and binary distributions for Windows, Mac and Linux. It includes a CPU and RSP recompiler, and emulates RDP with Vulkan (via Parallel-RDP) or OpenGL (via Angrylion's MAME RDP).
-* [Dillonb's N64](https://github.com/Dillonb/n64) - A low-level, accurate N64 emulator for Windows and Linux. It includes a CPU recompiler, and emulates RDP with Vulkan (via parallel-RDP).
+* [Dillonb's dgb-n64](https://github.com/Dillonb/n64) - A low-level, accurate N64 emulator for Windows and Linux. It includes a CPU recompiler, and emulates RDP with Vulkan (via parallel-RDP).
 
 ### Works In Progress
 
