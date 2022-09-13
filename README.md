@@ -55,7 +55,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64 ROM Formats Explained](https://www.reddit.com/r/emulation/comments/7hrvzp/the_three_different_n64_rom_formats_explained_for/?st=jn9t30t4&sh=1951de19) - Details the three commonly encountered Nintendo 64 ROM formats (use Big Endian/.z64)
 * [Accessory Reference](http://github.com/joeldipops/TransferBoy/blob/master/docs/TransferPakReference.md) - Guide on how to communicate with the Transfer Pak and Rumble Pak
 * [Hack64](https://hack64.net/wiki/doku.php?id=nintendo_64) - A variety of documentation on RCP data structures, compression, assembly, and more
-* [Encryption 64](http://en64.shoutwiki.com/wiki/Main_Page) - A collection of documentation on MIPS assembly, GameShark code structure, and layout of individual titles
 * [64dd.org](https://64dd.org) - Nintendo 64DD documentation, emulators, homebrew, and tools
 * [64DD wiki](https://github.com/LuigiBlood/64dd/wiki) - Documentation on 64DD hardware, disks, and related cartridges
 * [64DD-schematics](https://github.com/ChrisPVille/64dd-schematics) - Schematics for the Nintendo 64 Disk Drive (N64DD)
