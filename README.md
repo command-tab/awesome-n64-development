@@ -101,7 +101,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ### Actively Maintained
 
 * [cen64](https://github.com/n64dev/cen64) - A [cycle-accurate](https://retrocomputing.stackexchange.com/questions/1191/what-exactly-is-a-cycle-accurate-emulator) An emulator for Windows, Linux, and Mac. While currently not fast enough to play games at full speed, it aims for perfect emulation by emulating the hardware inside of the console down to the register-transfer level. Widely used to test ROMs in lieu of or before using real hardware.
-* [Project64](https://www.pj64-emu.com) ([GitHub](https://github.com/project64/project64)) - An open-source high-level emulator for Windows and Android. It does not currentlly accurately emulate the console via LLE, but rather HLE to focus on compatibility with commercial games. It cannot currently be used to develop homebrew software with SDKs different from libultra.
+* [Project64](https://www.pj64-emu.com) ([GitHub](https://github.com/project64/project64)) - An open-source high-level emulator for Windows and Android. It does not currently accurately emulate the console via LLE, but rather HLE to focus on compatibility with commercial games. It cannot currently be used to develop homebrew software with SDKs different from libultra.
 * [Sixtyforce](https://sixtyforce.com) - A closed-source emulator for Mac
 * [mupen64plus](https://mupen64plus.org) ([GitHub](https://github.com/mupen64plus)) - A more recently updated fork of Mupen64 for Linux, Mac OSX, FreeBSD, and Windows. No GUI is included, so you can use simple64 or the RetroArch core for a UI.
 * [simple64](https://simple64.github.io/) ([GitHub](https://github.com/simple64/simple64)) - A fork of Mupen64Plus that is easy to use and also more accurate
