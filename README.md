@@ -256,7 +256,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Mischief Makers](https://github.com/Drahsid/mischief-makers) - An in-progress decompilation of _Mischief Makers_
 * [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion) - An in-progress decompilation of _Neon Genesis Evangelion 64_
 * [Paper Mario](https://github.com/ethteck/papermario/) - An in-progress decompilation of _Paper Mario_
-* [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark) - An in-progress decompilation of _Perfect Dark_ (see also [pdtools](https://gitlab.com/ryandwyer/pdtools))
+* [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark) - A **complete** decompilation of _Perfect Dark_ (see also [pdtools](https://gitlab.com/ryandwyer/pdtools))
 * [Pokémon Snap](https://github.com/ethteck/pokemonsnap/) - An in-progress decompilation of _Pokémon Snap_
 * [Pokémon Stadium](https://github.com/ethteck/pokemonstadium) - An in-progress decompilation of _Pokémon Stadium_
 * [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels) - An in-progress decompilation of _Rocket: Robot on Wheels_
