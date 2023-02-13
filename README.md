@@ -322,6 +322,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [n64ops](https://github.com/mikeryan/n64dev/tree/master/docs/n64ops) - R4300i, RCP, and RSP opcode details
 * [neon64v2](https://github.com/hcs64/neon64v2) - An original Nintendo Entertainment System emulator, written in assembly
 * [cubeworld](https://gitlab.com/is06/cubeworld) - The beginnings of an experimental game, written in assembly
+* [sodium64](https://github.com/Hydr8gon/sodium64) - A SNES emulator for the N64, written in assembly
 
 ### C
 
