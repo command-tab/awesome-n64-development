@@ -113,6 +113,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ### Works In Progress
 
 * [cor64](https://github.com/bryanperris/cor64) - An in-progress emulator written in C#
+* [Gadolinium](https://github.com/SimoneN64/Gadolinium) - Work-in-progress emulator written in C++, able to already play some commercial games and replay Mupen TAS movies
 
 ### Unmaintained
 
