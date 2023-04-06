@@ -268,18 +268,9 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Zelda MM](https://github.com/zeldaret/mm) - An in-progress decompilation of _The Legend of Zelda: Majora's Mask_
 * [YI64](https://github.com/masterf0x/YI64) - _Yoshi's Story_ reverse engineering and research
 
-#### Pre-comp
-
-* [Banjo Kazooie](https://github.com/Mr-Wiseguy/Banjo-Precomp) - A pre-comp of _Banjo Kazooie_
-* [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet-precomp) - A pre-comp of _Dinosaur Planet_
-* [LibTEngine](https://github.com/Drahsid/LibTEngine) - A code library for games that derive from _Turok 2_'s game engine which currently supports _Turok 2_ and _Turok 3_
-* [Paper Mario](https://github.com/Mr-Wiseguy/Paper-Mario-Precomp) - A pre-comp of _Paper Mario_
-* [Rocket: Robot on Wheels](https://github.com/Mr-Wiseguy/N64-Precomp-Example) - A pre-comp of _Rocket: Robot on Wheels_
-* [Space Station Silicon Valley](https://github.com/mkst/sssv-precomp) - A pre-comp of _Space Station Silicon Valley_
-
 #### Other
 
-* [f3dex2](https://github.com/Mr-Wiseguy/f3dex2) - Matching and (partially) documented disassemblies of the F3DEX2/F3DZEX RSP microcode families
+* [f3dex2](https://github.com/Mr-Wiseguy/f3dex2) - Matching and mostly documented disassemblies of the F3DEX2/F3DZEX2 N64 RSP microcode family
 * [n64-kicad](https://github.com/nterry/n64-kicad/) - A set of KiCad files detailing the Nintendo 64 hardware
 * [N64 Uncompiled Source Code](http://shygoo.net/n64-uncompiled/) - Various source code and related material discovered in various ROM images
 * [nus-cpu](https://github.com/dmkfasi/nus-cpu) - A condensed, modular re-creation of the Nintendo 64 motherboard
