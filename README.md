@@ -247,23 +247,32 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Conker's Bad Fur Day](https://github.com/mkst/conker) - An in-progress decompilation of _Conker's Bad Fur Day_
 * [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of _Diddy Kong Racing_
 * [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) - An in-progress decompilation of _Dinosaur Planet_
+* [Donkey Kong 64](https://gitlab.com/dk64_decomp/dk64) - An in-progress decompilation of _Donkey Kong 64_
 * [DOOM64-RE](https://github.com/Erick194/DOOM64-RE) - A **complete** reverse engineering of _Doom 64_
+* [Doubutsu no Mori](https://github.com/blurosie/doubutsu-no-mori) - An in-progress decompilation of _Doubutsu no Mori_
+* [Dr. Mario 64](https://github.com/angheloalf/drmario64) - An in-progress decompilation of _Dr. Mario 64_
+* [F-Zero X](https://github.com/bttrdrgn/f-zerox) - An in-progress decompilation of _F-Zero X_
 * [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
 * [KE-NG_Reversing](https://github.com/disi33/KE-NG_Reversing) - Configures a reverse engineering environment (Mupen64+ RE, Ghidra, etc.) for _Knife Edge - Nose Gunner_
-* [Kirby 64](https://github.com/farisawan-2000/kirby64/) - An in-progress decompilation of _Kirby 64_
+* [Kirby 64](https://github.com/farisawan-2000/kirby64) - An in-progress decompilation of _Kirby 64_
 * [Mario Kart 64](https://github.com/n64decomp/mk64) - An in-progress decompilation of _Mario Kart 64_
-* [Mario Party](https://github.com/gamemasterplc/mpsource) - An in-progress decompilation of _Mario Party_
-* [Mario Party 3](https://github.com/PartyPlanner64/mp3) - An in-progress decompilation of _Mario Party 3_
-* [Mischief Makers](https://github.com/Drahsid/mischief-makers) - An in-progress decompilation of _Mischief Makers_
+* [Mario Party](https://github.com/Rainchus/mp1) - An in-progress decompilation of _Mario Party_
+* [Mario Party 2](https://github.com/Rainchus/mp2) - An in-progress decompilation of _Mario Party 2_
+* [Mario Party 3](https://github.com/zestydevy/marioparty3) - An in-progress decompilation of _Mario Party 3_
+* [Mischief Makers](https://github.com/blackgamma7/mischief-makers) - An in-progress decompilation of _Mischief Makers_
+* [Mystical Ninja Starring Goemon](https://github.com/fluvian/mnsg) - An in-progress decompilation of _Mystical Ninja Starring Goemon_
 * [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion) - An in-progress decompilation of _Neon Genesis Evangelion 64_
-* [Paper Mario](https://github.com/ethteck/papermario/) - An in-progress decompilation of _Paper Mario_
+* [Paper Mario](https://github.com/pmret/papermario) - A **complete** decompilation of _Paper Mario_
 * [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark) - A **complete** decompilation of _Perfect Dark_ (see also [pdtools](https://gitlab.com/ryandwyer/pdtools))
-* [Pokémon Snap](https://github.com/ethteck/pokemonsnap/) - An in-progress decompilation of _Pokémon Snap_
-* [Pokémon Stadium](https://github.com/ethteck/pokemonstadium) - An in-progress decompilation of _Pokémon Stadium_
+* [Pokémon Puzzle League](https://github.com/angheloalf/puzzleleague64) - An in-progress decompilation of _Pokémon Puzzle League_
+* [Pokémon Snap](https://github.com/ethteck/pokemonsnap) - An in-progress decompilation of _Pokémon Snap_
+* [Pokémon Stadium](https://github.com/pret/pokemonstadium) - An in-progress decompilation of _Pokémon Stadium_
+* [Quest 64](https://github.com/Mallos31/Quest) - An in-progress decompilation of _Quest 64_
 * [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels) - An in-progress decompilation of _Rocket: Robot on Wheels_
+* [Shadowgate 64](https://github.com/Rainchus/shadowgate64) - An in-progress decompilation of _Shadowgate 64_
 * [Space Station Silicon Valley](https://github.com/mkst/sssv) - An in-progress decompilation of _Space Station Silicon Valley_
 * [Super Mario 64](https://github.com/n64decomp/sm64) - A **complete** decompilation of _Super Mario 64_
-* [Super Smash Bros.](https://gitlab.com/tehz/ssb-temp) - An in-progress decompilation of _Super Smash Bros._
+* [Super Smash Bros.](https://github.com/vetritheretri/ssb-decomp) - An in-progress decompilation of _Super Smash Bros._
 * [Zelda OOT](https://github.com/zeldaret/oot) - An in-progress decompilation of _The Legend of Zelda: Ocarina of Time_
 * [Zelda MM](https://github.com/zeldaret/mm) - An in-progress decompilation of _The Legend of Zelda: Majora's Mask_
 * [YI64](https://github.com/masterf0x/YI64) - _Yoshi's Story_ reverse engineering and research
