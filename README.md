@@ -266,7 +266,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark) - A **complete** decompilation of _Perfect Dark_ (see also [pdtools](https://gitlab.com/ryandwyer/pdtools))
 * [Pokémon Puzzle League](https://github.com/angheloalf/puzzleleague64) - An in-progress decompilation of _Pokémon Puzzle League_
 * [Pokémon Snap](https://github.com/ethteck/pokemonsnap) - An in-progress decompilation of _Pokémon Snap_
-* [Pokémon Stadium](https://github.com/pret/pokemonstadium) - An in-progress decompilation of _Pokémon Stadium_
+* [Pokémon Stadium](https://github.com/pret/pokestadium) - An in-progress decompilation of _Pokémon Stadium_
 * [Quest 64](https://github.com/Mallos31/Quest) - An in-progress decompilation of _Quest 64_
 * [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels) - An in-progress decompilation of _Rocket: Robot on Wheels_
 * [Shadowgate 64](https://github.com/Rainchus/shadowgate64) - An in-progress decompilation of _Shadowgate 64_
