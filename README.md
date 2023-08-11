@@ -241,6 +241,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 #### Game Decompilation
 
+* [AeroGauge](https://github.com/LLONSIT/AeroGauge) - An in-progress decompilation of _AeroGauge_
 * [Aidyn Chronicles](https://github.com/blackgamma7/Aidyn) - An in-progress decompilation of _Aidyn Chronicles_
 * [Banjo Kazooie](https://gitlab.com/banjo.decomp/banjo-kazooie) - An in-progress decompilation of _Banjo Kazooie_
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D
@@ -249,7 +250,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) - An in-progress decompilation of _Dinosaur Planet_
 * [Donkey Kong 64](https://gitlab.com/dk64_decomp/dk64) - An in-progress decompilation of _Donkey Kong 64_
 * [DOOM64-RE](https://github.com/Erick194/DOOM64-RE) - A **complete** reverse engineering of _Doom 64_
-* [Doubutsu no Mori](https://github.com/blurosie/doubutsu-no-mori) - An in-progress decompilation of _Doubutsu no Mori_
+* [Dōbutsu no Mori](https://github.com/zeldaret/af) - An in-progress decompilation of _Dōbutsu no Mori_
 * [Dr. Mario 64](https://github.com/angheloalf/drmario64) - An in-progress decompilation of _Dr. Mario 64_
 * [F-Zero X](https://github.com/bttrdrgn/f-zerox) - An in-progress decompilation of _F-Zero X_
 * [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
@@ -273,6 +274,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Space Station Silicon Valley](https://github.com/mkst/sssv) - An in-progress decompilation of _Space Station Silicon Valley_
 * [Super Mario 64](https://github.com/n64decomp/sm64) - A **complete** decompilation of _Super Mario 64_
 * [Super Smash Bros.](https://github.com/vetritheretri/ssb-decomp) - An in-progress decompilation of _Super Smash Bros._
+* [Wave Race 64](https://github.com/LLONSIT/wr64) - An in-progress decompilation of _Wave Race 64_
 * [Zelda OOT](https://github.com/zeldaret/oot) - An in-progress decompilation of _The Legend of Zelda: Ocarina of Time_
 * [Zelda MM](https://github.com/zeldaret/mm) - An in-progress decompilation of _The Legend of Zelda: Majora's Mask_
 * [YI64](https://github.com/masterf0x/YI64) - _Yoshi's Story_ reverse engineering and research
