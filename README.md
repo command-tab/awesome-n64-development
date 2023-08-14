@@ -243,19 +243,20 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 * [AeroGauge](https://github.com/LLONSIT/AeroGauge) - An in-progress decompilation of _AeroGauge_
 * [Aidyn Chronicles](https://github.com/blackgamma7/Aidyn) - An in-progress decompilation of _Aidyn Chronicles_
-* [Banjo Kazooie](https://gitlab.com/banjo.decomp/banjo-kazooie) - An in-progress decompilation of _Banjo Kazooie_
+* [Banjo-Kazooie](https://gitlab.com/banjo.decomp/banjo-kazooie) - An in-progress decompilation of _Banjo-Kazooie_
+* [Blast Corps](https://gitlab.com/retroplastic/blastcorps) - An in-progress decompilation of _Blast Corps_
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D
 * [Conker's Bad Fur Day](https://github.com/mkst/conker) - An in-progress decompilation of _Conker's Bad Fur Day_
 * [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of _Diddy Kong Racing_
 * [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) - An in-progress decompilation of _Dinosaur Planet_
 * [Donkey Kong 64](https://gitlab.com/dk64_decomp/dk64) - An in-progress decompilation of _Donkey Kong 64_
-* [DOOM64-RE](https://github.com/Erick194/DOOM64-RE) - A **complete** reverse engineering of _Doom 64_
+* [Doom 64](https://github.com/Erick194/DOOM64-RE) - A **complete** reverse engineering of _Doom 64_
 * [Dōbutsu no Mori](https://github.com/zeldaret/af) - An in-progress decompilation of _Dōbutsu no Mori_
 * [Dr. Mario 64](https://github.com/angheloalf/drmario64) - An in-progress decompilation of _Dr. Mario 64_
 * [F-Zero X](https://github.com/bttrdrgn/f-zerox) - An in-progress decompilation of _F-Zero X_
 * [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
-* [KE-NG_Reversing](https://github.com/disi33/KE-NG_Reversing) - Configures a reverse engineering environment (Mupen64+ RE, Ghidra, etc.) for _Knife Edge - Nose Gunner_
-* [Kirby 64](https://github.com/farisawan-2000/kirby64) - An in-progress decompilation of _Kirby 64_
+* [Knife Edge: Nose Gunner](https://github.com/disi33/KE-NG_Reversing) - Configures a reverse engineering environment (Mupen64+ RE, Ghidra, etc.) for _Knife Edge: Nose Gunner_
+* [Kirby 64: The Crystal Shards](https://github.com/farisawan-2000/kirby64) - An in-progress decompilation of _Kirby 64: The Crystal Shards_
 * [Mario Kart 64](https://github.com/n64decomp/mk64) - An in-progress decompilation of _Mario Kart 64_
 * [Mario Party](https://github.com/Rainchus/mp1) - An in-progress decompilation of _Mario Party_
 * [Mario Party 2](https://github.com/Rainchus/mp2) - An in-progress decompilation of _Mario Party 2_
@@ -274,10 +275,11 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Space Station Silicon Valley](https://github.com/mkst/sssv) - An in-progress decompilation of _Space Station Silicon Valley_
 * [Super Mario 64](https://github.com/n64decomp/sm64) - A **complete** decompilation of _Super Mario 64_
 * [Super Smash Bros.](https://github.com/vetritheretri/ssb-decomp) - An in-progress decompilation of _Super Smash Bros._
+* [Superman 64](https://gitlab.com/farisawan-2000/superman) - An in-progress decompilation of _Superman 64_
 * [Wave Race 64](https://github.com/LLONSIT/wr64) - An in-progress decompilation of _Wave Race 64_
+* [Yoshi's Story](https://github.com/masterf0x/YI64) - _Yoshi's Story_ reverse engineering and research
 * [Zelda OOT](https://github.com/zeldaret/oot) - An in-progress decompilation of _The Legend of Zelda: Ocarina of Time_
 * [Zelda MM](https://github.com/zeldaret/mm) - An in-progress decompilation of _The Legend of Zelda: Majora's Mask_
-* [YI64](https://github.com/masterf0x/YI64) - _Yoshi's Story_ reverse engineering and research
 
 #### Other
 
