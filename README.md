@@ -16,6 +16,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Development Hardware](#development-hardware)
 * [Tools and Libraries](#tools-and-libraries)
     * [Development Cartridge Loaders](#development-cartridge-loaders)
+    * [Flashcart menu software](#flashcart-menu-software)
     * [Asset Conversion and Viewing](#asset-conversion-and-viewing)
         * [3D](#3d)
         * [2D](#2d)
@@ -135,7 +136,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [EverDrive 64 X7](https://krikzz.com/store/home/55-everdrive-64-x7.html) - A flash cartridge with USB support for development
 * [Brutzelkarte](https://github.com/jago85/Brutzelkarte_PCB) - An open-source (hardware and software) FPGA-based flash cartridge
 * [El Barato 64](https://github.com/Hazematman/El-Barato-64) - An in-progress open source development cartridge
-* [SummerCart64](https://github.com/Polprzewodnikowy/SummerCollection) - A collection of hardware, firmware, and software designs for an FPGA-based flash cartridge
+* [SummerCart64](https://github.com/Polprzewodnikowy/SummerCart64) - A fully open source, production ready, flashcart with 64DD implementation built-in. Mostly geared towards homebrew development.
 * [UltraHDMI](http://ultrahdmi.retroactive.be/) (periodically in stock at [Game-Tech](https://www.game-tech.us/product/ultrahdmi/)) - A board that can be installed into the console to capture the digital output of the RCP and send it out a Mini HDMI connector to a modern TV. Convenient for connecting a real console to a nearby monitor while viewing the best possible output signal.
 * [N64RGB](https://etim.net.au/shop/shop.php?crn=209&rn=548&action=show_detail) - An N64RGB mod that supports every motherboard revision and works pretty well.
 * [UltraSave](http://64drive.retroactive.be/features.php#ultrasave) - A device that works with the 64drive to transfer saves from real cartridges
@@ -152,7 +153,12 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [g64drive](https://github.com/rasky/g64drive) - Linux/Mac tool for operating a 64drive development cartridge
 * [ed64](https://github.com/anacierdem/ed64) - Tools to develop on an EverDrive 64 cartridge
 * [loader64](https://github.com/jsdf/loader64) - A USB uploader for EverDrive 64
-* [UNFLoader](https://github.com/buu342/N64-UNFLoader/) - A universal flash cart ROM uploader (64drive, EverDrive 64 V3, and EverDrive 64 X7) and debug library
+* [UNFLoader](https://github.com/buu342/N64-UNFLoader/) - A universal flash cart ROM uploader (64drive, EverDrive 64 V3, EverDrive 64 X7 and SummerCart64) and debug library
+* [sc64deployer](https://github.com/Polprzewodnikowy/SummerCart64/releases) - SummerCart64 loader and control software (Windows, macOS and Linux)
+
+### Flashcart menu software
+
+* [N64FlashcartMenu](https://github.com/Polprzewodnikowy/N64FlashcartMenu) - Universal flashcart menu with aim to support most of the N64 flashcarts on the market
 
 ### Asset Conversion and Viewing
 
