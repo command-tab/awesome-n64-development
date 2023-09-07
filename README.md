@@ -355,6 +355,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64brew Game Jam 2020](https://github.com/N64brew-Game-Jam-2020) - N64brew Game Jam 2020 submissions
 * [N64brew Game Jam 2021](https://github.com/N64brew-Game-Jam-2021) - N64brew Game Jam 2021 submissions
 * [N64brew Game Jam 2022](https://github.com/N64brew-Game-Jam-2022) - N64brew Game Jam 2022 submissions
+* [N64brew Game Jam 2023](https://github.com/N64brew-Game-Jam-2023) - N64brew Game Jam 2023 submissions
 * [brick64](https://github.com/allie/brick64) - A homebrew 3D brick-breaker game using the official SDK
 * [goose64](https://github.com/jsdf/goose64) - jsdf's _Untitled Goose Game_ "demake"
 * [portal64](https://github.com/lambertjamesd/portal64) - A demake of Valve's "Portal" for n64
