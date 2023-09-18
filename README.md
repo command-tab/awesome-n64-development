@@ -168,7 +168,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Blender64](https://github.com/engerb/Blender64) - A Python tool to export Blender 3D models to F3DEX2 microcode display lists
 * [blend2niff](https://github.com/1r3n33/blend2niff) - A Blender add-on to export to [NIFF2](http://n64devkit.square7.ch/niff/index.htm) (Nintendo Intermediate File Format 2)
 * [Sausage64](https://github.com/buu342/Blender-Sausage64) - A Blender plugin to export "sausage link" style character models with animations
-* [Fast64](https://bitbucket.org/kurethedead/fast64/src/master/) - A Blender plugin to export display lists, geolayouts, and animations to _Super Mario 64_
+* [Fast64](https://github.com/Fast-64/fast64) - A Blender plugin to preview and export meshes as F3D display lists for decomp and homebrew projects.
 * [objn64](https://github.com/n64dev/objn64) - Wavefront `.obj` model converter that generates optimized displaylists for compilation with `libultra`
 * [Obj2N64DL](https://github.com/pseudophpt/Obj2N64DL) - Another Wavefront `.obj` to displaylist converter
 * [Max_To_N64](https://github.com/MrQuetch/Max_To_N64) - Scripts to export models from 3DS Max to C
