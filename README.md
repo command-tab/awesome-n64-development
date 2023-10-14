@@ -73,6 +73,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Portland Retro Gaming Expo 2019 - N64 Homebrew Development - Part 2](https://www.youtube.com/watch?v=V9y-2LiJsI0) - Victor Vieux adds sound and graphic assets and talks about the future of Nintendo 64 homebrew development
 * [Programming for Nintendo 64](https://www.youtube.com/watch?v=aKXEooIPwP0) - Damjan Nesic goes through the basics of programming for Nintendo 64 using C and a Windows XP virtual machine
 * [Reflective Regret: Adventures in N64 Development](https://www.youtube.com/watch?v=ZgPWE0Wkg7g) - Buu342's seminar on Nintendo 64 homebrew game development at Inércia Demoparty 2021 (with [code available](https://github.com/buu342/N64-ReflectiveRegretPresentation))
+* [Debugging N64 homebrew using GDB with a flashcart](https://www.youtube.com/watch?v=Fr8rSqsFuWk) - Buu342 demonstrates how to use UNFLoader with GDB to debug Libultra, ModernSDK, and Libdragon homebrew running on a flashcart
 
 ## Toolchains
 
