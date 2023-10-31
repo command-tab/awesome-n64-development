@@ -252,6 +252,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Banjo-Kazooie](https://gitlab.com/banjo.decomp/banjo-kazooie) - An in-progress decompilation of _Banjo-Kazooie_
 * [Blast Corps](https://gitlab.com/retroplastic/blastcorps) - An in-progress decompilation of _Blast Corps_
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D
+* [Bomberman Hero](https://github.com/bomberhackers/bmhero) - An in-progress decompilation of _Bomberman Hero_
 * [Conker's Bad Fur Day](https://github.com/mkst/conker) - An in-progress decompilation of _Conker's Bad Fur Day_
 * [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of _Diddy Kong Racing_
 * [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) - An in-progress decompilation of _Dinosaur Planet_
@@ -281,6 +282,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels) - An in-progress decompilation of _Rocket: Robot on Wheels_
 * [Shadowgate 64](https://github.com/Rainchus/shadowgate64) - An in-progress decompilation of _Shadowgate 64_
 * [Space Station Silicon Valley](https://github.com/mkst/sssv) - An in-progress decompilation of _Space Station Silicon Valley_
+* [Star Fox 64](https://github.com/sonicdcer/sf64) - An in-progress decompilation of _Star Fox 64_
 * [Super Mario 64](https://github.com/n64decomp/sm64) - A **complete** decompilation of _Super Mario 64_
 * [Super Smash Bros.](https://github.com/vetritheretri/ssb-decomp-re) - An in-progress decompilation of _Super Smash Bros._
 * [Superman 64](https://gitlab.com/farisawan-2000/superman) - An in-progress decompilation of _Superman 64_
