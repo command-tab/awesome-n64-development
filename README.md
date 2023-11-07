@@ -101,20 +101,21 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### Actively Maintained
 
-* [cen64](https://github.com/n64dev/cen64) - A [cycle-accurate](https://retrocomputing.stackexchange.com/questions/1191/what-exactly-is-a-cycle-accurate-emulator) An emulator for Windows, Linux, and Mac. While currently not fast enough to play games at full speed, it aims for perfect emulation by emulating the hardware inside of the console down to the register-transfer level. Widely used to test ROMs in lieu of or before using real hardware.
-* [Project64](https://www.pj64-emu.com) ([GitHub](https://github.com/project64/project64)) - An open-source high-level emulator for Windows and Android. It does not currently accurately emulate the console via LLE, but rather HLE to focus on compatibility with commercial games. It cannot currently be used to develop homebrew software with SDKs different from libultra.
+* [Project64](https://www.pj64-emu.com) ([GitHub](https://github.com/project64/project64)) - An open-source emulator for Windows and (soonTM) Linux/Android. It used to focus on compatibility with commercial games, but now also focuses on improving accuracy and emulating as much of the console as possible while remaining performant and compatible.
 * [Sixtyforce](https://sixtyforce.com) - A closed-source emulator for Mac
-* [mupen64plus](https://mupen64plus.org) ([GitHub](https://github.com/mupen64plus)) - A more recently updated fork of Mupen64 for Linux, Mac OSX, FreeBSD, and Windows. No GUI is included, so you can use simple64 or the RetroArch core for a UI.
-* [simple64](https://simple64.github.io/) ([GitHub](https://github.com/simple64/simple64)) - A fork of Mupen64Plus that is easy to use and also more accurate
-* [Mupen64+ Reverser Edition](https://www.retroreversing.com/mupen64RE) - A fork of the Mupen64Plus emulator tailored for reverse engineering
+* [mupen64plus](https://mupen64plus.org) ([GitHub](https://github.com/mupen64plus)) - A more recently updated fork of Mupen64 for Linux, Mac OSX, FreeBSD, and Windows. No GUI is included, so you can use simple64, RMG, or the RetroArch core for a UI.
+* [simple64](https://simple64.github.io/) ([GitHub](https://github.com/simple64/simple64)) - A fork of Mupen64Plus that is easy to use and also more accurate.
+* [Mupen64+ Reverser Edition](https://www.retroreversing.com/mupen64RE) - A fork of the Mupen64Plus emulator tailored for reverse engineering.
+* [Rosalie's Mupen GUI](https://github.com/Rosalie241/RMG) - a GUI for Mupen64Plus that works on Windows. One of the easiest and best ways to use Mupen64Plus with a GUI!
 * [ModLoader64](https://modloader64.com) ([GitHub](https://github.com/hylian-modding/ModLoader64)) - A wrapper for Mupen64plus that enables modding through plugins written in TypeScript
-* [Ares](https://ares-emu.net) - A low-level, accurate multi-system emulator with good support for N64. Available in sources and binary distributions for Windows, Mac and Linux. It includes a CPU and RSP recompiler, and emulates RDP with Vulkan (via Parallel-RDP) or OpenGL (via Angrylion's MAME RDP).
+* [ares](https://ares-emu.net) - A low-level, accurate multi-system emulator with good support for N64. Available in sources and binary distributions for Windows, Mac and Linux. It includes a CPU and RSP recompiler, and emulates RDP with Vulkan (via Parallel-RDP).
 * [Dillonb's dgb-n64](https://github.com/Dillonb/n64) - A low-level, accurate N64 emulator for Windows and Linux. It includes a CPU recompiler, and emulates RDP with Vulkan (via parallel-RDP).
 
 ### Works In Progress
 
 * [cor64](https://github.com/bryanperris/cor64) - An in-progress emulator written in C#
-* [Gadolinium](https://github.com/SimoneN64/Gadolinium) - Work-in-progress emulator written in C++, able to already play some commercial games and replay Mupen TAS movies
+* [Kaizen (previously Gadolinium)](https://github.com/SimoneN64/Kaizen) - Work-in-progress emulator written in C++, able to already play some commercial games and replay Mupen TAS movies
+* [Gopher64](https://github.com/gopher64/gopher64) - An N64 emulator written in Rust by the developer of Simple64, able to already play some commercial games at decent speeds!
 
 ### Unmaintained
 
@@ -129,6 +130,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Surreal64](http://surreal64.sourceforge.net) and [Surreal64 CE](http://surreal64ce.wikidot.com) - An emulator for the original Xbox which includes ports of 1964, Project64, and UltraHLE
 * [TrueReality](https://sourceforge.net/projects/truereality/) - An open-source emulator
 * [r64emu](https://github.com/rasky/r64emu) - A N64 low-level emulator written in Rust
+* [cen64](https://github.com/n64dev/cen64) - A [cycle-accurate](https://retrocomputing.stackexchange.com/questions/1191/what-exactly-is-a-cycle-accurate-emulator) An emulator for Windows, Linux, and Mac. While currently not fast enough to play games at full speed, it aims for perfect emulation by emulating the hardware inside of the console down to the register-transfer level. Widely used to test ROMs in lieu of or before using real hardware.
 
 ## Development Hardware
 
