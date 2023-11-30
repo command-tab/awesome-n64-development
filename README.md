@@ -382,6 +382,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [aw64](https://github.com/jnmartin84/aw64) - (C++) A Nintendo 64 port of the bytecode interpreter from _Another World_/_Out of This World_
 * [Memory64-N64](https://github.com/vieux/Memory64-N64) - A Simon style memory game with Rumble Pak support, using libdragon
 * [FlappyBird-N64](https://github.com/meeq/FlappyBird-N64) - A demake of _Flappy Bird_ using `libdragon`
+* [N64-RPG](https://github.com/breadbored/N64-RPG) - An in-progress RPG engine using `libdragon` 
 * [n64triangle](https://github.com/sp1187/n64triangle) - RDP triangle demo, using `libdragon`
 * [non_nusys_demo](https://github.com/gamemasterplc/non_nusys_demo) - A complex demo built without relying on Nintendo's NuSystem library
 * [Penguins Luv Melons](https://n64squid.com/penguins-luv-melons/) - A homebrew game built with `libdragon`
