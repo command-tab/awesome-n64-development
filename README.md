@@ -147,7 +147,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [gs_libusb](https://github.com/hcs64/gs_libusb) - GameShark Pro utilities using libusb over a USB parallel port adapter
 * [Replacement Carts](https://n64preservationproject.com/) - A set of EagleCAD files for manufacturing your own N64 carts
 * [ED64 Plus](https://ed64p.com/) - A Chinese clone of the Everdrive 64 at a much cheaper price point. It also has a disconnected USB port with a missing FT245R chip that [can be reattached](https://odysee.com/@backofficeshow:f/everdrive-ed64-nintendo-64-teardown:0) for theoretical added functionality.
-* [BennVenn Cartridge Dumper and Porgrammer](https://bennvenn.myshopify.com/collections/n64) - a very user friendly cartridge dumper that can even pull saves off of controller paks.  This dumper can also write to most chinese aftermarket cartridges.
+* [BennVenn Cartridge Dumper and Programmer](https://bennvenn.myshopify.com/collections/n64) - a very user friendly cartridge dumper that can even pull saves off of controller paks.  This dumper can also write to most chinese aftermarket cartridges.
 
 ## Controller Hardware
 * [TaoStyx64](https://taostyx64.com/) - An N64 project that makes high quality and long lasting internal mechanical parts for the N64 joystick as well as some other N64 controller parts like metal buttons, grippier thumbcaps, etc.  This project has been running strong for 3 years.  Go to their discord server for more information [here](https://discord.gg/taostyx64).  They also have a [shapeways store](https://www.shapeways.com/shops/alinktotao) from which to buy parts which are made to order.
