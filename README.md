@@ -252,6 +252,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [AeroGauge](https://github.com/LLONSIT/AeroGauge) - An in-progress decompilation of _AeroGauge_
 * [Aidyn Chronicles](https://github.com/blackgamma7/Aidyn) - An in-progress decompilation of _Aidyn Chronicles_
 * [Banjo-Kazooie](https://gitlab.com/banjo.decomp/banjo-kazooie) - An in-progress decompilation of _Banjo-Kazooie_
+* [Banjo-Tooie](https://github.com/mr-wiseguy/banjo-tooie) - An in-progress decompilation of _Banjo-Tooie_
 * [Blast Corps](https://gitlab.com/retroplastic/blastcorps) - An in-progress decompilation of _Blast Corps_
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D
 * [Bomberman Hero](https://github.com/bomberhackers/bmhero) - An in-progress decompilation of _Bomberman Hero_
