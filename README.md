@@ -382,6 +382,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [platformer64](https://github.com/lambertjamesd/platformer64) - An in-progress adventure platformer
 * [aw64](https://github.com/jnmartin84/aw64) - (C++) A Nintendo 64 port of the bytecode interpreter from _Another World_/_Out of This World_
 * [Memory64-N64](https://github.com/vieux/Memory64-N64) - A Simon style memory game with Rumble Pak support, using libdragon
+* [Mine64](https://github.com/SiliconSloth/Mine64) - A Minecraft clone, using Nintendo's NuSystem library
 * [FlappyBird-N64](https://github.com/meeq/FlappyBird-N64) - A demake of _Flappy Bird_ using `libdragon`
 * [N64-RPG](https://github.com/breadbored/N64-RPG) - An in-progress RPG engine using `libdragon` 
 * [n64triangle](https://github.com/sp1187/n64triangle) - RDP triangle demo, using `libdragon`
