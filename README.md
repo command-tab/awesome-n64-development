@@ -365,7 +365,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64brew Game Jam 2023](https://github.com/N64brew-Game-Jam-2023) - N64brew Game Jam 2023 submissions
 * [brick64](https://github.com/allie/brick64) - A homebrew 3D brick-breaker game using the official SDK
 * [goose64](https://github.com/jsdf/goose64) - jsdf's _Untitled Goose Game_ "demake"
-* [portal64](https://github.com/lambertjamesd/portal64) - A demake of Valve's "Portal" for n64
 * [helloworld](https://github.com/loociano/n64dev/tree/master/helloworld) - Hello World example using NuSystem and S2DEX microcode
 * [Controller-Pak-Manager](https://github.com/manfriedn64/Controller-Pak-Manager) - A ROM that presents graphical user interface to manage Controller Pak data
 * [old-castle](https://github.com/danbolt/old-castle) - A homebrew game based on a NuSystem sample from the official SDK
