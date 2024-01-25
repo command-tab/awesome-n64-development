@@ -16,7 +16,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Development Hardware](#development-hardware)
 * [Tools and Libraries](#tools-and-libraries)
     * [Development Cartridge Loaders](#development-cartridge-loaders)
-    * [Flashcart menu software](#flashcart-menu-software)
+    * [Flashcart Menu Software](#flashcart-menu-software)
     * [Asset Conversion and Viewing](#asset-conversion-and-viewing)
         * [3D](#3d)
         * [2D](#2d)
