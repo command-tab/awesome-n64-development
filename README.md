@@ -255,8 +255,9 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Banjo-Tooie](https://github.com/mr-wiseguy/banjo-tooie) - An in-progress decompilation of _Banjo-Tooie_
 * [Blast Corps](https://gitlab.com/retroplastic/blastcorps) - An in-progress decompilation of _Blast Corps_
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D
+* [Bomberman 64](https://github.com/bomberhackers/bm64) - An in-progress decompilation of _Bomberman 64_
 * [Bomberman Hero](https://github.com/bomberhackers/bmhero) - An in-progress decompilation of _Bomberman Hero_
-* [Castlevania 64](https://github.com/blazkowolf/c64) - An in-progress decompilation of _Castlevania 64_
+* [Castlevania 64](https://github.com/blazkowolf/cv64) - An in-progress decompilation of _Castlevania 64_
 * [Conker's Bad Fur Day](https://github.com/mkst/conker) - An in-progress decompilation of _Conker's Bad Fur Day_
 * [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of _Diddy Kong Racing_
 * [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) - An in-progress decompilation of _Dinosaur Planet_
