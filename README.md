@@ -41,6 +41,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Discord64](https://discord.gg/sSkQTBpFhv) - Nintendo 64 emulation and homebrew chat on Discord
 * [`#n64dev` on EFnet](http://chat.efnet.org/?channels=n64dev) - Nintendo 64 development IRC channel on EFnet
 * [/r/N64Homebrew](https://www.reddit.com/r/N64Homebrew/) - The N64Homebrew subreddit
+* [Nintendo 64 Discord](https://discord.gg/jqPzxUVVMJ) - The /r/n64 community server for Nintendo 64 enthusiasts
 
 ## Documentation
 
