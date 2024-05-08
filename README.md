@@ -268,7 +268,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Dr. Mario 64](https://github.com/angheloalf/drmario64) - An in-progress decompilation of _Dr. Mario 64_
 * [F-Zero X](https://github.com/bttrdrgn/f-zerox) - An in-progress decompilation of _F-Zero X_
 * [Gauntlet Legends](https://github.com/Drahsid/gauntlet-legends) - An in-progress decompilation of _Gauntlet Legends_
-* [Goemon's Great Adventure](https://github.com/fluvian/gga) - An in-progress decompilation of _Goemon's Great Adventure_
+* [Goemon's Great Adventure](https://github.com/fluvian/gga) - An inaccessible in-progress decompilation of _Goemon's Great Adventure_
 * [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
 * [Harvest Moon 64](https://github.com/harvestwhisperer/hm64-decomp) - An in-progress decompilation of _Harvest Moon 64_
 * [Knife Edge: Nose Gunner](https://github.com/disi33/KE-NG_Reversing) - Configures a reverse engineering environment (Mupen64+ RE, Ghidra, etc.) for _Knife Edge: Nose Gunner_
@@ -276,9 +276,9 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Mario Kart 64](https://github.com/n64decomp/mk64) - An in-progress decompilation of _Mario Kart 64_
 * [Mario Party](https://github.com/Rainchus/mp1) - An in-progress decompilation of _Mario Party_
 * [Mario Party 2](https://github.com/Rainchus/mp2) - An in-progress decompilation of _Mario Party 2_
-* [Mario Party 3](https://github.com/zestydevy/marioparty3) - An in-progress decompilation of _Mario Party 3_
+* [Mario Party 3](https://github.com/Rainchus/marioparty3) - An in-progress decompilation of _Mario Party 3_
 * [Mischief Makers](https://github.com/blackgamma7/mischief-makers) - An in-progress decompilation of _Mischief Makers_
-* [Mystical Ninja Starring Goemon](https://github.com/fluvian/mnsg) - An in-progress decompilation of _Mystical Ninja Starring Goemon_
+* [Mystical Ninja Starring Goemon](https://github.com/fluvian/mnsg) - An inaccessible in-progress decompilation of _Mystical Ninja Starring Goemon_
 * [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion) - An in-progress decompilation of _Neon Genesis Evangelion 64_
 * [Paper Mario](https://github.com/pmret/papermario) - A **complete** decompilation of _Paper Mario_
 * [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark) - A **complete** decompilation of _Perfect Dark_ (see also [pdtools](https://gitlab.com/ryandwyer/pdtools))
@@ -295,7 +295,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Superman 64](https://gitlab.com/farisawan-2000/superman) - An in-progress decompilation of _Superman 64_
 * [Turok 3: Shadow of Oblivion](https://github.com/Drahsid/turok3) - An in-progress decompilation of _Turok 3: Shadow of Oblivion_
 * [Virtual Pool 64](https://github.com/LLONSIT/virtualpool64) - An in-progress decompilation of _Virtual Pool 64_
-* [Wave Race 64](https://github.com/LLONSIT/wr64) - An in-progress decompilation of _Wave Race 64_
+* [Wave Race 64](https://github.com/LLONSIT/wave-race-64) - An in-progress decompilation of _Wave Race 64_
 * [Yoshi's Story](https://github.com/decompals/yoshis-story) - An in-progress decompilation of _Yoshi's Story_
 * [Zelda OOT](https://github.com/zeldaret/oot) - An in-progress decompilation of _The Legend of Zelda: Ocarina of Time_
 * [Zelda MM](https://github.com/zeldaret/mm) - An in-progress decompilation of _The Legend of Zelda: Majora's Mask_
