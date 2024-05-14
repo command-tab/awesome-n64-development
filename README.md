@@ -266,16 +266,19 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Doom 64](https://github.com/Erick194/DOOM64-RE) - A **complete** reverse engineering of _Doom 64_
 * [Dōbutsu no Mori](https://github.com/zeldaret/af) - An in-progress decompilation of _Dōbutsu no Mori_
 * [Dr. Mario 64](https://github.com/angheloalf/drmario64) - An in-progress decompilation of _Dr. Mario 64_
+* [Duke Nukem: Zero Hour](https://github.com/gillou68310/dukenukemzerohour) - An in-progress decompilation of _Duke Nukem: Zero Hour_
 * [F-Zero X](https://github.com/bttrdrgn/f-zerox) - An in-progress decompilation of _F-Zero X_
 * [Gauntlet Legends](https://github.com/Drahsid/gauntlet-legends) - An in-progress decompilation of _Gauntlet Legends_
 * [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
 * [Harvest Moon 64](https://github.com/harvestwhisperer/hm64-decomp) - An in-progress decompilation of _Harvest Moon 64_
 * [Knife Edge: Nose Gunner](https://github.com/disi33/KE-NG_Reversing) - Configures a reverse engineering environment (Mupen64+ RE, Ghidra, etc.) for _Knife Edge: Nose Gunner_
 * [Kirby 64: The Crystal Shards](https://github.com/farisawan-2000/kirby64) - An in-progress decompilation of _Kirby 64: The Crystal Shards_
+* [Mario Golf](https://github.com/monde-lointain/mariogolf64) - An in-progress decompilation of _Mario Golf_
 * [Mario Kart 64](https://github.com/n64decomp/mk64) - An in-progress decompilation of _Mario Kart 64_
 * [Mario Party](https://github.com/Rainchus/mp1) - An in-progress decompilation of _Mario Party_
 * [Mario Party 2](https://github.com/Rainchus/mp2) - An in-progress decompilation of _Mario Party 2_
 * [Mario Party 3](https://github.com/Rainchus/marioparty3) - An in-progress decompilation of _Mario Party 3_
+* [Mario Tennis](https://github.com/dellm-79/mariotennisn64) - An in-progress decompilation of _Mario Tennis_
 * [Mischief Makers](https://github.com/blackgamma7/mischief-makers) - An in-progress decompilation of _Mischief Makers_
 * [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion) - An in-progress decompilation of _Neon Genesis Evangelion 64_
 * [Paper Mario](https://github.com/pmret/papermario) - A **complete** decompilation of _Paper Mario_
@@ -293,6 +296,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Superman 64](https://gitlab.com/farisawan-2000/superman) - An in-progress decompilation of _Superman 64_
 * [Turok 3: Shadow of Oblivion](https://github.com/Drahsid/turok3) - An in-progress decompilation of _Turok 3: Shadow of Oblivion_
 * [Virtual Pool 64](https://github.com/LLONSIT/virtualpool64) - An in-progress decompilation of _Virtual Pool 64_
+* [Virtual Pro Wrestling 2: Ōdō Keishō](https://github.com/aki-club/vpw2) - An in-progress decompilation of _Virtual Pro Wrestling 2: Ōdō Keishō_
 * [Wave Race 64](https://github.com/LLONSIT/wave-race-64) - An in-progress decompilation of _Wave Race 64_
 * [Yoshi's Story](https://github.com/decompals/yoshis-story) - An in-progress decompilation of _Yoshi's Story_
 * [Zelda OOT](https://github.com/zeldaret/oot) - An in-progress decompilation of _The Legend of Zelda: Ocarina of Time_
