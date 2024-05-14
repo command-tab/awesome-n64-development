@@ -315,6 +315,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [UltraCIC-II](https://github.com/perkinsb1024/UltraCIC-II) - Code to recreate CIC chips on an ATTiny25/45
 * [UltraCIC-III](https://github.com/ManCloud/UltraCIC-III) - Code for a replacement CIC chip on an ATTiny25/45/85
 * [UltraPIF](https://github.com/jago85/UltraPIF_Hardware) - A replacement for the PIF chip that enables a region-free console
+* [Zelda 64: Recompiled](https://github.com/mr-wiseguy/zelda64recomp) - Statically recompiles Majora's Mask (and soon Ocarina of Time) into a native port with many new features and enhancements
 
 ### Guides and Reference
 
@@ -323,6 +324,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### Tools and Disassemblers
 
+* [N64: Recompiled](https://github.com/mr-wiseguy/n64recomp) - Statically recompiles N64 binaries into C code that can be compiled into native executables for any platform
 * [N64LoaderWV](https://github.com/zeroKilo/N64LoaderWV) - Nintendo 64 ROM loader for the [Ghidra](https://github.com/NationalSecurityAgency/ghidra) reverse engineering tool
 * [RI Probe](https://www.romhacking.net/homebrew/102/) - A ROM that dumps RDRAM values onscreen for debugging and exploring
 * [n64sym](https://github.com/shygoo/n64sym) - Scans a RAM dump for symbols from a given library or object file
