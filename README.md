@@ -225,7 +225,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [rom64](https://github.com/mroach/rom64) - A tool to identify and parse ROM header information
 * [romjudge](https://github.com/jkbenaim/romjudge) - A utility to judge an N64 ROM for correctness
 * [leotools](https://github.com/jkbenaim/leotools) - Work with 64DD disk images and the files contained therein
-* [n64splat](https://github.com/ethteck/n64splat) - A ROM splitting tool to assist with decompilation and modding projects
+* [splat](https://github.com/ethteck/splat) - A ROM splitting tool to assist with decompilation and modding projects
 * [seq64/n64checksum](https://github.com/sauraen/seq64/blob/master/Source/n64checksum.cpp) - Source for a tool to calculate and set ROM checksums
 * [Info64](https://www.smwcentral.net/?p=section&a=details&id=5737) - A tool to display and set ROM header information and checksums
 * [N64ShellPreview](https://github.com/Random06457/N64ShellPreview) - A Windows Shell Extension to display ROM information in Explorer's preview pane
@@ -323,16 +323,20 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### Tools and Disassemblers
 
+* [asm-differ](https://github.com/simonlindholm/asm-differ) - A `diff` script for MIPS assembly
+* [bdiff](https://github.com/ethteck/bdiff) - A local binary diffing tool
+* [Compiler Explorer](https://godbolt.org) - Explore how your C, C++, Rust, or other compiled language code ends up looking after compilation
+* [decomp-permuter](https://github.com/simonlindholm/decomp-permuter) - A tool to randomly permute C files to better match a target binary
+* [GEDecompressor](https://github.com/jombo23/N64-Tools/tree/master/GEDecompressor) - Decompressor for a wide variety of compression formats used across various titles
+* [m2c](https://github.com/matt-kempster/m2c) - An open-source MIPS decompiler, useful for understanding and reimplementing N64 games' behavior in C
+* [m3c](https://github.com/ethteck/m3c) - A tool to assist with N64 decompilation that runs [m2c](https://github.com/matt-kempster/m2c) and [decomp-permuter](https://github.com/simonlindholm/decomp-permuter) to try to automatically decompile functions
 * [N64LoaderWV](https://github.com/zeroKilo/N64LoaderWV) - Nintendo 64 ROM loader for the [Ghidra](https://github.com/NationalSecurityAgency/ghidra) reverse engineering tool
-* [RI Probe](https://www.romhacking.net/homebrew/102/) - A ROM that dumps RDRAM values onscreen for debugging and exploring
 * [n64sym](https://github.com/shygoo/n64sym) - Scans a RAM dump for symbols from a given library or object file
 * [Online Disassembler](https://onlinedisassembler.com/odaweb/) - A lightweight, online service for when you don't have the time, resources, or requirements to use a heavier-weight alternative
-* [Compiler Explorer](https://godbolt.org) - Explore how your C, C++, Rust, or other compiled language code ends up looking after compilation
-* [mips_to_c](https://github.com/matt-kempster/mips_to_c) - An open-source MIPS decompiler, useful for understanding and reimplementing N64 games' behavior in C
-* [GEDecompressor](https://github.com/jombo23/N64-Tools/tree/master/GEDecompressor) - Decompressor for a wide variety of compression formats used across various titles
-* [asm-differ](https://github.com/simonlindholm/asm-differ) - A `diff` script for MIPS assembly
-* [decomp-permuter](https://github.com/simonlindholm/decomp-permuter) - A tool to randomly permute C files to better match a target binary
 * [openocd_n64](https://github.com/juchong/openocd_n64) - An [OpenOCD](http://openocd.org/doc/html/About.html) configuration for the Nintendo 64 CPU
+* [rabbitizer](https://github.com/decompollaborate/rabbitizer) - An API for decoding MIPS instructions
+* [RI Probe](https://www.romhacking.net/homebrew/102/) - A ROM that dumps RDRAM values onscreen for debugging and exploring
+* [spimdisasm](https://github.com/decompollaborate/spimdisasm) - Matching MIPS disassembler API and front-ends with built-in instruction analysis
 
 ## Programming
 
