@@ -259,6 +259,8 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Bomberman 64](https://github.com/bomberhackers/bm64) - An in-progress decompilation of _Bomberman 64_
 * [Bomberman Hero](https://github.com/bomberhackers/bmhero) - An in-progress decompilation of _Bomberman Hero_
 * [Castlevania 64](https://github.com/blazkowolf/cv64) - An in-progress decompilation of _Castlevania 64_
+* [Chameleon Twist](https://github.com/chameleontwistret/chameleontwistv1.0-jp) - An in-progress decompilation of _Chameleon Twist_
+* [Chameleon Twist 2](https://github.com/chameleontwistret/chameleontwist2v1.0-jp) - An in-progress decompilation of _Chameleon Twist 2_
 * [Conker's Bad Fur Day](https://github.com/mkst/conker) - An in-progress decompilation of _Conker's Bad Fur Day_
 * [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of _Diddy Kong Racing_
 * [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) - An in-progress decompilation of _Dinosaur Planet_
@@ -277,7 +279,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Mario Kart 64](https://github.com/n64decomp/mk64) - An in-progress decompilation of _Mario Kart 64_
 * [Mario Party](https://github.com/Rainchus/mp1) - An in-progress decompilation of _Mario Party_
 * [Mario Party 2](https://github.com/Rainchus/mp2) - An in-progress decompilation of _Mario Party 2_
-* [Mario Party 3](https://github.com/Rainchus/marioparty3) - An in-progress decompilation of _Mario Party 3_
+* [Mario Party 3](https://github.com/zestydevy/marioparty3) - An in-progress decompilation of _Mario Party 3_
 * [Mario Tennis](https://github.com/dellm-79/mariotennisn64) - An in-progress decompilation of _Mario Tennis_
 * [Mischief Makers](https://github.com/blackgamma7/mischief-makers) - An in-progress decompilation of _Mischief Makers_
 * [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion) - An in-progress decompilation of _Neon Genesis Evangelion 64_
