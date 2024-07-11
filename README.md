@@ -386,6 +386,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [UltraEd](https://github.com/deadcast2/UltraEd/) - An in-progress level editor and game engine
 * [n64zlibbench](https://github.com/clbr/n64zlibbench) - A zlib benchmark with result display
 * [chip8-n64](https://github.com/joshiggins/chip8-n64) - A [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator, using `libdragon`
+* [ClassiCube](https://github.com/ClassiCube/ClassiCube) - A multi-platform Minecraft Classic / ClassiCube client with early N64 support, using `libdragon`
 * [gb64](https://github.com/lambertjamesd/gb64) - A Nintendo Game Boy emulator that runs on real hardware
 * [mvs64](https://github.com/rasky/mvs64) - A NeoGeo emulator
 * [n64-gba](https://github.com/Dillonb/n64-gba) - A proof of concept Game Boy Advance emulator (only runs ARMWrestler, a CPU exercise ROM)
