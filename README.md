@@ -268,6 +268,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) - An in-progress decompilation of _Dinosaur Planet_
 * [Donkey Kong 64](https://gitlab.com/dk64_decomp/dk64) - An in-progress decompilation of _Donkey Kong 64_
 * [Doom 64](https://github.com/Erick194/DOOM64-RE) - A **complete** reverse engineering of _Doom 64_
+* [Doraemon: Nobita to Mittsu no Seireiseki](https://github.com/prakxo/doraemon1) - An in-progress decompilation of _Doraemon: Nobita to Mittsu no Seireiseki_
 * [Dōbutsu no Mori](https://github.com/zeldaret/af) - An in-progress decompilation of _Dōbutsu no Mori_
 * [Dr. Mario 64](https://github.com/angheloalf/drmario64) - An in-progress decompilation of _Dr. Mario 64_
 * [Duke Nukem: Zero Hour](https://github.com/gillou68310/dukenukemzerohour) - An in-progress decompilation of _Duke Nukem: Zero Hour_
