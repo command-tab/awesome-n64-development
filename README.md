@@ -411,7 +411,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [controllertest](https://github.com/max257612/controllertest) - Another controller test ROM, also built with `libdragon`
 * [rsp-ruination](https://github.com/Dillonb/rsp-ruination) - A torture test that uses an emulated RSP on the CPU to validate functionality of the actual RSP
 * [ultra64-templates](https://github.com/stefanmielke/ultra64-templates) - Game templates/starting points for use with n64sdkmod
-* [wolf64](https://github.com/9nova/wolf64) - A port of _Wolfenstein 3D: Spear of Destiny_, adapted from Wolf4SDL and using `libdragon`.
+* [wolf64](https://github.com/9nova/wolf64) - A port of _Wolfenstein 3D: Spear of Destiny_, adapted from Wolf4SDL and using `libdragon`
 * [BrewReality](https://github.com/SpookyIluha/BrewReality) - A 3D flight simulator tech demo built with `libdragon`, featuring 128x128 textures and dynamic sky and lighting
 
 ### Rust
