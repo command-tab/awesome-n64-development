@@ -253,14 +253,14 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 * [AeroGauge](https://github.com/LLONSIT/AeroGauge) - An in-progress decompilation of _AeroGauge_
 * [Aidyn Chronicles](https://github.com/blackgamma7/Aidyn) - An in-progress decompilation of _Aidyn Chronicles_
-* [Banjo-Kazooie](https://gitlab.com/banjo.decomp/banjo-kazooie) - An in-progress decompilation of _Banjo-Kazooie_
+* [Banjo-Kazooie](https://gitlab.com/banjo.decomp/banjo-kazooie) - An **complete** decompilation of _Banjo-Kazooie_
 * [Banjo-Tooie](https://github.com/mr-wiseguy/banjo-tooie) - An in-progress decompilation of _Banjo-Tooie_
 * [Blast Corps](https://gitlab.com/retroplastic/blastcorps) - An in-progress decompilation of _Blast Corps_
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D
 * [Bomberman 64](https://github.com/bomberhackers/bm64) - An in-progress decompilation of _Bomberman 64_
 * [Bomberman 64: The Second Attack!](https://github.com/bomberhackers/tsa) - An in-progress decompilation of _Bomberman 64: The Second Attack!_
 * [Bomberman Hero](https://github.com/bomberhackers/bmhero) - An in-progress decompilation of _Bomberman Hero_
-* [Castlevania 64](https://github.com/blazkowolf/cv64) - An in-progress decompilation of _Castlevania 64_
+* [Castlevania 64](https://github.com/k64ret/cv64) - An in-progress decompilation of _Castlevania 64_
 * [Chameleon Twist](https://github.com/chameleontwistret/chameleontwistv1.0-jp) - An in-progress decompilation of _Chameleon Twist_
 * [Chameleon Twist 2](https://github.com/chameleontwistret/chameleontwist2v1.0-jp) - An in-progress decompilation of _Chameleon Twist 2_
 * [Conker's Bad Fur Day](https://github.com/mkst/conker) - An in-progress decompilation of _Conker's Bad Fur Day_
