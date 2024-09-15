@@ -267,7 +267,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of _Diddy Kong Racing_
 * [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) - An in-progress decompilation of _Dinosaur Planet_
 * [Donkey Kong 64](https://gitlab.com/dk64_decomp/dk64) - An in-progress decompilation of _Donkey Kong 64_
-* [Doom 64](https://github.com/Erick194/DOOM64-RE) - A **complete** reverse engineering of _Doom 64_
+* [Doom 64](https://github.com/Erick194/DOOM64-RE) - A **complete** decompilation of _Doom 64_
 * [Doraemon: Nobita to Mittsu no Seireiseki](https://github.com/prakxo/doraemon1) - An in-progress decompilation of _Doraemon: Nobita to Mittsu no Seireiseki_
 * [Dōbutsu no Mori](https://github.com/zeldaret/af) - An in-progress decompilation of _Dōbutsu no Mori_
 * [Dr. Mario 64](https://github.com/angheloalf/drmario64) - An in-progress decompilation of _Dr. Mario 64_
@@ -300,14 +300,14 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Super Mario 64](https://github.com/n64decomp/sm64) - A **complete** decompilation of _Super Mario 64_
 * [Super Smash Bros.](https://github.com/vetritheretri/ssb-decomp-re) - An in-progress decompilation of _Super Smash Bros._
 * [Superman 64](https://gitlab.com/farisawan-2000/superman) - An in-progress decompilation of _Superman 64_
+* [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm) - An in-progress decompilation of _The Legend of Zelda: Majora's Mask_
+* [The Legend of Zelda: Ocarina of Time](https://github.com/zeldaret/oot) - A **complete** decompilation of _The Legend of Zelda: Ocarina of Time_
 * [The New Tetris](https://github.com/kiritodv/tnt) - An in-progress decompilation of _The New Tetris_
 * [Turok 3: Shadow of Oblivion](https://github.com/Drahsid/turok3) - An in-progress decompilation of _Turok 3: Shadow of Oblivion_
 * [Virtual Pool 64](https://github.com/LLONSIT/virtualpool64) - An in-progress decompilation of _Virtual Pool 64_
 * [Virtual Pro Wrestling 2: Ōdō Keishō](https://github.com/aki-club/vpw2) - An in-progress decompilation of _Virtual Pro Wrestling 2: Ōdō Keishō_
 * [Wave Race 64](https://github.com/LLONSIT/wave-race-64) - An in-progress decompilation of _Wave Race 64_
 * [Yoshi's Story](https://github.com/decompals/yoshis-story) - An in-progress decompilation of _Yoshi's Story_
-* [Zelda OOT](https://github.com/zeldaret/oot) - An in-progress decompilation of _The Legend of Zelda: Ocarina of Time_
-* [Zelda MM](https://github.com/zeldaret/mm) - An in-progress decompilation of _The Legend of Zelda: Majora's Mask_
 
 #### Other
 
