@@ -34,6 +34,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
         * [Guides](#guides)
         * [Example Code](#example-code)
     * [Rust](#rust)
+    * [Go](#go)
 
 ## Community
 
@@ -433,3 +434,8 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [loka-n64](https://github.com/JoNil/loka-n64) - Nintendo 64 tools (including `extract_boot_code`, useful for cargo-n64) and a work in progress game
 * [n64-slides-apr](https://github.com/monocasa/n64-slides-apr) - Source code for April 2019 Rust Meetup slides as a Nintendo 64 ROM
 * [gameshark-rs](https://github.com/kskjer/gameshark-rs) - Rust library and tools for working with GameShark codes
+
+### Go
+
+* [clktmr/n64](https://github.com/clktmr/n64) - Support for Nintendo 64 in [embeddedgo](https://embeddedgo.github.io)
+* [gopher-kart](https://github.com/clktmr/gopher-kart) - A port of the original gopher-kart browser game to demo Go support
