@@ -399,6 +399,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [aw64](https://github.com/jnmartin84/aw64) - (C++) A Nintendo 64 port of the bytecode interpreter from _Another World_/_Out of This World_
 * [Memory64-N64](https://github.com/vieux/Memory64-N64) - A Simon style memory game with Rumble Pak support, using libdragon
 * [Mine64](https://github.com/SiliconSloth/Mine64) - A Minecraft clone, using Nintendo's NuSystem library
+* [N64-NetLib](https://github.com/buu342/N64-NetLib) - A set of tools and libraries to connect your Nintendo 64 homebrew to the internet
 * [n64_bullet_demo](https://github.com/alexvnesta/n64_bullet_demo) - An example of using Bullet Physics with `libdragon`'s OpenGL branch to create physics simulations
 * [FlappyBird-N64](https://github.com/meeq/FlappyBird-N64) - A demake of _Flappy Bird_ using `libdragon`
 * [Happy Little Frog Game](https://github.com/s4Ys369/hlfg) - An in-progress platformer made with `libdragon` and `tiny3d`
