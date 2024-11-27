@@ -282,9 +282,9 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Kirby 64: The Crystal Shards](https://github.com/farisawan-2000/kirby64) - An in-progress decompilation of _Kirby 64: The Crystal Shards_
 * [Mario Golf](https://github.com/monde-lointain/mariogolf64) - An in-progress decompilation of _Mario Golf_
 * [Mario Kart 64](https://github.com/n64decomp/mk64) - An in-progress decompilation of _Mario Kart 64_
-* [Mario Party](https://github.com/Rainchus/mp1) - An in-progress decompilation of _Mario Party_
-* [Mario Party 2](https://github.com/Rainchus/marioparty2) - An in-progress decompilation of _Mario Party 2_
-* [Mario Party 3](https://github.com/zestydevy/marioparty3) - An in-progress decompilation of _Mario Party 3_
+* [Mario Party](https://github.com/mariopartyrd/marioparty) - An in-progress decompilation of _Mario Party_
+* [Mario Party 2](https://github.com/mariopartyrd/marioparty2) - An in-progress decompilation of _Mario Party 2_
+* [Mario Party 3](https://github.com/mariopartyrd/marioparty3) - An in-progress decompilation of _Mario Party 3_
 * [Mario Tennis](https://github.com/dellm-79/mariotennisn64) - An in-progress decompilation of _Mario Tennis_
 * [Mischief Makers](https://github.com/drahsid/mischief-makers) - An in-progress decompilation of _Mischief Makers_
 * [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion) - An in-progress decompilation of _Neon Genesis Evangelion 64_
