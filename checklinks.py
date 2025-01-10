@@ -1,8 +1,9 @@
-#!/usr/bin/env python3
-
-# pipenv --three
-# pipenv install requests mistletoe
-# pipenv run ./checklinks.py README.md
+# /// script
+# dependencies = [
+#   "requests==2.32.3",
+#   "mistletoe==1.4.0",
+# ]
+# ///
 
 import sys
 from mistletoe import Document, span_token, ast_renderer
@@ -14,7 +15,7 @@ SUCCESS_EMOJI = unicodedata.lookup('White Heavy Check Mark')
 FAILURE_EMOJI = unicodedata.lookup('Cross Mark')
 
 if len(sys.argv) != 2:
-    print('Usage: pipenv run ./checklinks.py README.md')
+    print('Usage: uv run checklinks.py README.md')
     sys.exit(1)
 
 urls = []
@@ -40,7 +41,10 @@ with open(sys.argv[1], 'r') as f:
     session.headers.update({'User-Agent': USER_AGENT})
     for url in urls:
         try:
-            r = session.get(url)
+            r = session.get(url, timeout=10)
+        except requests.exceptions.ReadTimeout:
+            print(f'{FAILURE_EMOJI} {url} connection timeout')
+            continue
         except requests.exceptions.ConnectionError:
             print(f'{FAILURE_EMOJI} {url} connection error')
             continue
