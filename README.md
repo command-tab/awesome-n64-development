@@ -226,7 +226,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [romjudge](https://github.com/jkbenaim/romjudge) - A utility to judge an N64 ROM for correctness
 * [leotools](https://github.com/jkbenaim/leotools) - Work with 64DD disk images and the files contained therein
 * [splat](https://github.com/ethteck/splat) - A ROM splitting tool to assist with decompilation and modding projects
-* [seq64/n64checksum](https://github.com/sauraen/seq64/blob/master/Source/n64checksum.cpp) - Source for a tool to calculate and set ROM checksums
 * [Info64](https://www.smwcentral.net/?p=section&a=details&id=5737) - A tool to display and set ROM header information and checksums
 * [N64ShellPreview](https://github.com/Random06457/N64ShellPreview) - A Windows Shell Extension to display ROM information in Explorer's preview pane
 * [ipl3hasher](https://github.com/awygle/ipl3hasher) - GPU-accelerated hash collision finder for the IPL3 boot code
