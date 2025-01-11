@@ -432,7 +432,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [n64rom-rs](https://github.com/saneki/n64rom-rs) - A library and toolkit for working with ROMs
 * [loka-n64](https://github.com/JoNil/loka-n64) - Nintendo 64 tools (including `extract_boot_code`, useful for cargo-n64) and a work in progress game
 * [n64-slides-apr](https://github.com/monocasa/n64-slides-apr) - Source code for April 2019 Rust Meetup slides as a Nintendo 64 ROM
-* [gameshark-rs](https://github.com/kskjer/gameshark-rs) - Rust library and tools for working with GameShark codes
 
 ### Go
 
