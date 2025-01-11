@@ -300,7 +300,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Star Fox 64](https://github.com/sonicdcer/sf64) - An in-progress decompilation of _Star Fox 64_
 * [Super Mario 64](https://github.com/n64decomp/sm64) - A **complete** decompilation of _Super Mario 64_
 * [Super Smash Bros.](https://github.com/vetritheretri/ssb-decomp-re) - An in-progress decompilation of _Super Smash Bros._
-* [Superman 64](https://gitlab.com/farisawan-2000/superman) - An in-progress decompilation of _Superman 64_
 * [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm) - A **complete** decompilation of _The Legend of Zelda: Majora's Mask_
 * [The Legend of Zelda: Ocarina of Time](https://github.com/zeldaret/oot) - A **complete** decompilation of _The Legend of Zelda: Ocarina of Time_
 * [The New Tetris](https://github.com/kiritodv/tnt) - An in-progress decompilation of _The New Tetris_
