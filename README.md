@@ -381,6 +381,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [brick64](https://github.com/allie/brick64) - A homebrew 3D brick-breaker game using the official SDK
 * [goose64](https://github.com/jsdf/goose64) - jsdf's _Untitled Goose Game_ "demake"
 * [helloworld](https://github.com/loociano/n64dev/tree/master/helloworld) - Hello World example using NuSystem and S2DEX microcode
+* [BrewChristmas](https://github.com/SpookyIluha/BrewChristmas) - A single 3D holiday scene built using `libdragon` and `tiny3d`
 * [Controller-Pak-Manager](https://github.com/manfriedn64/Controller-Pak-Manager) - A ROM that presents graphical user interface to manage Controller Pak data
 * [old-castle](https://github.com/danbolt/old-castle) - A homebrew game based on a NuSystem sample from the official SDK
 * [n64-gameoflife](https://github.com/jsdf/n64-gameoflife) jsdf's implementation of the classic _Conway's Game of Life_
