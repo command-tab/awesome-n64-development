@@ -378,6 +378,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64brew Game Jam 2021](https://github.com/N64brew-Game-Jam-2021) - N64brew Game Jam 2021 submissions
 * [N64brew Game Jam 2022](https://github.com/N64brew-Game-Jam-2022) - N64brew Game Jam 2022 submissions
 * [N64brew Game Jam 2023](https://github.com/N64brew-Game-Jam-2023) - N64brew Game Jam 2023 submissions
+* [N64brew Game Jam 2024](https://github.com/n64brew/N64brew-GameJam2024) - A collaborative minigame ROM for the N64brew Game Jam 2024
 * [brick64](https://github.com/allie/brick64) - A homebrew 3D brick-breaker game using the official SDK
 * [goose64](https://github.com/jsdf/goose64) - jsdf's _Untitled Goose Game_ "demake"
 * [helloworld](https://github.com/loociano/n64dev/tree/master/helloworld) - Hello World example using NuSystem and S2DEX microcode
