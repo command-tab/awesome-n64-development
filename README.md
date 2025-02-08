@@ -159,7 +159,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [UNFLoader](https://github.com/buu342/N64-UNFLoader/) - A universal flash cart ROM uploader (64drive, EverDrive 64 V3, EverDrive 64 X7 and SummerCart64) and debug library
 * [sc64deployer](https://github.com/Polprzewodnikowy/SummerCart64/releases) - SummerCart64 loader and control software (Windows, macOS and Linux)
 
-### Flashcart menu software
+### Flashcart Menu Software
 
 * [N64FlashcartMenu](https://github.com/Polprzewodnikowy/N64FlashcartMenu) - Universal flashcart menu with aim to support most of the N64 flashcarts on the market
 
