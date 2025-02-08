@@ -140,6 +140,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [64drive](http://64drive.retroactive.be/) - A flash cartridge with USB support targeted at developers. Currently near impossible to get new, or expensive second hand.
 * [Brutzelkarte](https://github.com/jago85/Brutzelkarte_PCB) - An open-source (hardware and software) FPGA-based flash cartridge
 * [El Barato 64](https://github.com/Hazematman/El-Barato-64) - An in-progress open source development cartridge
+* [N64cart](https://github.com/pdaxrom/N64cart) - A flash cartridge based on the RP2040 microcontroller
 * [UltraHDMI](http://ultrahdmi.retroactive.be/) (periodically in stock at [Game-Tech](https://www.game-tech.us/product/ultrahdmi/)) - A board that can be installed into the console to capture the digital output of the RCP and send it out a Mini HDMI connector to a modern TV. Convenient for connecting a real console to a nearby monitor while viewing the best possible output signal.
 * [N64RGB](https://etim.net.au/shop/shop.php?crn=209&rn=548&action=show_detail) - An N64RGB mod that supports every motherboard revision and works pretty well.
 * [UltraSave](http://64drive.retroactive.be/features.php#ultrasave) - A device that works with the 64drive to transfer saves from real cartridges
