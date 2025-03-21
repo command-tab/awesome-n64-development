@@ -255,6 +255,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Aidyn Chronicles](https://github.com/blackgamma7/Aidyn) - An in-progress decompilation of _Aidyn Chronicles_
 * [Banjo-Kazooie](https://gitlab.com/banjo.decomp/banjo-kazooie) - A **complete** decompilation of _Banjo-Kazooie_
 * [Banjo-Tooie](https://github.com/mr-wiseguy/banjo-tooie) - An in-progress decompilation of _Banjo-Tooie_
+* [Blast Corps](https://github.com/retroplastic/blastcorps) - An in-progress decompilation of _Blast Corps_
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D
 * [Bomberman 64](https://github.com/bomberhackers/bm64) - An in-progress decompilation of _Bomberman 64_
 * [Bomberman 64: The Second Attack!](https://github.com/bomberhackers/tsa) - An in-progress decompilation of _Bomberman 64: The Second Attack!_
@@ -299,8 +300,10 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Snowboard Kids 2](https://github.com/cdlewis/snowboardkids2-decomp) - An in-progress decompilation of _Snowboard Kids 2_
 * [Space Station Silicon Valley](https://github.com/mkst/sssv) - An in-progress decompilation of _Space Station Silicon Valley_
 * [Star Fox 64](https://github.com/sonicdcer/sf64) - An in-progress decompilation of _Star Fox 64_
+* [Star Wars: Shadows of the Empire](https://github.com/eltalelibrarian/sote) - An in-progress decompilation of _Star Wars: Shadows of the Empire_
 * [Super Mario 64](https://github.com/n64decomp/sm64) - A **complete** decompilation of _Super Mario 64_
 * [Super Smash Bros.](https://github.com/vetritheretri/ssb-decomp-re) - An in-progress decompilation of _Super Smash Bros._
+* [Superman 64](https://github.com/farisawan-2000/superman) - An in-progress decompilation of _Superman 64_
 * [The Legend of Zelda: Majora's Mask](https://github.com/zeldaret/mm) - A **complete** decompilation of _The Legend of Zelda: Majora's Mask_
 * [The Legend of Zelda: Ocarina of Time](https://github.com/zeldaret/oot) - A **complete** decompilation of _The Legend of Zelda: Ocarina of Time_
 * [The New Tetris](https://github.com/kiritodv/tnt) - An in-progress decompilation of _The New Tetris_
