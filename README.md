@@ -384,6 +384,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [N64brew Game Jam 2023](https://github.com/N64brew-Game-Jam-2023) - N64brew Game Jam 2023 submissions
 * [N64brew Game Jam 2024](https://github.com/n64brew/N64brew-GameJam2024) - A collaborative minigame ROM for the N64brew Game Jam 2024
 * [brick64](https://github.com/allie/brick64) - A homebrew 3D brick-breaker game using the official SDK
+* [Driving Strikers 64](https://github.com/SpookyIluha/Driving-Strikers-64) - A Nintendo 64 port of the indie Dreamcast game _Driving Strikers_ using `libdragon` and `tiny3d`
 * [goose64](https://github.com/jsdf/goose64) - jsdf's _Untitled Goose Game_ "demake"
 * [helloworld](https://github.com/loociano/n64dev/tree/master/helloworld) - Hello World example using NuSystem and S2DEX microcode
 * [BrewChristmas](https://github.com/SpookyIluha/BrewChristmas) - A single 3D holiday scene built using `libdragon` and `tiny3d`
