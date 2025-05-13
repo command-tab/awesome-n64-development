@@ -396,6 +396,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [ochim](https://github.com/murachue/ochim) - An up to 4 player action puzzle game
 * [UltraEd](https://github.com/deadcast2/UltraEd/) - An in-progress level editor and game engine
 * [n64zlibbench](https://github.com/clbr/n64zlibbench) - A zlib benchmark with result display
+* [small64](https://github.com/rasky/small64) - The first Nintendo 64 4K intro (a demoscene executable that produces visuals and music using 4KB or less)
 * [chip8-n64](https://github.com/joshiggins/chip8-n64) - A [CHIP-8](https://en.wikipedia.org/wiki/CHIP-8) emulator, using `libdragon`
 * [ClassiCube](https://github.com/ClassiCube/ClassiCube) - A multi-platform Minecraft Classic / ClassiCube client with early N64 support, using `libdragon`
 * [gb64](https://github.com/lambertjamesd/gb64) - A Nintendo Game Boy emulator that runs on real hardware
