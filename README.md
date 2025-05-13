@@ -256,7 +256,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Banjo-Kazooie](https://gitlab.com/banjo.decomp/banjo-kazooie) - A **complete** decompilation of _Banjo-Kazooie_
 * [Banjo-Tooie](https://github.com/mr-wiseguy/banjo-tooie) - An in-progress decompilation of _Banjo-Tooie_
 * [Blast Corps](https://github.com/retroplastic/blastcorps) - An in-progress decompilation of _Blast Corps_
-* [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D
+* [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D (see also [DeltaniumIndustries/BodyHarvestDecomp](https://github.com/DeltaniumIndustries/BodyHarvestDecomp))
 * [Bomberman 64](https://github.com/bomberhackers/bm64) - An in-progress decompilation of _Bomberman 64_
 * [Bomberman 64: The Second Attack!](https://github.com/bomberhackers/tsa) - An in-progress decompilation of _Bomberman 64: The Second Attack!_
 * [Bomberman Hero](https://github.com/bomberhackers/bmhero) - An in-progress decompilation of _Bomberman Hero_
