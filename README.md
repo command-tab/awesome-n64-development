@@ -296,6 +296,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Pokémon Stadium 2](https://github.com/pret/pokestadiumgs) - An in-progress decompilation of _Pokémon Stadium 2_
 * [Quest 64](https://github.com/Rainchus/quest64-decomp) - An in-progress decompilation of _Quest 64_
 * [Rocket: Robot on Wheels](https://github.com/RocketRet/Rocket-Robot-On-Wheels) - An in-progress decompilation of _Rocket: Robot on Wheels_
+* [Sharkwire 64](https://github.com/Jhynjhiruu/sharkwire) - An in-progress decompilation of the SharkWire Online cartridge firmware
 * [Shadowgate 64](https://github.com/Rainchus/shadowgate64) - An in-progress decompilation of _Shadowgate 64_
 * [Snowboard Kids 2](https://github.com/cdlewis/snowboardkids2-decomp) - An in-progress decompilation of _Snowboard Kids 2_
 * [Space Station Silicon Valley](https://github.com/mkst/sssv) - An in-progress decompilation of _Space Station Silicon Valley_
