@@ -273,6 +273,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Dr. Mario 64](https://github.com/angheloalf/drmario64) - An in-progress decompilation of _Dr. Mario 64_
 * [Duke Nukem: Zero Hour](https://github.com/gillou68310/dukenukemzerohour) - An in-progress decompilation of _Duke Nukem: Zero Hour_
 * [F-Zero X](https://github.com/inspectredc/fzerox) - An in-progress decompilation of _F-Zero X_
+* [F-Zero X Expansion Kit](https://github.com/inspectredc/fzerox-expansion-kit) - An in-progress decompilation of the _F-Zero X Expansion Kit_
 * [Gauntlet Legends](https://github.com/Drahsid/gauntlet-legends) - An in-progress decompilation of _Gauntlet Legends_
 * [Gex 64: Enter the Gecko](https://github.com/matbourgon/gex64decomp) - An in-progress decompilation of _Gex 64: Enter the Gecko_
 * [Glover](https://github.com/Rainchus/glover) - An in-progress decompilation of _Glover_
@@ -281,7 +282,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Knife Edge: Nose Gunner](https://github.com/disi33/KE-NG_Reversing) - Configures a reverse engineering environment (Mupen64+ RE, Ghidra, etc.) for _Knife Edge: Nose Gunner_
 * [Kirby 64: The Crystal Shards](https://github.com/kirby64ret/kirby64) - An in-progress decompilation of _Kirby 64: The Crystal Shards_
 * [Mario Golf](https://github.com/monde-lointain/mariogolf64) - An in-progress decompilation of _Mario Golf_
-* [Mario Kart 64](https://github.com/n64decomp/mk64) - An in-progress decompilation of _Mario Kart 64_
+* [Mario Kart 64](https://github.com/n64decomp/mk64) - A **complete** decompilation of _Mario Kart 64_
 * [Mario Party](https://github.com/mariopartyrd/marioparty) - An in-progress decompilation of _Mario Party_
 * [Mario Party 2](https://github.com/mariopartyrd/marioparty2) - An in-progress decompilation of _Mario Party 2_
 * [Mario Party 3](https://github.com/mariopartyrd/marioparty3) - An in-progress decompilation of _Mario Party 3_
