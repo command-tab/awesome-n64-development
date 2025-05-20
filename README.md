@@ -264,6 +264,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Chameleon Twist](https://github.com/chameleontwistret/chameleontwistv1.0-jp) - An in-progress decompilation of _Chameleon Twist_
 * [Chameleon Twist 2](https://github.com/chameleontwistret/chameleontwist2v1.0-jp) - An in-progress decompilation of _Chameleon Twist 2_
 * [Conker's Bad Fur Day](https://github.com/mkst/conker) - An in-progress decompilation of _Conker's Bad Fur Day_
+* [Dark Rift](https://github.com/unnunu/darkrift) - An in-progress decompilation of _Dark Rift_
 * [Diddy Kong Racing](https://github.com/DavidSM64/Diddy-Kong-Racing) - An in-progress decompilation of _Diddy Kong Racing_
 * [Dinosaur Planet](https://github.com/zestydevy/dinosaur-planet) - An in-progress decompilation of _Dinosaur Planet_
 * [Donkey Kong 64](https://gitlab.com/dk64_decomp/dk64) - An in-progress decompilation of _Donkey Kong 64_
@@ -279,8 +280,9 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Glover](https://github.com/Rainchus/glover) - An in-progress decompilation of _Glover_
 * [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
 * [Harvest Moon 64](https://github.com/harvestwhisperer/hm64-decomp) - An in-progress decompilation of _Harvest Moon 64_
-* [Knife Edge: Nose Gunner](https://github.com/disi33/KE-NG_Reversing) - Configures a reverse engineering environment (Mupen64+ RE, Ghidra, etc.) for _Knife Edge: Nose Gunner_
 * [Kirby 64: The Crystal Shards](https://github.com/kirby64ret/kirby64) - An in-progress decompilation of _Kirby 64: The Crystal Shards_
+* [Knife Edge: Nose Gunner](https://github.com/disi33/KE-NG_Reversing) - Configures a reverse engineering environment (Mupen64+ RE, Ghidra, etc.) for _Knife Edge: Nose Gunner_
+* [Lego Racers](https://github.com/marijnvdwerf/lego-racers) - An in-progress decompilation of _Lego Racers_
 * [Mario Golf](https://github.com/monde-lointain/mariogolf64) - An in-progress decompilation of _Mario Golf_
 * [Mario Kart 64](https://github.com/n64decomp/mk64) - A **complete** decompilation of _Mario Kart 64_
 * [Mario Party](https://github.com/mariopartyrd/marioparty) - An in-progress decompilation of _Mario Party_
