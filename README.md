@@ -280,6 +280,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Glover](https://github.com/Rainchus/glover) - An in-progress decompilation of _Glover_
 * [GoldenEye 007](https://gitlab.com/kholdfuzion/goldeneye_src) - An in-progress decompilation of _GoldenEye 007_
 * [Harvest Moon 64](https://github.com/harvestwhisperer/hm64-decomp) - An in-progress decompilation of _Harvest Moon 64_
+* [Jet Force Gemini](https://github.com/ryan-myers/jet-force-gemini) - An in-progress decompilation of _Jet Force Gemini_
 * [Kirby 64: The Crystal Shards](https://github.com/kirby64ret/kirby64) - An in-progress decompilation of _Kirby 64: The Crystal Shards_
 * [Knife Edge: Nose Gunner](https://github.com/disi33/KE-NG_Reversing) - Configures a reverse engineering environment (Mupen64+ RE, Ghidra, etc.) for _Knife Edge: Nose Gunner_
 * [Lego Racers](https://github.com/marijnvdwerf/lego-racers) - An in-progress decompilation of _Lego Racers_
@@ -290,7 +291,9 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Mario Party 3](https://github.com/mariopartyrd/marioparty3) - An in-progress decompilation of _Mario Party 3_
 * [Mario Tennis](https://github.com/dellm-79/mariotennisn64) - An in-progress decompilation of _Mario Tennis_
 * [Mischief Makers](https://github.com/drahsid/mischief-makers) - An in-progress decompilation of _Mischief Makers_
+* [Mystical Ninja Starring Goemon](https://github.com/klorfmorf/mnsg) - An in-progress decompilation of _Mystical Ninja Starring Goemon_
 * [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion) - An in-progress decompilation of _Neon Genesis Evangelion 64_
+* [Onegai Monsters](https://github.com/ryan-myers/onegaimonsters) - An in-progress decompilation of _Onegai Monsters_
 * [Paper Mario](https://github.com/pmret/papermario) - A **complete** decompilation of _Paper Mario_
 * [Perfect Dark](https://gitlab.com/ryandwyer/perfect-dark) - A **complete** decompilation of _Perfect Dark_ (see also [pdtools](https://gitlab.com/ryandwyer/pdtools))
 * [Pokémon Puzzle League](https://github.com/angheloalf/puzzleleague64) - An in-progress decompilation of _Pokémon Puzzle League_
