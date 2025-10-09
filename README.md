@@ -422,6 +422,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [n64triangle](https://github.com/sp1187/n64triangle) - RDP triangle demo, using `libdragon`
 * [non_nusys_demo](https://github.com/gamemasterplc/non_nusys_demo) - A complex demo built without relying on Nintendo's NuSystem library
 * [Penguins Luv Melons](https://n64squid.com/penguins-luv-melons/) - A homebrew game built with `libdragon`
+* [SpaceCube64](https://github.com/realtradam/tojam2024) - A space-like shooter game made in a weekend for TOJam 2024
 * [64doom](https://github.com/jnmartin84/64doom) - A source port of the original _DOOM_
 * [cmake-demo-rom](https://github.com/N64-tools/cmake-demo-rom) - Demonstrates building toolchains and a ROM using CMake and `libdragon`
 * [n64_controller_test](https://github.com/Ryzee119/n64_controller_test) - A simple homebrew ROM built with `libdragon` to perform some basic controller tests
