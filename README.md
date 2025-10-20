@@ -273,7 +273,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Dōbutsu no Mori](https://github.com/zeldaret/af) - An in-progress decompilation of _Dōbutsu no Mori_
 * [Dr. Mario 64](https://github.com/angheloalf/drmario64) - An in-progress decompilation of _Dr. Mario 64_
 * [Duke Nukem 64](https://github.com/nblood/duke64-re) - An in-progress decompilation of _Duke Nukem 64_
-* [Duke Nukem: Zero Hour](https://github.com/gillou68310/dukenukemzerohour) - An in-progress decompilation of _Duke Nukem: Zero Hour_
+* [Duke Nukem: Zero Hour](https://github.com/gillou68310/dukenukemzerohour) - A **complete** decompilation of _Duke Nukem: Zero Hour_
 * [F-Zero X](https://github.com/inspectredc/fzerox) - An in-progress decompilation of _F-Zero X_
 * [F-Zero X Expansion Kit](https://github.com/inspectredc/fzerox-expansion-kit) - An in-progress decompilation of the _F-Zero X Expansion Kit_
 * [Gauntlet Legends](https://github.com/Drahsid/gauntlet-legends) - An in-progress decompilation of _Gauntlet Legends_
