@@ -431,6 +431,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [ultra64-templates](https://github.com/stefanmielke/ultra64-templates) - Game templates/starting points for use with n64sdkmod
 * [vlak64](https://github.com/thekovic/vlak64) - A reimplementation of the classic DOS game _Vlak_ using `libdragon`
 * [BrewReality](https://github.com/SpookyIluha/BrewReality) - A 3D flight simulator tech demo built with `libdragon`, featuring 128x128 textures and dynamic sky and lighting
+* [CounterEmotion-Bar](https://github.com/SpookyIluha/CounterEmotion-Bar) - A Targem Games 3-Day GameJam 2025 entry built with `libdragon` and `tiny3d`
 
 ### Rust
 
