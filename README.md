@@ -115,7 +115,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 ### Works In Progress
 
 * [cor64](https://github.com/bryanperris/cor64) - An in-progress emulator written in C#
-* [Kaizen (previously Gadolinium)](https://github.com/SimoneN64/Kaizen) - Work-in-progress emulator written in C++, able to already play some commercial games and replay Mupen TAS movies
+* [Kaizen (previously Gadolinium)](https://sr.ht/~irisz64/kaizen/) - Work-in-progress emulator written in C++, able to already play some commercial games and replay Mupen TAS movies
 * [Gopher64](https://github.com/gopher64/gopher64) - An N64 emulator written in Rust by the developer of Simple64, able to already play some commercial games at decent speeds!
 
 ### Unmaintained
