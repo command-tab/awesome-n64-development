@@ -411,6 +411,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [n64-gba](https://github.com/Dillonb/n64-gba) - A proof of concept Game Boy Advance emulator (only runs ARMWrestler, a CPU exercise ROM)
 * [paniclab64](https://github.com/1r3n33/paniclab64) - A homebrew game inspired by _Panic Lab_ from Gigamic
 * [platformer64](https://github.com/lambertjamesd/platformer64) - An in-progress adventure platformer
+* [Pong64](https://github.com/JumpiX64/Pong64) - A port of Pong featuring additional game modes, using `libdragon`
 * [aw64](https://github.com/jnmartin84/aw64) - (C++) A Nintendo 64 port of the bytecode interpreter from _Another World_/_Out of This World_
 * [Memory64-N64](https://github.com/vieux/Memory64-N64) - A Simon style memory game with Rumble Pak support, using libdragon
 * [Mine64](https://github.com/SiliconSloth/Mine64) - A Minecraft clone, using Nintendo's NuSystem library
