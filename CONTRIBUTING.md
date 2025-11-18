@@ -10,8 +10,7 @@ Here's how you can contribute:
 
 - Look at open [Issues](https://github.com/commandtab/awesome-n64-development/issues) and provide help or feedback 
 - [Add a resource](#adding-a-resource)
-- [Correct and improve existing entries](#correcting-and-improving-resources)
-- [Fix broken links and unavailable resources](#removing-unavailable-resources)
+- [Fix broken links and unavailable resources](#removing-an-unavailable-resource)
 
 If you are unsure about something, it's okay to open an [Issue](https://github.com/commandtab/awesome-n64-development/issues).
 
@@ -25,6 +24,8 @@ For a resource to be added to the list, it must:
 - Be in a minimal working state
 - Have a clear purpose (implementation reference is okay, too) and/or provide something interesting
 - Provide a minimal documentation briefly describing what is the project and how to make use of it
+
+If you have some old and unavailable resource archived in your personal storage that maybe in the interest (even historically!) to the Nintendo 64 development community, please open an Issue attaching or linking the resource.
 
 ### Pull Request
 
@@ -47,7 +48,5 @@ You're welcome to remove any broken link in the repository, but first try to fin
 Then, **open an Issue** with any useful details.
 
 You can then proceed to remove the broken link (or wait for someone to do it).
-
-If you have some old and unavailable resource (not necessarly listed in the missing list) archived in your hard disk that maybe in the interest (even historical!) of the Nintendo 64 development community, please open an Issue attaching or linking the resource.
 
 #### Thank you!
