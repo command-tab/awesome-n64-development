@@ -413,6 +413,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [paniclab64](https://github.com/1r3n33/paniclab64) - A homebrew game inspired by _Panic Lab_ from Gigamic
 * [platformer64](https://github.com/lambertjamesd/platformer64) - An in-progress adventure platformer
 * [Pong64](https://github.com/JumpiX64/Pong64) - A port of Pong featuring additional game modes, using `libdragon`
+* [pyrite64](https://github.com/HailToDodongo/pyrite64) - A game engine and editor using `libdragon` and `tiny3d` from C++
 * [aw64](https://github.com/jnmartin84/aw64) - (C++) A Nintendo 64 port of the bytecode interpreter from _Another World_/_Out of This World_
 * [Memory64-N64](https://github.com/vieux/Memory64-N64) - A Simon style memory game with Rumble Pak support, using libdragon
 * [Mine64](https://github.com/SiliconSloth/Mine64) - A Minecraft clone, using Nintendo's NuSystem library
