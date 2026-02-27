@@ -436,6 +436,8 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [BrewReality](https://github.com/SpookyIluha/BrewReality) - A 3D flight simulator tech demo built with `libdragon`, featuring 128x128 textures and dynamic sky and lighting
 * [CounterEmotion-Bar](https://github.com/SpookyIluha/CounterEmotion-Bar) - A Targem Games 3-Day GameJam 2025 entry built with `libdragon` and `tiny3d`
 
+* [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) - A 4-layer nano-GPT neural network (819K parameters) running natively on the N64's MIPS R4300i FPU, believed to be the first LLM on Nintendo 64 hardware
+
 ### Rust
 
 * [nust64](https://github.com/bigbass1997/nust64) - Rust crate for compiling a Rust project into an N64 ROM
