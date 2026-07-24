@@ -178,6 +178,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Obj2N64DL](https://github.com/pseudophpt/Obj2N64DL) - Another Wavefront `.obj` to displaylist converter
 * [Max_To_N64](https://github.com/MrQuetch/Max_To_N64) - Scripts to export models from 3DS Max to C
 * [N64_3DRenderingTest](https://github.com/tfcat/N64_3DRenderingTest) - A basic model viewer using NuSystem
+* [n64.toys](https://n64.toys) - A browser-based playground for authoring, rendering, and sharing N64 display lists using standard GBI macros
 
 #### 2D
 
