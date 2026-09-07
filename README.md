@@ -246,6 +246,15 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [S2DEX Text Engine](https://github.com/someone2639/S2DEX-Text-Engine) - A text engine powered by the S2DEX microcode
 * [tiny3d](https://github.com/HailToDodongo/tiny3d) - A tiny 3D RSP microcode and C API wrapper which work with `libdragon`
 
+### Utilities
+
+* [n64_controller_test](https://github.com/Ryzee119/n64_controller_test) - A simple homebrew ROM built with `libdragon` to perform some basic controller tests
+* [controllertest](https://github.com/max257612/controllertest) - Another controller test ROM, also built with `libdragon`
+* [Controller-Pak-Manager](https://github.com/manfriedn64/Controller-Pak-Manager) - A ROM that presents graphical user interface to manage Controller Pak data
+* [n64memtest](https://github.com/rasky/n64memtest) - Homebrew RDRAM memory diagnostic tool
+* [RI Probe](https://www.romhacking.net/homebrew/102/) - Dumps RDRAM values onscreen for debugging and exploring
+* [rsp-ruination](https://github.com/Dillonb/rsp-ruination) - A torture test that uses an emulated RSP on the CPU to validate functionality of the actual RSP
+
 ## Reverse Engineering
 
 ### Projects
@@ -355,7 +364,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Online Disassembler](https://onlinedisassembler.com/odaweb/) - A lightweight, online service for when you don't have the time, resources, or requirements to use a heavier-weight alternative
 * [openocd_n64](https://github.com/juchong/openocd_n64) - An [OpenOCD](http://openocd.org/doc/html/About.html) configuration for the Nintendo 64 CPU
 * [rabbitizer](https://github.com/decompollaborate/rabbitizer) - An API for decoding MIPS instructions
-* [RI Probe](https://www.romhacking.net/homebrew/102/) - A ROM that dumps RDRAM values onscreen for debugging and exploring
 * [spimdisasm](https://github.com/decompollaborate/spimdisasm) - Matching MIPS disassembler API and front-ends with built-in instruction analysis
 * [y64_linker](https://github.com/blueberry077/y64_linker/) - MIPS64 ELF relocation resolver and section extractor
 
@@ -399,7 +407,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [goose64](https://github.com/jsdf/goose64) - jsdf's _Untitled Goose Game_ "demake"
 * [helloworld](https://github.com/loociano/n64dev/tree/master/helloworld) - Hello World example using NuSystem and S2DEX microcode
 * [BrewChristmas](https://github.com/SpookyIluha/BrewChristmas) - A single 3D holiday scene built using `libdragon` and `tiny3d`
-* [Controller-Pak-Manager](https://github.com/manfriedn64/Controller-Pak-Manager) - A ROM that presents graphical user interface to manage Controller Pak data
 * [old-castle](https://github.com/danbolt/old-castle) - A homebrew game based on a NuSystem sample from the official SDK
 * [n64-gameoflife](https://github.com/jsdf/n64-gameoflife) jsdf's implementation of the classic _Conway's Game of Life_
 * [shibamatch](https://github.com/einhov/shibamatch) - A Shiba Inu-themed memory match game
@@ -430,9 +437,6 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [SpaceCube64](https://github.com/realtradam/tojam2024) - A space-like shooter game made in a weekend for TOJam 2024
 * [64doom](https://github.com/jnmartin84/64doom) - A source port of the original _DOOM_
 * [cmake-demo-rom](https://github.com/N64-tools/cmake-demo-rom) - Demonstrates building toolchains and a ROM using CMake and `libdragon`
-* [n64_controller_test](https://github.com/Ryzee119/n64_controller_test) - A simple homebrew ROM built with `libdragon` to perform some basic controller tests
-* [controllertest](https://github.com/max257612/controllertest) - Another controller test ROM, also built with `libdragon`
-* [rsp-ruination](https://github.com/Dillonb/rsp-ruination) - A torture test that uses an emulated RSP on the CPU to validate functionality of the actual RSP
 * [ultra64-templates](https://github.com/stefanmielke/ultra64-templates) - Game templates/starting points for use with n64sdkmod
 * [vlak64](https://github.com/thekovic/vlak64) - A reimplementation of the classic DOS game _Vlak_ using `libdragon`
 * [BrewReality](https://github.com/SpookyIluha/BrewReality) - A 3D flight simulator tech demo built with `libdragon`, featuring 128x128 textures and dynamic sky and lighting
