@@ -436,7 +436,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [vlak64](https://github.com/thekovic/vlak64) - A reimplementation of the classic DOS game _Vlak_ using `libdragon`
 * [BrewReality](https://github.com/SpookyIluha/BrewReality) - A 3D flight simulator tech demo built with `libdragon`, featuring 128x128 textures and dynamic sky and lighting
 * [CounterEmotion-Bar](https://github.com/SpookyIluha/CounterEmotion-Bar) - A Targem Games 3-Day GameJam 2025 entry built with `libdragon` and `tiny3d`
-* [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) - A 4-layer nano-GPT neural network (819K parameters) running natively on the N64's MIPS R4300i FPU, believed to be the first LLM on Nintendo 64 hardware
+* [Legend of Elya](https://github.com/Scottcjn/legend-of-elya-n64) - A Zelda-style ROM running a real transformer for live LLM inference powering an NPC, built with `libdragon`
 * [hash-bench-n64](https://github.com/dmang-dev/hash-bench-n64) - Hash-algorithm benchmark ROM that times 32 cryptographic and non-cryptographic hashes (CRC, MD5, SHA-1, SHA-512, BLAKE2s, etc.) on the VR4300 and displays µs/iter and KB/s on screen, using `libdragon`
 
 ### Rust
