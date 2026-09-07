@@ -357,6 +357,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [rabbitizer](https://github.com/decompollaborate/rabbitizer) - An API for decoding MIPS instructions
 * [RI Probe](https://www.romhacking.net/homebrew/102/) - A ROM that dumps RDRAM values onscreen for debugging and exploring
 * [spimdisasm](https://github.com/decompollaborate/spimdisasm) - Matching MIPS disassembler API and front-ends with built-in instruction analysis
+* [y64_linker](https://github.com/blueberry077/y64_linker/) - MIPS64 ELF relocation resolver and section extractor
 
 ## Programming
 
