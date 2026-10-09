@@ -231,6 +231,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [splat](https://github.com/ethteck/splat) - A ROM splitting tool to assist with decompilation and modding projects
 * [Info64](https://www.smwcentral.net/?p=section&a=details&id=5737) - A tool to display and set ROM header information and checksums
 * [N64ShellPreview](https://github.com/Random06457/N64ShellPreview) - A Windows Shell Extension to display ROM information in Explorer's preview pane
+* [AKI Anvil](https://martymonero.com/tools/aki-anvil) - Browser-based editor for the six AKI wrestling games (World Tour, VPW64, Revenge, WrestleMania 2000, VPW2, No Mercy): edit names, attributes, move damage and textures, view every animation in 3D, export a bootable ROM or a patch. The ROM never leaves your computer
 * [ipl3hasher](https://github.com/awygle/ipl3hasher) - GPU-accelerated hash collision finder for the IPL3 boot code
 * [boot_stub](https://github.com/hcs64/boot_stub) - A replacement for the CIC-6102 IPL3 boot code
 
