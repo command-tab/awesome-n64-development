@@ -266,6 +266,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Aidyn Chronicles](https://github.com/blackgamma7/Aidyn) - An in-progress decompilation of _Aidyn Chronicles_
 * [Banjo-Kazooie](https://gitlab.com/banjo.decomp/banjo-kazooie) - A **complete** decompilation of _Banjo-Kazooie_
 * [Banjo-Tooie](https://github.com/mr-wiseguy/banjo-tooie) - An in-progress decompilation of _Banjo-Tooie_
+* [BattleTanx: Global Assault](https://github.com/TheGh0stShip/BattleTanx-Global-Assault) - A **complete** matching decompilation of _BattleTanx: Global Assault_ (USA Rev 0)
 * [Blast Corps](https://github.com/retroplastic/blastcorps) - An in-progress decompilation of _Blast Corps_
 * [Body Harvest](https://github.com/jaytheham/body-harvest-decompilation) - An in-progress decompilation of _Body Harvest_ in D (see also [DeltaniumIndustries/BodyHarvestDecomp](https://github.com/DeltaniumIndustries/BodyHarvestDecomp))
 * [Bomberman 64](https://github.com/bomberhackers/bm64) - An in-progress decompilation of _Bomberman 64_
