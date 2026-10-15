@@ -332,6 +332,10 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Wave Race 64](https://github.com/LLONSIT/wave-race-64) - An in-progress decompilation of _Wave Race 64_
 * [Yoshi's Story](https://github.com/decompals/yoshis-story) - An in-progress decompilation of _Yoshi's Story_
 
+#### Game Recompilation and Native Ports
+
+* [BattleTanx: Global Assault PC Port](https://github.com/TheGh0stShip/BattleTanx-Global-Assault-PC-Port) - A playable native Windows and Linux port using N64Recomp, N64ModernRuntime, RT64, and SDL2
+
 #### Other
 
 * [f3dex2](https://github.com/Mr-Wiseguy/f3dex2) - Matching and mostly documented disassemblies of the F3DEX2/F3DZEX2 N64 RSP microcode family
