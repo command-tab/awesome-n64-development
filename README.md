@@ -105,19 +105,19 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 * [Project64](https://www.pj64-emu.com) ([GitHub](https://github.com/project64/project64)) - An open-source emulator for Windows and (soonTM) Linux/Android. It used to focus on compatibility with commercial games, but now also focuses on improving accuracy and emulating as much of the console as possible while remaining performant and compatible.
 * [Sixtyforce](https://sixtyforce.com) - A closed-source emulator for Mac
-* [mupen64plus](https://mupen64plus.org) ([GitHub](https://github.com/mupen64plus)) - A more recently updated fork of Mupen64 for Linux, Mac OSX, FreeBSD, and Windows. No GUI is included, so you can use simple64, RMG, or the RetroArch core for a UI.
-* [simple64](https://simple64.github.io/) ([GitHub](https://github.com/simple64/simple64)) - A fork of Mupen64Plus that is easy to use and also more accurate.
+* [mupen64plus](https://mupen64plus.org) ([GitHub](https://github.com/mupen64plus)) - A more recently updated fork of Mupen64 for Linux, Mac OSX, FreeBSD, and Windows. No GUI is included, so you can use Gopher64, RMG, or the RetroArch core for a UI.
 * [Mupen64+ Reverser Edition](https://www.retroreversing.com/mupen64RE) - A fork of the Mupen64Plus emulator tailored for reverse engineering.
 * [Rosalie's Mupen GUI](https://github.com/Rosalie241/RMG) - a GUI for Mupen64Plus that works on Windows. One of the easiest and best ways to use Mupen64Plus with a GUI!
 * [ModLoader64](https://modloader64.com) ([GitHub](https://github.com/hylian-modding/ModLoader64)) - A wrapper for Mupen64plus that enables modding through plugins written in TypeScript
 * [ares](https://ares-emu.net) - A low-level, accurate multi-system emulator with good support for N64. Available in sources and binary distributions for Windows, Mac and Linux. It includes a CPU and RSP recompiler, and emulates RDP with Vulkan (via Parallel-RDP).
-* [Dillonb's dgb-n64](https://github.com/Dillonb/n64) - A low-level, accurate N64 emulator for Windows and Linux. It includes a CPU recompiler, and emulates RDP with Vulkan (via parallel-RDP).
+* [Gopher64](https://github.com/gopher64/gopher64) - An N64 emulator written in Rust by the developer of Simple64, able to already play some commercial games at decent speeds!
+* [JG-CEN64](https://gitlab.com/jgemu/cen64) - A fork of CEN64 with many improvements, and with a jolly good frontend if you like as well!
 
 ### Works In Progress
 
 * [cor64](https://github.com/bryanperris/cor64) - An in-progress emulator written in C#
 * [Kaizen (previously Gadolinium)](https://github.com/mehmetpeker1/Kaizen) - Work-in-progress emulator written in C++, able to already play some commercial games and replay Mupen TAS movies
-* [Gopher64](https://github.com/gopher64/gopher64) - An N64 emulator written in Rust by the developer of Simple64, able to already play some commercial games at decent speeds!
+* [Dillonb's dgb-n64](https://github.com/Dillonb/n64) - A low-level, accurate N64 emulator for Windows and Linux. It includes a CPU recompiler, and emulates RDP with Vulkan (via parallel-RDP).
 
 ### Unmaintained
 
@@ -129,6 +129,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Nemu64](http://www.emulation64.com/files/info/202/nemu64.html/) - A closed-source emulator for Windows with fantastic debugging tools. Currently is incredibly difficult to run on modern Windows.
 * [UltraHLE](https://en.wikipedia.org/wiki/UltraHLE) - An early emulator for Windows. Though closed-source, [the source leaked in 2002](https://web.archive.org/web/20020812020546/http://www.emulation64.com/freeflow-page.html).
 * [Not64](https://github.com/extremscorner/not64) - A fork of Wii64
+* [simple64](https://simple64.github.io/) ([GitHub](https://github.com/simple64/simple64)) - A fork of Mupen64Plus that is easy to use and also more accurate.
 * [Surreal64](http://surreal64.sourceforge.net) and [Surreal64 CE](http://surreal64ce.wikidot.com) - An emulator for the original Xbox which includes ports of 1964, Project64, and UltraHLE
 * [TrueReality](https://sourceforge.net/projects/truereality/) - An open-source emulator
 * [r64emu](https://github.com/rasky/r64emu) - A N64 low-level emulator written in Rust
@@ -220,6 +221,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 
 ### ROM Manipulation
 
+* [Turtle64](https://github.com/DerekTurtleRoe/Turtle64) - A free and open-source N64 ROM information tool, inspired by romjudge and ROM64. It has a lot of other tools built-in as well!
 * [spicy](https://github.com/trhodeos/spicy) - An open-source replacement of the official SDK's `mild.exe` (referenced by `$(MAKEROM)` in many Makefiles). Packs object files into an N64-compatible ROM.
 * [makeromOpen](https://github.com/fraser125/makeromOpen) - Another open-source makerom replacement (work in progress)
 * [makemask](https://github.com/trhodeos/makemask) - An open-source replacement of the official SDK's `makemask.exe`. Adds a mask to a compiled ROM which pads the file to fill the entire cartridge space, adds a CIC version, and adds informational headers to the file. Typically run immediately after `mild.exe`. More on this tool at [N64Squid](https://n64squid.com/homebrew/n64-sdk/software/mipse-ultra-gcc/makemask/).
