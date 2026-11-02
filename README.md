@@ -333,6 +333,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Virtual Pro Wrestling 2: Ōdō Keishō](https://github.com/aki-club/vpw2) - An in-progress decompilation of _Virtual Pro Wrestling 2: Ōdō Keishō_
 * [Wave Race 64](https://github.com/LLONSIT/wave-race-64) - An in-progress decompilation of _Wave Race 64_
 * [Yoshi's Story](https://github.com/decompals/yoshis-story) - An in-progress decompilation of _Yoshi's Story_
+* [Rugrats: Scavenger Hunt](https://github.com/TheGh0stShip/Rugrats-Scavenger-Hunt) - A **complete** decompilation of _Rugrats: Scavenger Hunt_
 
 #### Other
 
