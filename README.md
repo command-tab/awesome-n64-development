@@ -306,6 +306,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [Mario Tennis](https://github.com/dellm-79/mariotennisn64) - An in-progress decompilation of _Mario Tennis_
 * [Mischief Makers](https://github.com/drahsid/mischief-makers) - An in-progress decompilation of _Mischief Makers_
 * [Mystical Ninja Starring Goemon](https://github.com/klorfmorf/mnsg) - An in-progress decompilation of _Mystical Ninja Starring Goemon_
+* [Nagano Winter Olympics '98](https://github.com/TheGh0stShip/Nagano-Winter-Olympics-98-N64) - A **complete** matching decompilation of the USA release of _Nagano Winter Olympics '98_
 * [Neon Genesis Evangelion 64](https://github.com/farisawan-2000/evangelion) - An in-progress decompilation of _Neon Genesis Evangelion 64_
 * [Onegai Monsters](https://github.com/ryan-myers/onegaimonsters) - An in-progress decompilation of _Onegai Monsters_
 * [Paper Mario](https://github.com/pmret/papermario) - A **complete** decompilation of _Paper Mario_
