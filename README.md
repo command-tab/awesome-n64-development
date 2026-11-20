@@ -112,6 +112,7 @@ A curated list of Nintendo 64 development resources including toolchains, docume
 * [ares](https://ares-emu.net) - A low-level, accurate multi-system emulator with good support for N64. Available in sources and binary distributions for Windows, Mac and Linux. It includes a CPU and RSP recompiler, and emulates RDP with Vulkan (via Parallel-RDP).
 * [Gopher64](https://github.com/gopher64/gopher64) - An N64 emulator written in Rust by the developer of Simple64, able to already play some commercial games at decent speeds!
 * [JG-CEN64](https://gitlab.com/jgemu/cen64) - A fork of CEN64 with many improvements, and with a jolly good frontend if you like as well!
+* [Our64](https://github.com/Ch0nbo/Our64) - A Nintendo 64 emulator for the Wii U, running natively under Aroma. It uses Not64's CPU recompiler and GLideN64's graphics with a new backend for the Wii U's GPU.
 
 ### Works In Progress
 
